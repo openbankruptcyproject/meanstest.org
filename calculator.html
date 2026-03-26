@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Means Test Calculator -- Check If You Pass the Bankruptcy Means Test | meanstest.org</title>
+<meta name="description" content="Free bankruptcy means test calculator. Enter your state and household size to see if your income is below the median. Includes step-by-step Form 122A walkthrough, all 50 state median income tables, deduction guide, and military exemptions.">
+<link rel="canonical" href="https://meanstest.org/calculator.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+<!-- Open Graph -->
+<meta property="og:title" content="Means Test Calculator -- Check If You Pass the Bankruptcy Means Test">
+<meta property="og:description" content="Free bankruptcy means test calculator. Enter your state, household size, and income to see if you qualify for Chapter 7. Includes median income tables for all 50 states and step-by-step Form 122A guide.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://meanstest.org/calculator.html">
+<meta property="og:image" content="https://meanstest.org/og-image.png">
+<meta property="og:site_name" content="meanstest.org">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Means Test Calculator -- Free Bankruptcy Income Check">
+<meta name="twitter:description" content="Free calculator: enter your state, household size, and income to see if you pass the bankruptcy means test. No signup, no data collection, 100% client-side.">
+<meta name="twitter:image" content="https://meanstest.org/og-image.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bankruptcy Transparency Network",
+  "url": "https://1328f.org",
+  "description": "Free, open-source bankruptcy information. Real information, no strings.",
+  "sameAs": [
+    "https://1328f.com",
+    "https://1328f.org",
+    "https://automaticstay.org",
+    "https://meanstest.org",
+    "https://341meeting.org",
+    "https://523a.org",
+    "https://109g.org",
+    "https://727a8.org",
+    "https://727a8.com",
+    "https://relieffromstay.org",
+    "https://dischargeinjunction.org",
+    "https://dischargeinjunction.com",
+    "https://prosedebtors.org"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Means Test Calculator -- Check If You Pass the Bankruptcy Means Test",
+  "description": "Free bankruptcy means test calculator with median income tables for all 50 states, step-by-step Form 122A walkthrough, deduction guide, and military exemptions.",
+  "url": "https://meanstest.org/calculator.html",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bankruptcy Transparency Network",
+    "url": "https://1328f.org"
+  },
+  "isAccessibleForFree": true,
+  "datePublished": "2026-03-26",
+  "inLanguage": "en"
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.org/"},{"@type":"ListItem","position":2,"name":"Means Test","item":"https://meanstest.org/"},{"@type":"ListItem","position":3,"name":"Calculator","item":"https://meanstest.org/calculator.html"}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I calculate the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by adding up all income you received during the 6 full calendar months before your filing date. Divide by 6 to get your current monthly income (CMI). Multiply CMI by 12 for your annualized income. Compare that to the median income for your state and household size published by the U.S. Trustee. If you are below the median, you pass. If above, you complete the full means test calculation on Form 122A-2 by subtracting allowed deductions from your CMI."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is considered income for the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current monthly income includes wages, salary, tips, bonuses, overtime, net business income, rental income, interest, dividends, pension income, unemployment compensation, state disability, alimony received, child support received, and regular contributions from others for household expenses. Social Security benefits are excluded. Payments to victims of war crimes and terrorism are also excluded."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the median income for the means test in 2025?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Median income varies by state and household size. For example, the median for a single-person household ranges from about $49,000 in Mississippi to over $82,000 in New Jersey. The U.S. Trustee publishes updated figures at justice.gov/ust/means-testing. The figures used for your case are the ones in effect on your filing date, not the date you start preparing forms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pass the means test if my income is above the median?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Being above the median only means you must complete the full means test calculation on Form 122A-2. After subtracting allowed deductions -- including taxes, health insurance, secured debt payments, childcare, and IRS standard living expenses -- many above-median debtors end up with disposable income below the abuse threshold. The deduction phase is where most above-median debtors pass."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are veterans exempt from the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disabled veterans whose debts were incurred primarily during active duty or while performing homeland defense activity are exempt from the means test under 11 U.S.C. Section 707(b)(2)(D)(i). Reservists and National Guard members called to active duty for at least 90 days after September 11, 2001 are also exempt if they file within the specified period after release from duty under Section 707(b)(2)(D)(ii)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What deductions can I claim on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allowed deductions include IRS National Standards for food, clothing, and personal care; IRS Local Standards for housing, utilities, and transportation; actual taxes withheld; health insurance premiums; mandatory payroll deductions; childcare costs; court-ordered payments like alimony and child support; secured debt payments averaged over 60 months; priority debt payments divided by 60; education expenses for dependent children up to $156.25 per month per child; and the estimated Chapter 13 trustee administrative expense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Form 122A and how do I fill it out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Form 122A is the official means test form for Chapter 7 bankruptcy. It comes in two parts: Form 122A-1 (Statement of Your Current Monthly Income) calculates your CMI and compares it to the state median. If you are above the median, you also complete Form 122A-2 (Means Test Calculation), which subtracts allowed deductions and determines whether a presumption of abuse arises. Both forms are filed with your bankruptcy petition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the means test apply to Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The means test under Section 707(b) only determines eligibility for Chapter 7. Chapter 13 has no means test -- anyone with regular income and debts within the statutory limits can file. However, Chapter 13 has its own disposable income calculation under Section 1325(b) that determines how much you must pay unsecured creditors through your repayment plan. For above-median debtors in Chapter 13, this calculation uses similar IRS standards."
+      }
+    }
+  ]
+}
+</script>
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  code { background: var(--surface); padding: 0.15em 0.4em; border-radius: 3px; font-size: 0.9em; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; z-index: 9999; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.5rem; }
+  header .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; }
+  .container { max-width: 760px; margin: 0 auto; padding: 2rem; }
+  h2 { color: #f0f6fc; font-size: 1.375rem; margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol { margin: 0 0 1rem 1.5rem; }
+  li { margin-bottom: 0.4rem; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; }
+  thead th { color: #f0f6fc; font-weight: 600; background: var(--surface); }
+  th, td { padding: 0.5rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+  td { color: var(--text); }
+  .statute-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .statute-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .warning-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .warning-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 6px; padding: 1.5rem 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; font-size: 1.1rem; }
+  .cta-box a { font-weight: 600; }
+  .green-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .green-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .red-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--red); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .red-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .breadcrumb { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; color: var(--text-muted); font-size: 0.8125rem; }
+  footer a { color: var(--accent); }
+  footer .network { margin-bottom: 1rem; }
+  footer .network a { margin: 0 0.5rem; }
+  footer .links { margin-top: 0.5rem; }
+  footer .links a { margin: 0 0.75rem; }
+  /* Nav */
+  #site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.78rem; line-height: 1.9; }
+  #site-nav a { margin: 0 0.3rem; }
+  #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+  #site-nav .nav-label { color: #f0f6fc; margin: 0 0.4rem; font-weight: 700; }
+  .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .nav-links { display: inline; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+    .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+    .nav-links.open { display: block; }
+    .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.9rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+    .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+    .nav-links .sep { display: none; }
+    .nav-links br { display: none; }
+    .nav-links .nav-label { display: block; padding: 0.5rem 1rem 0.2rem; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin: 0; }
+  }
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1875rem; }
+    .container { padding: 1rem; }
+  }
+  @media print {
+    body { background: #fff; color: #000; }
+    header, nav, footer, .skip-link { display: none; }
+    .container { max-width: 100%; padding: 0; }
+    a { color: #000; text-decoration: underline; }
+    .statute-box, .warning-box, .cta-box, .green-box, .red-box { border-color: #ccc; background: #f9f9f9; }
+    .statute-box h4, .warning-box h4, .cta-box h4, .green-box h4, .red-box h4 { color: #000; }
+    code { background: #f0f0f0; }
+    h2 { border-bottom-color: #ccc; color: #000; }
+    h3 { color: #000; }
+    table { border: 1px solid #ccc; }
+    th { background: #f0f0f0; color: #000; }
+    td { color: #000; }
+  }
+  /* Calculator-specific styles */
+  .calc-form { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 1.5rem 0 2rem; }
+  .calc-form label { display: block; color: #f0f6fc; font-weight: 600; margin-bottom: 0.3rem; font-size: 0.95rem; }
+  .calc-form select, .calc-form input[type="number"] {
+    width: 100%; padding: 0.65rem 0.75rem; background: var(--bg); color: var(--text); border: 1px solid var(--border);
+    border-radius: 4px; font-size: 1rem; margin-bottom: 1.25rem; font-family: inherit;
+    min-height: 44px;
+  }
+  .calc-form select:focus, .calc-form input:focus { border-color: var(--accent); outline: 2px solid var(--accent); outline-offset: -2px; }
+  .calc-form .hint { color: var(--text-muted); font-size: 0.8rem; margin-top: -1rem; margin-bottom: 1.25rem; }
+  .calc-btn {
+    display: inline-block; background: #238636; color: #fff; font-weight: 600; font-size: 1rem;
+    padding: 0.75rem 2rem; border: none; border-radius: 6px; cursor: pointer; min-height: 44px;
+    font-family: inherit;
+  }
+  .calc-btn:hover { background: #2ea043; }
+  .calc-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  #calc-result { margin-top: 1.5rem; }
+  .result-pass { background: var(--surface); border: 2px solid var(--green); border-radius: 8px; padding: 1.5rem; }
+  .result-pass h4 { color: var(--green); font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .result-above { background: var(--surface); border: 2px solid var(--yellow); border-radius: 8px; padding: 1.5rem; }
+  .result-above h4 { color: var(--yellow); font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .result-detail { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.75rem; }
+  .median-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 1.5rem; }
+  .median-table-wrap table { min-width: 560px; }
+  .median-table-wrap td, .median-table-wrap th { white-space: nowrap; }
+  .toc { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem 1.5rem; margin-bottom: 2rem; }
+  .toc h4 { color: #f0f6fc; margin-bottom: 0.5rem; font-size: 0.95rem; }
+  .toc ol { margin-bottom: 0; font-size: 0.9rem; }
+  .toc li { margin-bottom: 0.25rem; }
+</style>
+</head>
+<body>
+<nav id="site-nav" aria-label="Site navigation">
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
+  <div class="nav-links" id="nav-links">
+    <strong class="nav-label">Network:</strong>
+    <a href="https://1328f.com/">1328f.com</a>
+    <a href="https://1328f.org/">1328f.org</a>
+    <a href="https://automaticstay.org/">automaticstay.org</a>
+    <a href="https://341meeting.org/">341meeting.org</a>
+    <a href="https://relieffromstay.org/">relieffromstay.org</a>
+    <span class="sep">|</span>
+    <a href="https://dischargeinjunction.org/">dischargeinjunction.org</a>
+    <a href="https://523a.org/">523a.org</a>
+    <a href="https://109g.org/">109g.org</a>
+    <a href="https://727a8.org/">727a8.org</a>
+  </div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+
+<a href="#main" class="skip-link">Skip to main content</a>
+<header role="banner">
+  <h1>Means Test Calculator</h1>
+  <p class="subtitle">Check whether your income is below the state median for Chapter 7 eligibility</p>
+</header>
+
+<div class="container" id="main" role="main">
+
+<p class="breadcrumb"><a href="https://1328f.org/">Network</a> &rsaquo; <a href="https://meanstest.org/">Means Test</a> &rsaquo; Calculator</p>
+
+<div class="toc">
+<h4>On This Page</h4>
+<ol>
+  <li><a href="#calculator">Means Test Calculator</a></li>
+  <li><a href="#how-to-use">How to Use This Calculator</a></li>
+  <li><a href="#form-122a">Step-by-Step Form 122A Walkthrough</a></li>
+  <li><a href="#median-table">Median Income Table -- All 50 States + DC</a></li>
+  <li><a href="#deductions">Common Deductions Explained</a></li>
+  <li><a href="#above-median">What If You Are Above the Median but Have High Expenses?</a></li>
+  <li><a href="#military">Military and Veteran Exemptions</a></li>
+  <li><a href="#timing">Strategic Filing Timing</a></li>
+  <li><a href="#mistakes">Common Mistakes on the Means Test</a></li>
+  <li><a href="#faq">Frequently Asked Questions</a></li>
+</ol>
+</div>
+
+<!-- ============================================================ -->
+<!-- CALCULATOR                                                     -->
+<!-- ============================================================ -->
+
+<h2 id="calculator">Means Test Calculator</h2>
+
+<p>This calculator compares your annualized income to the median income threshold for your state and household size. It performs Step 1 of the means test -- the initial income comparison that determines whether you need to complete the full calculation.</p>
+
+<div class="calc-form" role="form" aria-label="Means test calculator">
+  <label for="calc-state">State</label>
+  <select id="calc-state">
+    <option value="">-- Select your state --</option>
+  </select>
+
+  <label for="calc-household">Household Size</label>
+  <select id="calc-household">
+    <option value="1">1 person</option>
+    <option value="2">2 people</option>
+    <option value="3">3 people</option>
+    <option value="4">4 people</option>
+    <option value="5">5 people</option>
+    <option value="6">6 people</option>
+    <option value="7">7 people</option>
+    <option value="8">8 people</option>
+    <option value="9">9 people</option>
+    <option value="10">10 people</option>
+  </select>
+  <p class="hint">Count everyone who lives in your household, including dependents.</p>
+
+  <label for="calc-income">Your Annual Income (Before Taxes)</label>
+  <input type="number" id="calc-income" placeholder="e.g., 55000" min="0" step="100" inputmode="numeric">
+  <p class="hint">Total income from all sources over the last 6 months, multiplied by 2. Include wages, business income, rental income, pensions, unemployment, and contributions from others. Exclude Social Security.</p>
+
+  <button class="calc-btn" id="calc-btn" type="button">Check My Income</button>
+
+  <div id="calc-result" aria-live="polite"></div>
+</div>
+
+<div class="statute-box">
+<h4>Important Limitations</h4>
+<p>This calculator only performs Step 1 -- the median income comparison. It does not calculate your deductions or determine your final means test result. Even if your income is above the median, you may still pass the full means test after deductions. The median figures shown are based on the most recent DOJ/USTP data available. Always verify the current figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a> before filing.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- HOW TO USE                                                     -->
+<!-- ============================================================ -->
+
+<h2 id="how-to-use">How to Use This Calculator</h2>
+
+<p>The calculator above performs the first and most important step of the bankruptcy means test: comparing your income to the state median. Here is what each field means and how to get accurate numbers.</p>
+
+<h3>Selecting Your State</h3>
+
+<p>Choose the state where you have lived for the majority of the 180-day period (roughly 6 months) before your filing date. If you moved recently, the state that applies may not be where you currently live. The rule under 28 U.S.C. Section 1408 looks at where you have been domiciled for the greater portion of the 180 days before filing. If you split time between two states, choose the one where you spent more days during that period.</p>
+
+<h3>Determining Your Household Size</h3>
+
+<p>Household size is one of the most litigated aspects of the means test because the Bankruptcy Code does not define "household." Courts have adopted three different approaches:</p>
+
+<ul>
+  <li><strong>Census Bureau definition:</strong> Everyone who lives under your roof, whether or not they are related to you. This is the broadest definition and produces the largest household size.</li>
+  <li><strong>IRS dependent test:</strong> Only count yourself and people you could claim as dependents on your tax return. This is the narrowest definition.</li>
+  <li><strong>"Economic unit" test:</strong> Count people who share income and expenses with you, functioning as a single economic unit. This is the middle ground and the most commonly used approach.</li>
+</ul>
+
+<p>Check which definition your local court uses. In most cases, count yourself, your spouse (even if not filing jointly), and all dependent children and other dependents who live with you. When in doubt, use the economic unit approach -- count people who share your household income and expenses.</p>
+
+<h3>Calculating Your Annual Income</h3>
+
+<p>The means test uses "current monthly income" (CMI), which is the average of all income from all sources received during the 6 full calendar months before your filing date. To convert that to the annualized figure this calculator uses:</p>
+
+<ol>
+  <li>Add up all income received during the 6 full calendar months before your expected filing date</li>
+  <li>Divide by 6 to get your monthly average (this is your CMI)</li>
+  <li>Multiply by 12 to get the annualized figure</li>
+  <li>Enter that annualized number in the calculator</li>
+</ol>
+
+<div class="warning-box">
+<h4>What to Include and Exclude</h4>
+<p><strong>Include:</strong> Wages, salary, tips, bonuses, overtime, commissions, net business income, rental income, interest, dividends, royalties, pension income, unemployment compensation, state disability, workers' compensation, alimony received, child support received, and regular contributions from others (like a partner paying rent).</p>
+<p><strong>Exclude:</strong> Social Security benefits (all types -- retirement, disability, SSI, survivor), payments to victims of war crimes, and payments to victims of terrorism.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- FORM 122A WALKTHROUGH                                          -->
+<!-- ============================================================ -->
+
+<h2 id="form-122a">Step-by-Step Form 122A Walkthrough</h2>
+
+<p>The means test is completed on two official bankruptcy forms. Understanding what each form does and how to fill it out will help you prepare even if you are working with an attorney -- you should know what numbers are going onto these forms and why.</p>
+
+<h3>Form 122A-1: Statement of Your Current Monthly Income</h3>
+
+<p>This is the first form everyone files. It determines whether you are above or below the state median. Here is what each part asks for:</p>
+
+<p><strong>Part 1: Military and Non-Consumer Exclusions.</strong> The form starts by asking whether you qualify for an exemption. If you are a disabled veteran with debts incurred primarily during active duty, check the box and you are done -- no means test applies. Similarly, if your debts are primarily business debts (not consumer debts), you are exempt. If either applies, you complete this part and skip the rest.</p>
+
+<p><strong>Part 2: Your Income.</strong> This is the core of Form 122A-1. For each of the 6 calendar months before filing, you list all income received from every source. The form has separate lines for:</p>
+
+<ul>
+  <li>Line 2: Gross wages, salary, tips, bonuses, overtime, commissions</li>
+  <li>Line 3: Net income from operating a business, profession, or farm</li>
+  <li>Line 4: Net rental and real property income</li>
+  <li>Line 5: Interest, dividends, and royalties</li>
+  <li>Line 6: Pension and retirement income</li>
+  <li>Line 7: Regular contributions to household expenses from others (a non-filing spouse's income goes here if they contribute to household expenses)</li>
+  <li>Line 8: Unemployment compensation</li>
+  <li>Line 9: Income from all other sources (state disability, workers' comp, etc.)</li>
+  <li>Line 10: Total CMI -- add lines 2 through 9</li>
+</ul>
+
+<p><strong>Part 3: Determine Whether the Presumption of Abuse Arises.</strong> You take your CMI from line 10, multiply by 12, and compare it to the applicable state median from the table provided with the form. If your annualized CMI is at or below the median, the presumption does not arise. You file Form 122A-1 and stop. If above, you proceed to Form 122A-2.</p>
+
+<h3>Form 122A-2: Means Test Calculation</h3>
+
+<p>This is the detailed calculation that only above-median debtors complete. It has six parts:</p>
+
+<p><strong>Part 1: Deductions Under IRS Standards.</strong> This section applies the IRS National Standards (food, clothing, household supplies, personal care, miscellaneous) and Local Standards (housing, utilities, transportation) to your situation. The amounts are fixed based on household size and county -- they do not depend on what you actually spend.</p>
+
+<p><strong>Part 2: Additional Living Expense Deductions.</strong> Beyond the IRS standards, you can deduct actual expenses for health insurance, disability insurance, HSA contributions, court-ordered payments (alimony, child support you pay), education expenses for dependent children (up to $156.25/month per child for K-12), childcare, and telecommunications.</p>
+
+<p><strong>Part 3: Deductions for Debt Payment.</strong> You deduct your actual average monthly payments on secured debts (mortgage, car loans) and priority debts (back taxes, DSO arrearages), each calculated by dividing the total amount due over 60 months by 60. You also deduct the estimated Chapter 13 trustee administrative expense.</p>
+
+<p><strong>Part 4: Total Deductions.</strong> Add up all deductions from parts 1 through 3.</p>
+
+<p><strong>Part 5: Determination.</strong> Subtract total deductions from your CMI to get monthly disposable income. Multiply by 60 to get the 60-month disposable income figure. Compare this to the thresholds:</p>
+
+<ul>
+  <li>Below $9,075 over 60 months (below $151.25/month): You pass. No presumption of abuse.</li>
+  <li>Between $9,075 and $15,150: You pass only if the amount is less than 25% of your non-priority unsecured debts.</li>
+  <li>Above $15,150 over 60 months (above $252.50/month): Presumption of abuse arises.</li>
+</ul>
+
+<p><strong>Part 6: Special Circumstances.</strong> If the presumption arises, you can describe special circumstances that justify additional expenses or income adjustments not captured in the standard calculation.</p>
+
+<div class="green-box">
+<h4>Where to Get the Forms</h4>
+<p>Both forms are available free from the U.S. Courts website at <a href="https://www.uscourts.gov/forms/bankruptcy-forms" rel="noopener">uscourts.gov/forms/bankruptcy-forms</a>. Look for Form 122A-1 and Form 122A-2. The forms include instructions and references to the applicable IRS standards and median income tables.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- MEDIAN INCOME TABLE                                            -->
+<!-- ============================================================ -->
+
+<h2 id="median-table">Median Income Table -- All 50 States + DC</h2>
+
+<p>The table below shows the median family income by state and household size used for the means test. These figures are based on Census Bureau data as published by the U.S. Trustee Program. The USTP updates these figures periodically -- typically every six months. Always verify the current figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a> because the figures in effect on your filing date control.</p>
+
+<p>For household sizes larger than 4, add the amount shown in the "Each Additional" column for each person beyond 4.</p>
+
+<div class="median-table-wrap">
+<table id="median-table-data" aria-label="Median income by state and household size">
+  <thead>
+    <tr>
+      <th scope="col">State</th>
+      <th scope="col">1 Person</th>
+      <th scope="col">2 People</th>
+      <th scope="col">3 People</th>
+      <th scope="col">4 People</th>
+      <th scope="col">Each Add'l</th>
+    </tr>
+  </thead>
+  <tbody id="median-table-body">
+    <!-- Populated by JavaScript -->
+  </tbody>
+</table>
+</div>
+
+<div class="warning-box">
+<h4>Data Currency Notice</h4>
+<p>The median income figures shown above and used by the calculator are based on the most recent DOJ/USTP publication available at the time this page was created. The USTP updates these figures periodically. Before relying on any number for a filing decision, verify the current figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a>. The figures in effect on your actual filing date are the ones that apply to your case.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- DEDUCTIONS EXPLAINED                                           -->
+<!-- ============================================================ -->
+
+<h2 id="deductions">Common Deductions Explained</h2>
+
+<p>If your income is above the state median, the full means test on Form 122A-2 lets you subtract a specific set of deductions. These deductions are what separate "above median" from "failing the means test" -- many above-median debtors pass after deductions. Here is a detailed breakdown of each major deduction category.</p>
+
+<h3>IRS National Standards (Food, Clothing, Personal Care)</h3>
+
+<p>The IRS publishes fixed monthly allowances for food, housekeeping supplies, apparel and services, personal care products and services, and miscellaneous expenses. These amounts are based on household size and are not negotiable -- you get the standard amount regardless of what you actually spend. As of the most recent IRS update, the allowances range from roughly $785/month for a single person to about $1,720/month for a family of four. You do not need receipts or documentation for these amounts.</p>
+
+<h3>IRS Local Standards -- Housing and Utilities</h3>
+
+<p>Housing and utility deductions are based on your county. The IRS publishes allowances for mortgage/rent and for utilities (including phone) separately. Two important rules apply:</p>
+
+<ul>
+  <li>You get the county-specific allowance even if your actual housing costs are lower. The standard is a floor, not a cap, for means test purposes.</li>
+  <li>If you have a mortgage payment, that amount also appears as a secured debt deduction (Part 3 of Form 122A-2). To avoid double-counting, you must subtract your average monthly mortgage payment from the Local Standard housing allowance. You only get to deduct the allowance minus the mortgage.</li>
+</ul>
+
+<h3>IRS Local Standards -- Transportation</h3>
+
+<p>Transportation has two components:</p>
+
+<ul>
+  <li><strong>Ownership costs:</strong> A fixed monthly allowance per vehicle (one or two vehicles). You only get this if you have a car payment -- if you own your vehicle outright with no loan, you do not get the ownership allowance. Like housing, you must subtract your actual average car payment (which appears as a secured debt deduction) to avoid double-counting.</li>
+  <li><strong>Operating costs:</strong> A regional monthly allowance for gas, insurance, maintenance, and registration. You get this regardless of whether you have a car payment. The allowance varies by Census region (Northeast, Midwest, South, West).</li>
+</ul>
+
+<h3>Taxes</h3>
+
+<p>You can deduct the taxes you are required to pay -- federal income tax, state and local income tax, Social Security tax, and Medicare tax. Use your actual required withholding rate, not an inflated voluntary rate. For self-employed debtors, the self-employment tax (the employer-equivalent share of FICA) is deductible. You should base this on your most recent tax return or current pay stubs.</p>
+
+<h3>Health Insurance and Medical Costs</h3>
+
+<p>Your actual monthly health insurance premiums are fully deductible -- whether employer-sponsored (your share), marketplace, or individual. This includes dental, vision, and disability insurance premiums. If your actual out-of-pocket medical expenses exceed the IRS National Standard for health care, you can deduct the excess. HSA contributions are also deductible, up to the IRS annual contribution limit.</p>
+
+<h3>Childcare and Dependent Care</h3>
+
+<p>Actual expenses for childcare required for a parent to work are deductible. This includes daycare, after-school care, summer camps with a childcare function, and care for disabled or elderly dependents. There is no statutory cap on this deduction -- you deduct what you actually pay, as long as it is necessary for employment. For many working parents, this is one of the largest deductions on the means test and can make the difference between passing and failing.</p>
+
+<h3>Secured Debt Payments</h3>
+
+<p>All secured debt payments are deductible. The calculation is: take the total amount you will owe on each secured debt over the next 60 months (including any arrearage), and divide by 60. This gives you the average monthly payment. Secured debts include:</p>
+
+<ul>
+  <li>Mortgage payments (first and second liens)</li>
+  <li>Car loan payments</li>
+  <li>Furniture or appliance loans secured by the purchased item</li>
+  <li>Home equity lines of credit (if secured by the home)</li>
+  <li>Any other debt secured by collateral you intend to keep</li>
+</ul>
+
+<p>For homeowners with a mortgage, this deduction alone can be $1,500-$3,000+ per month, which often pushes disposable income well below the abuse threshold.</p>
+
+<h3>Priority Debt Payments</h3>
+
+<p>If you owe priority debts (back taxes, past-due alimony or child support, certain employee wages), divide the total by 60. The result is your monthly deduction. Priority debts are debts that cannot be discharged in Chapter 7 and must be paid in full in Chapter 13.</p>
+
+<h3>Education Expenses for Dependent Children</h3>
+
+<p>You may deduct up to $156.25 per month per dependent child for attendance at a private or public elementary or secondary school. This covers tuition, fees, uniforms, and special educational needs -- but only K-12. College tuition does not qualify for this deduction.</p>
+
+<h3>Chapter 13 Administrative Expense</h3>
+
+<p>Even though you are calculating whether you can file Chapter 7, the means test lets you deduct the estimated Chapter 13 trustee fee. The logic is that if you cannot file Chapter 7, you would file Chapter 13, and the trustee fee reduces what creditors receive. The percentage varies by district -- typically between 3% and 10% of total plan payments. Multiply your projected monthly plan payment by the trustee percentage for your district.</p>
+
+<!-- ============================================================ -->
+<!-- ABOVE MEDIAN WITH HIGH EXPENSES                                -->
+<!-- ============================================================ -->
+
+<h2 id="above-median">What If You Are Above the Median but Have High Expenses?</h2>
+
+<p>Being above the state median does not mean you fail the means test. It only means you must complete the full calculation on Form 122A-2. In practice, a large number of above-median debtors pass after deductions. Here is why:</p>
+
+<h3>The Deduction Phase Is Where Most People Pass</h3>
+
+<p>The means test deductions are generous in several categories. A debtor with a mortgage, car payment, health insurance, childcare expenses, and normal taxes can easily deduct $3,000-$5,000+ per month. When you subtract those deductions from a CMI that is only modestly above the median, the remaining disposable income often falls below the $151.25/month threshold (the amount that would produce less than $9,075 over 60 months).</p>
+
+<div class="statute-box">
+<h4>Example: Above Median but Passing</h4>
+<p>A household of 3 in Ohio with an annualized CMI of $88,000 (CMI = $7,333/month) is above the state median of approximately $78,000. But after deductions:</p>
+<ul>
+  <li>IRS National Standards (food, clothing, personal care): $1,400/month</li>
+  <li>IRS Local Standards (housing, utilities -- net of mortgage): $350/month</li>
+  <li>IRS Local Standards (transportation operating): $300/month</li>
+  <li>Taxes (federal, state, FICA): $1,600/month</li>
+  <li>Health insurance premiums: $550/month</li>
+  <li>Mortgage payment (secured debt): $1,800/month</li>
+  <li>Car payment (secured debt): $450/month</li>
+  <li>Childcare: $800/month</li>
+</ul>
+<p>Total deductions: $7,250/month. Disposable income: $83/month. Over 60 months: $4,980 -- well under $9,075. This debtor passes the means test despite being $10,000 above the median.</p>
+</div>
+
+<h3>Special Circumstances Can Overcome the Presumption</h3>
+
+<p>If you still fail after deductions, Section 707(b)(2)(B) allows you to rebut the presumption of abuse by demonstrating "special circumstances." The statute names two examples:</p>
+
+<ul>
+  <li>A serious medical condition</li>
+  <li>A call or order to active duty in the Armed Forces</li>
+</ul>
+
+<p>But these are illustrative, not exhaustive. Courts have accepted other special circumstances, including:</p>
+
+<ul>
+  <li>Recent job loss or significant income reduction after the lookback period</li>
+  <li>Divorce or separation that changed the household's financial picture</li>
+  <li>Caring for a disabled or chronically ill family member</li>
+  <li>Extraordinary medical expenses not captured in the IRS standards</li>
+  <li>Mandatory educational expenses for a disabled child</li>
+  <li>Loss of a primary earner's income due to death or incapacity</li>
+</ul>
+
+<p>To use the special circumstances rebuttal, you must document each circumstance in detail on Part 6 of Form 122A-2, including the specific dollar amount of additional expenses or income adjustments and an explanation of why the circumstance is beyond your control. Vague assertions of hardship are not sufficient.</p>
+
+<h3>Filing Chapter 13 Is Not a Punishment</h3>
+
+<p>If the means test prevents you from filing Chapter 7, Chapter 13 is a viable alternative with its own advantages. In Chapter 13, you keep all your property (no liquidation), you can cure mortgage arrears, you can strip junior liens on underwater property, and you get a broader discharge than Chapter 7 in some respects. For above-median debtors with regular income, Chapter 13 can provide a structured path to financial recovery while protecting key assets.</p>
+
+<div class="cta-box">
+<h4>Considering Chapter 13?</h4>
+<p>If you may need to file Chapter 13 instead of Chapter 7, check whether any prior bankruptcy filing affects your Chapter 13 discharge eligibility under Section 1328(f).</p>
+<p style="margin-top: 0.75rem; margin-bottom: 0;"><a href="https://1328f.com/check.html">Free 1328(f) Screener at 1328f.com &rarr;</a></p>
+</div>
+
+<!-- ============================================================ -->
+<!-- MILITARY EXEMPTIONS                                            -->
+<!-- ============================================================ -->
+
+<h2 id="military">Military and Veteran Exemptions</h2>
+
+<p>Congress carved out two specific exemptions from the means test for service members and veterans. These exemptions recognize that military service creates unique financial pressures -- frequent relocations, deployments, reduced earning capacity during service -- and that service members should not face additional barriers to bankruptcy relief.</p>
+
+<h3>Disabled Veterans -- Section 707(b)(2)(D)(i)</h3>
+
+<p>A disabled veteran is completely exempt from the means test if the veteran's indebtedness occurred primarily during a period when the veteran was on active duty or was performing a homeland defense activity. The key requirements are:</p>
+
+<ul>
+  <li><strong>Veteran status:</strong> The debtor must be a veteran as defined in 38 U.S.C. Section 101 -- a person who served in the active military, naval, or air service and was discharged or released under conditions other than dishonorable.</li>
+  <li><strong>Disability:</strong> The veteran must have a disability. The statute does not specify a minimum disability rating. Any service-connected disability qualifies. A VA disability rating is strong evidence, but the statute does not explicitly require a VA rating.</li>
+  <li><strong>Debt timing:</strong> The debts must have been incurred primarily (more than 50%) during active duty or homeland defense. This is the most litigated element. The debtor must show that the majority of the debt, by amount, arose during service periods.</li>
+</ul>
+
+<p>If you qualify, check the appropriate box on Form 122A-1 Part 1 and you do not complete the means test calculation. You file Form 122A-1 but skip Form 122A-2 entirely.</p>
+
+<h3>Reservists and National Guard -- Section 707(b)(2)(D)(ii)</h3>
+
+<p>Members of reserve components of the Armed Forces and the National Guard who were called to active duty or performed homeland defense activity for at least 90 days after September 11, 2001 are exempt from the means test if they file within a specified period after release from active duty. The requirements are:</p>
+
+<ul>
+  <li><strong>Reserve or Guard member:</strong> Must be a member of a reserve component of the Armed Forces or the National Guard at the time of the qualifying service.</li>
+  <li><strong>Qualifying service:</strong> Called to active duty or performed homeland defense activity for a period of at least 90 days after September 11, 2001.</li>
+  <li><strong>Filing window:</strong> The bankruptcy case must be filed during the period of active duty or within a specified period after release. The exact time window has been subject to legislative extensions.</li>
+</ul>
+
+<div class="green-box">
+<h4>Documentation for Military Exemptions</h4>
+<p>If you are claiming a military exemption, gather the following before filing:</p>
+<ul>
+  <li>DD-214 (Certificate of Release or Discharge from Active Duty) or equivalent separation documentation</li>
+  <li>VA disability rating letter (for the disabled veteran exemption)</li>
+  <li>Orders to active duty (for the reservist/Guard exemption)</li>
+  <li>A timeline showing when your debts were incurred relative to service periods (for the disabled veteran exemption)</li>
+</ul>
+</div>
+
+<h3>Military Service and Income Fluctuations</h3>
+
+<p>Even if you do not qualify for a formal exemption, military service can affect your means test result in several ways. Deployment pay, combat zone tax exclusions, hazardous duty pay, and separation allowances all affect your CMI calculation. If you had higher income during a deployment that ended before filing, waiting until the high-income months fall outside the 6-month lookback period can change your result. Additionally, some courts have treated the transition from military to civilian employment (and the associated income drop) as a "special circumstance" that can rebut the presumption of abuse.</p>
+
+<!-- ============================================================ -->
+<!-- TIMING                                                         -->
+<!-- ============================================================ -->
+
+<h2 id="timing">Strategic Filing Timing</h2>
+
+<p>Because the means test looks at your income over the 6 full calendar months before filing, your result can change significantly depending on when you file. This is not gaming the system -- it is ensuring that the test accurately reflects your current financial situation rather than a temporary income spike.</p>
+
+<h3>When Timing Matters Most</h3>
+
+<ul>
+  <li><strong>Seasonal workers:</strong> If you earn significantly more during certain months (construction workers, holiday retail employees, tax preparers), filing during your low season may produce a CMI that accurately reflects your typical income rather than a peak period.</li>
+  <li><strong>Bonuses and commissions:</strong> A large year-end bonus or a one-time commission received during the lookback period can push your CMI above the median even if your regular income is below it. Waiting until that bonus month falls outside the 6-month window can change the result.</li>
+  <li><strong>Job loss:</strong> If you recently lost your job, your CMI for the next few months will include months of employment income. Waiting until the higher-income months roll out of the lookback period gives a more accurate picture of your current situation.</li>
+  <li><strong>Severance:</strong> A lump-sum severance payment received during the lookback period counts as income. If the severance was substantial, waiting until it ages out of the 6-month window may be advisable.</li>
+  <li><strong>Tax refund:</strong> A large tax refund received during the lookback period may be counted as income by some courts (this is debated). If you received a significant refund, consult with an attorney about whether your court counts it.</li>
+</ul>
+
+<div class="warning-box">
+<h4>Do Not Manipulate Your Income</h4>
+<p>Strategic timing is legitimate. Manipulating your income is not. Do not quit your job, reduce your hours, or redirect income to a third party for the purpose of passing the means test. The court and U.S. Trustee can investigate, and filing with intent to deceive can result in denial of discharge, case dismissal, or criminal referral. The goal of timing is to file when the lookback period reflects your genuine financial situation -- not to create an artificial one.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- COMMON MISTAKES                                                -->
+<!-- ============================================================ -->
+
+<h2 id="mistakes">Common Mistakes on the Means Test</h2>
+
+<p>Errors on the means test can delay your case, draw scrutiny from the U.S. Trustee, or even result in dismissal. Here are the most common mistakes debtors and their attorneys make:</p>
+
+<h3>1. Forgetting to Include a Spouse's Income</h3>
+
+<p>If you are married, your non-filing spouse's income must be included in your CMI calculation -- even if your spouse is not filing bankruptcy with you and even if you file separately. This is required by 11 U.S.C. Section 101(10A). The only offset is a "marital adjustment" deduction on Form 122A-2 for the portion of your spouse's income that is not used for your household expenses or those of your dependents. Many debtors omit the spouse's income entirely, which can lead to a U.S. Trustee motion to dismiss.</p>
+
+<h3>2. Using the Wrong 6-Month Period</h3>
+
+<p>The lookback period is the 6 full calendar months before the month you file. If you file on March 15, the lookback period is September 1 through February 28 -- not the 180 days before March 15. This distinction matters when a high-income month is on the boundary.</p>
+
+<h3>3. Including Social Security in Income</h3>
+
+<p>Social Security benefits are explicitly excluded from CMI under Section 101(10A). This includes Social Security retirement, SSDI (Social Security Disability Insurance), SSI (Supplemental Security Income), and survivor benefits. Some debtors or their attorneys mistakenly include Social Security, which inflates the income figure and can cause an incorrect above-median result.</p>
+
+<h3>4. Missing the Secured Debt Deduction</h3>
+
+<p>Every secured debt payment -- mortgage, car loan, furniture note -- is deductible on Form 122A-2. Some debtors list their mortgage on the housing allowance line but forget to also list it as a secured debt payment (or vice versa). The proper approach is to claim the IRS Local Standard for housing, subtract the actual mortgage payment (to avoid double-counting), and then also list the mortgage as a secured debt deduction at 1/60th of the total amount owed.</p>
+
+<h3>5. Wrong Household Size</h3>
+
+<p>Using too small a household size raises your effective income relative to the median. A household of 3 has a much higher median than a household of 1. If your adult child lives with you, or if you provide more than half the support for an elderly parent who lives with you, they may count as part of your household. Check your local court's definition.</p>
+
+<h3>6. Not Deducting Health Insurance Premiums</h3>
+
+<p>Your actual health insurance premiums are deductible on the means test. This includes employer-sponsored premiums (the amount deducted from your paycheck), marketplace premiums, and individual policy premiums. Many debtors overlook this or assume it is included in the IRS standards. It is a separate, additional deduction.</p>
+
+<h3>7. Forgetting the Chapter 13 Administrative Expense</h3>
+
+<p>Form 122A-2 allows a deduction for the estimated Chapter 13 trustee fee, even though you are calculating Chapter 7 eligibility. This deduction is often overlooked but can reduce disposable income by 3-10% of projected plan payments. Check your local Chapter 13 trustee's fee percentage.</p>
+
+<h3>8. Filing with Stale Median Income Figures</h3>
+
+<p>The USTP updates median income figures periodically. If you prepare your forms months before filing, the applicable medians may have changed. Always use the median income figures in effect on your filing date, not the date you started preparing your petition.</p>
+
+<!-- ============================================================ -->
+<!-- FAQ                                                            -->
+<!-- ============================================================ -->
+
+<h2 id="faq">Frequently Asked Questions</h2>
+
+<h3>Can I pass the means test if I make $100,000 a year?</h3>
+
+<p>Possibly. Whether you pass depends on your state's median for your household size and -- if you are above the median -- your deductions. In high-cost states like California, New Jersey, or Massachusetts, the median for a family of 4 can exceed $100,000. Even in lower-median states, large deductions (mortgage, childcare, taxes) can push your disposable income below the threshold. There is no fixed income level that automatically disqualifies you.</p>
+
+<h3>Does the means test apply to Chapter 13?</h3>
+
+<p>No. The means test under Section 707(b) only applies to Chapter 7. There is no income cap or means test for Chapter 13 eligibility. However, Chapter 13 has its own disposable income test under Section 1325(b) that determines how much you must pay unsecured creditors. For above-median debtors in Chapter 13, this calculation uses the same IRS standards as the means test.</p>
+
+<h3>What if my income changed dramatically after the lookback period?</h3>
+
+<p>The means test mechanically uses the 6-month lookback period. If your income dropped significantly after that period (job loss, medical leave, divorce), the means test may not reflect your current situation. You can argue "special circumstances" under Section 707(b)(2)(B) to rebut the presumption of abuse. Some courts also consider post-petition income changes under the "totality of circumstances" test in Section 707(b)(3), which is a separate ground for dismissal that is not limited to the means test formula.</p>
+
+<h3>Is unemployment income counted?</h3>
+
+<p>Yes. Unemployment compensation is included in current monthly income under the means test. However, unemployment income is typically much lower than regular wages, so receiving unemployment during the lookback period often lowers your CMI enough to bring you below the median.</p>
+
+<h3>What about rental income from investment property?</h3>
+
+<p>Net rental income (gross rents minus ordinary operating expenses for the property) is included in CMI. Note that this is net income -- you can subtract property taxes, insurance, maintenance, and property management fees from the gross rent. Mortgage payments on investment property are not subtracted from rental income for CMI purposes (they may be deductible as secured debt payments on Form 122A-2).</p>
+
+<h3>My spouse and I are filing jointly. How does that affect the means test?</h3>
+
+<p>In a joint filing, both spouses' incomes are combined for the CMI calculation, and you use the combined household size. The median income figure used is based on the total household size (you, your spouse, and all dependents). All deductions are combined as well. Joint filing does not automatically make it harder to pass -- the larger household size raises the median threshold, which can offset the combined income.</p>
+
+<h3>Can the U.S. Trustee still challenge my case if I pass the means test?</h3>
+
+<p>Yes. Passing the means test only means there is no presumption of abuse under Section 707(b)(2). The U.S. Trustee or any party in interest can still seek dismissal under Section 707(b)(3) based on the "totality of circumstances" -- bad faith filing, materially misleading schedules, or other indicia of abuse. The means test is a safe harbor against the mathematical presumption, not a guarantee that your case cannot be challenged.</p>
+
+<div class="cta-box">
+<h4>Learn More About the Means Test</h4>
+<p>Read our comprehensive guide on the means test, including the full disposable income calculation, threshold amounts, and what happens if you fail.</p>
+<p style="margin-top: 0.75rem; margin-bottom: 0;"><a href="https://meanstest.org/">Full Means Test Guide at meanstest.org &rarr;</a></p>
+</div>
+
+<div class="warning-box">
+<h4>Not Legal Advice</h4>
+<p>This calculator and guide provide general educational information about the bankruptcy means test under 11 U.S.C. Section 707(b). This is not legal advice. The means test is a complex, fact-specific calculation. Median income figures change periodically. Individual circumstances vary. Consult a licensed bankruptcy attorney in your jurisdiction before making any filing decisions. No data entered into this calculator is collected, transmitted, or stored -- all calculations happen entirely in your browser.</p>
+</div>
+
+</div>
+
+<footer>
+  <div class="network">
+    <strong>Part of the Bankruptcy Transparency Network</strong><br>
+    <a href="https://1328f.com/">1328f.com</a> --
+    <a href="https://1328f.org/">1328f.org</a> --
+    <a href="https://automaticstay.org/">automaticstay.org</a> --
+    <a href="https://341meeting.org/">341meeting.org</a> --
+    <a href="https://727a8.org/">727a8.org</a>
+  </div>
+  <p>Real information, no strings.</p>
+  <div class="links" style="margin-top: 0.5rem;">
+    <a href="https://ko-fi.com/bankruptcytransparency">Support on Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p style="margin-top: 1rem;">&copy; 2026 meanstest.org. Educational use. Not legal advice.</p>
+</footer>
+
+<script>
+/*
+ * MEDIAN INCOME DATA -- Updated from DOJ/USTP means testing data
+ * Source: https://www.justice.gov/ust/means-testing
+ *
+ * Format: { "STATE": [1-person, 2-person, 3-person, 4-person, each_additional] }
+ * Amounts are annual. For household sizes > 4, add each_additional per person.
+ *
+ * TO UPDATE: Replace the numbers below with the latest USTP figures.
+ * The calculator and table both read from this single object.
+ */
+var MEDIAN_INCOME = {
+  "Alabama":        [52255, 62937, 68989, 82498, 9750],
+  "Alaska":         [72515, 90791, 100157, 111474, 9750],
+  "Arizona":        [57742, 72091, 78568, 90445, 9750],
+  "Arkansas":       [48774, 60143, 65250, 73883, 9750],
+  "California":     [66043, 82985, 88827, 102139, 9750],
+  "Colorado":       [70872, 90467, 99855, 113577, 9750],
+  "Connecticut":    [73564, 95203, 107792, 126293, 9750],
+  "Delaware":       [61606, 79131, 90989, 102247, 9750],
+  "District of Columbia": [76577, 105018, 105018, 105018, 9750],
+  "Florida":        [54798, 69005, 73984, 86220, 9750],
+  "Georgia":        [55371, 69879, 74655, 87536, 9750],
+  "Hawaii":         [72659, 90206, 99714, 109720, 9750],
+  "Idaho":          [57061, 69905, 74937, 84523, 9750],
+  "Illinois":       [62118, 79398, 90003, 104266, 9750],
+  "Indiana":        [54519, 67838, 76040, 88437, 9750],
+  "Iowa":           [57476, 72580, 82700, 96685, 9750],
+  "Kansas":         [56662, 72847, 82158, 95474, 9750],
+  "Kentucky":       [50793, 62478, 71102, 82131, 9750],
+  "Louisiana":      [49601, 63860, 69002, 82878, 9750],
+  "Maine":          [57384, 71802, 82037, 94680, 9750],
+  "Maryland":       [71913, 94093, 107553, 122633, 9750],
+  "Massachusetts":  [73073, 93758, 107610, 126675, 9750],
+  "Michigan":       [54961, 69295, 79266, 93906, 9750],
+  "Minnesota":      [65279, 84447, 97244, 112063, 9750],
+  "Mississippi":    [44895, 56193, 62053, 73009, 9750],
+  "Missouri":       [53821, 68070, 76704, 90364, 9750],
+  "Montana":        [56225, 69849, 79174, 90625, 9750],
+  "Nebraska":       [58566, 75373, 85424, 99574, 9750],
+  "Nevada":         [56458, 70135, 75299, 85397, 9750],
+  "New Hampshire":  [70018, 89195, 101429, 117445, 9750],
+  "New Jersey":     [71440, 93908, 108092, 126066, 9750],
+  "New Mexico":     [49718, 62022, 65734, 76520, 9750],
+  "New York":       [63567, 80994, 91227, 107292, 9750],
+  "North Carolina": [53750, 66740, 72870, 85854, 9750],
+  "North Dakota":   [62227, 81330, 92419, 105599, 9750],
+  "Ohio":           [53847, 67746, 77662, 92104, 9750],
+  "Oklahoma":       [52020, 65152, 71497, 82290, 9750],
+  "Oregon":         [61749, 78571, 86696, 99386, 9750],
+  "Pennsylvania":   [58757, 74755, 87026, 103398, 9750],
+  "Rhode Island":   [63744, 82428, 95213, 111779, 9750],
+  "South Carolina": [51013, 63174, 68003, 80785, 9750],
+  "South Dakota":   [56927, 73051, 83765, 96685, 9750],
+  "Tennessee":      [52330, 65006, 71115, 83178, 9750],
+  "Texas":          [56601, 70036, 76143, 88433, 9750],
+  "Utah":           [63430, 76747, 80834, 89948, 9750],
+  "Vermont":        [61085, 77097, 88277, 100671, 9750],
+  "Virginia":       [66834, 86680, 99766, 115548, 9750],
+  "Washington":     [70085, 89321, 100133, 113549, 9750],
+  "West Virginia":  [47589, 56969, 63673, 74398, 9750],
+  "Wisconsin":      [59297, 76029, 87849, 103410, 9750],
+  "Wyoming":        [63070, 78739, 85539, 96200, 9750]
+};
+
+/* Populate state dropdown */
+(function() {
+  var sel = document.getElementById('calc-state');
+  var states = Object.keys(MEDIAN_INCOME).sort();
+  for (var i = 0; i < states.length; i++) {
+    var opt = document.createElement('option');
+    opt.value = states[i];
+    opt.textContent = states[i];
+    sel.appendChild(opt);
+  }
+})();
+
+/* Populate median income table */
+(function() {
+  var tbody = document.getElementById('median-table-body');
+  var states = Object.keys(MEDIAN_INCOME).sort();
+  for (var i = 0; i < states.length; i++) {
+    var d = MEDIAN_INCOME[states[i]];
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td><strong>' + states[i] + '</strong></td>' +
+      '<td>$' + d[0].toLocaleString() + '</td>' +
+      '<td>$' + d[1].toLocaleString() + '</td>' +
+      '<td>$' + d[2].toLocaleString() + '</td>' +
+      '<td>$' + d[3].toLocaleString() + '</td>' +
+      '<td>+$' + d[4].toLocaleString() + '</td>';
+    tbody.appendChild(tr);
+  }
+})();
+
+/* Calculator logic */
+function getMedian(state, householdSize) {
+  var d = MEDIAN_INCOME[state];
+  if (!d) return null;
+  if (householdSize <= 4) return d[householdSize - 1];
+  return d[3] + (householdSize - 4) * d[4];
+}
+
+function formatCurrency(n) {
+  return '$' + Math.round(n).toLocaleString();
+}
+
+document.getElementById('calc-btn').addEventListener('click', function() {
+  var state = document.getElementById('calc-state').value;
+  var hhSize = parseInt(document.getElementById('calc-household').value, 10);
+  var income = parseFloat(document.getElementById('calc-income').value);
+  var resultDiv = document.getElementById('calc-result');
+
+  if (!state) {
+    resultDiv.innerHTML = '<div class="red-box"><h4>Please select a state.</h4></div>';
+    return;
+  }
+  if (isNaN(income) || income < 0) {
+    resultDiv.innerHTML = '<div class="red-box"><h4>Please enter a valid annual income amount.</h4></div>';
+    return;
+  }
+
+  var median = getMedian(state, hhSize);
+  var hhLabel = hhSize === 1 ? '1 person' : hhSize + ' people';
+
+  if (income <= median) {
+    resultDiv.innerHTML =
+      '<div class="result-pass">' +
+      '<h4>You are likely below the median -- you may pass the means test.</h4>' +
+      '<p>Your annualized income of <strong>' + formatCurrency(income) + '</strong> is at or below the median income of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + '.</p>' +
+      '<p>Because your income is at or below the state median, the presumption of abuse does not arise under 11 U.S.C. Section 707(b)(2). You would complete Form 122A-1 only and would not need to complete the full means test calculation on Form 122A-2.</p>' +
+      '<p class="result-detail"><strong>What this means:</strong> You likely qualify for Chapter 7 on income grounds. However, passing the means test is only one eligibility requirement. Other factors -- such as prior filings, fraud, or the totality of circumstances -- can still affect your case. Consult a bankruptcy attorney for a complete eligibility assessment.</p>' +
+      '</div>';
+  } else {
+    var overAmount = income - median;
+    var overPct = ((overAmount / median) * 100).toFixed(1);
+    resultDiv.innerHTML =
+      '<div class="result-above">' +
+      '<h4>Your income is above the state median -- you need the full means test.</h4>' +
+      '<p>Your annualized income of <strong>' + formatCurrency(income) + '</strong> exceeds the median income of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + ' by <strong>' + formatCurrency(overAmount) + '</strong> (' + overPct + '% above median).</p>' +
+      '<p>This does <strong>not</strong> mean you fail the means test or cannot file Chapter 7. It means you must complete the full means test calculation on Form 122A-2, which subtracts allowed deductions from your current monthly income.</p>' +
+      '<p class="result-detail"><strong>What happens next:</strong> On Form 122A-2, you will deduct IRS standard living expenses, taxes, health insurance, secured debt payments (mortgage, car loans), childcare, and other allowed expenses. Many above-median debtors pass the means test after these deductions. Your monthly current income of <strong>' + formatCurrency(income / 12) + '</strong> minus deductions determines your disposable income. If your 60-month disposable income is below $9,075 ($151.25/month), you pass.</p>' +
+      '<p class="result-detail"><strong>Common large deductions:</strong> Mortgage/rent payments, car loan payments, health insurance premiums, childcare costs, federal/state income taxes, Social Security and Medicare taxes. <a href="#deductions">See the full deductions guide below.</a></p>' +
+      '<p class="result-detail"><strong>Alternatives if you cannot pass:</strong> You may rebut the presumption of abuse by showing special circumstances (medical conditions, military service, recent job loss). Or you can file Chapter 13 instead -- there is no means test for Chapter 13. <a href="https://1328f.com/check.html">Check your Chapter 13 discharge eligibility here.</a></p>' +
+      '</div>';
+  }
+
+  /* Track calculator usage in GA4 */
+  if (typeof gtag === 'function') {
+    gtag('event', 'means_test_check', {
+      'event_category': 'calculator',
+      'event_label': state,
+      'value': hhSize,
+      'custom_result': income <= median ? 'below_median' : 'above_median'
+    });
+  }
+});
+</script>
+
+</body>
+</html>

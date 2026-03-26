@@ -1,0 +1,20 @@
+# meanstest.org
+
+> Plain-English guide to the bankruptcy means test under 11 U.S.C. Section 707(b). Learn how the income test works, what deductions you can claim, and what happens if you fail.
+
+## About
+
+meanstest.org provides a comprehensive guide to the bankruptcy means test, the income-based eligibility test under 11 U.S.C. Section 707(b) that determines whether a debtor qualifies for Chapter 7 bankruptcy. The site covers how the test calculates current monthly income against state median income, allowable deductions, what happens if you fail the means test, and alternatives including Chapter 13. Available in both English and Spanish.
+
+## Key Pages
+
+- [Home](https://meanstest.org/): Full guide to the means test -- income calculation, deductions, pass/fail thresholds, and Chapter 13 alternatives
+- [Spanish Version](https://meanstest.org/index-es.html): Guide in Spanish (La prueba de medios)
+
+## Network
+
+Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "meanstest.org, Bankruptcy Transparency Network (2026)."
