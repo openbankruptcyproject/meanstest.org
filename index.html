@@ -15,6 +15,8 @@
 <title>The Bankruptcy Means Test -- Do You Qualify for Chapter 7? | meanstest.org</title>
 <meta name="description" content="Plain-English guide to the bankruptcy means test under 11 U.S.C. Section 707(b). Learn how the income test works, what deductions you can claim, and what happens if you fail.">
 <link rel="canonical" href="https://meanstest.org/">
+<link rel="alternate" hreflang="en" href="https://meanstest.org/">
+<link rel="alternate" hreflang="es" href="https://meanstest.org/index-es.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#0d1117">
@@ -103,6 +105,10 @@
   #site-nav a { margin: 0 0.3rem; }
   #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
   #site-nav .nav-label { color: #f0f6fc; margin: 0 0.4rem; font-weight: 700; }
+  .lang-toggle { color: var(--text-muted); font-size: 0.85rem; border-left: 1px solid var(--border); padding-left: 0.75rem; margin-left: 0.5rem; display: inline; }
+  .lang-toggle a { color: var(--text-muted); font-weight: 600; }
+  .lang-toggle a:hover { color: var(--accent); }
+  .lang-toggle .current { color: var(--accent); font-weight: 700; }
   .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
   .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   .nav-links { display: inline; }
@@ -115,6 +121,7 @@
     .nav-links .sep { display: none; }
     .nav-links br { display: none; }
     .nav-links .nav-label { display: block; padding: 0.5rem 1rem 0.2rem; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin: 0; }
+    .lang-toggle { display: block; padding: 0.6rem 1rem; border-left: none; border-top: 1px solid #21262d; margin-left: 0; }
   }
   @media (max-width: 600px) {
     header { padding: 1.5rem 1rem; }
@@ -230,6 +237,7 @@
     <a href="https://523a.org/">523a.org</a>
     <a href="https://109g.org/">109g.org</a>
     <a href="https://727a8.org/">727a8.org</a>
+    <span class="lang-toggle"><span class="current">EN</span> | <a href="https://meanstest.org/index-es.html">ES</a></span>
   </div>
 </nav>
 <script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
