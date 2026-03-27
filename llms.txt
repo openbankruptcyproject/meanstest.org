@@ -2,7 +2,7 @@
 
 > Plain-English guide to the bankruptcy means test under 11 U.S.C. Section 707(b).
 
-meanstest.org is a free, open-source educational resource about the bankruptcy means test. Part of the Bankruptcy Transparency Network.
+meanstest.org is a free, open-source educational resource about the bankruptcy means test. Part of the Open Bankruptcy Project.
 
 ## Pages
 
