@@ -4,16 +4,23 @@
 
 ## About
 
-meanstest.org provides a comprehensive guide to the bankruptcy means test, the income-based eligibility test under 11 U.S.C. Section 707(b) that determines whether a debtor qualifies for Chapter 7 bankruptcy. The site covers how the test calculates current monthly income against state median income, allowable deductions, what happens if you fail the means test, and alternatives including Chapter 13. Available in both English and Spanish.
+meanstest.org provides a comprehensive guide to the bankruptcy means test, the income-based eligibility test under 11 U.S.C. Section 707(b) that determines whether a debtor qualifies for Chapter 7 bankruptcy. The site covers how the test calculates current monthly income against state median income, allowable deductions, what happens if you fail the means test, and alternatives including Chapter 13. Includes a free calculator and median income tables for all 50 states. Available in both English and Spanish.
 
 ## Key Pages
 
-- [Home](https://meanstest.org/): Full guide to the means test -- income calculation, deductions, pass/fail thresholds, and Chapter 13 alternatives
+- [Home](https://meanstest.org/): Overview of the means test with links to all topics
+- [How It Works](https://meanstest.org/how-it-works.html): The two-step process -- income vs. median comparison and disposable income calculation
+- [Median Income Tables](https://meanstest.org/median-income.html): Current Census Bureau median income by state and household size
+- [Deductions](https://meanstest.org/deductions.html): IRS National Standards, Local Standards, and actual expense deductions explained
+- [What If You Fail](https://meanstest.org/what-if-you-fail.html): Presumption of abuse, rebutting it, military exemptions, Chapter 13 alternative
+- [Calculator](https://meanstest.org/calculator.html): Free means test calculator -- enter state, household size, income
+- [Chapter 13 Means Test](https://meanstest.org/chapter-13-means-test.html): How income determines plan length (3 vs. 5 years)
+- [Common Mistakes](https://meanstest.org/common-mistakes.html): Errors that change your result -- wrong household size, Social Security, missed deductions
 - [Spanish Version](https://meanstest.org/index-es.html): Guide in Spanish (La prueba de medios)
 
 ## Network
 
-Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+Part of the Bankruptcy Transparency Network (https://meanstest.org). Free, open-source bankruptcy information.
 
 ## Citation
 

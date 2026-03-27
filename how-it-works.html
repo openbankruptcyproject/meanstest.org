@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How the Means Test Works -- The Two-Step Process | meanstest.org</title>
+<meta name="description" content="Step-by-step walkthrough of the bankruptcy means test. Step 1: compare your income to the state median. Step 2: if above, calculate disposable income with allowed deductions. Plain English, no jargon.">
+<link rel="canonical" href="https://meanstest.org/how-it-works.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<meta property="og:title" content="How the Means Test Works -- The Two-Step Process">
+<meta property="og:description" content="Step-by-step walkthrough of the bankruptcy means test under 11 U.S.C. Section 707(b). Income comparison, disposable income calculation, and what happens at each stage.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://meanstest.org/how-it-works.html">
+<meta property="og:site_name" content="meanstest.org">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="How the Means Test Works -- The Two-Step Process">
+<meta name="twitter:description" content="Step-by-step walkthrough of the bankruptcy means test. Income comparison, disposable income calculation, and what happens at each stage.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the means test work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test is a two-step process. Step 1: calculate your average monthly income over the past 6 months and compare it to the median income for your state and household size. If you are at or below the median, you pass. Step 2: if you are above the median, subtract allowed deductions (IRS standards, taxes, health insurance, secured debt payments, etc.) from your income. If your remaining disposable income is below the threshold, you pass. If not, a presumption of abuse arises."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is current monthly income (CMI) for the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current monthly income is the average of all income from all sources received during the 6 full calendar months before the bankruptcy filing date. It includes wages, business income, rental income, pensions, unemployment, and regular contributions from others. Social Security benefits are excluded. The CMI is annualized (multiplied by 12) for comparison to the state median."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Social Security income counted on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Social Security benefits of any kind -- retirement, disability (SSDI), survivors benefits, SSI -- are completely excluded from the means test calculation. If Social Security is your primary or only income source, you will almost certainly pass the means test automatically."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 6-month lookback period?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test looks at your income during the 6 full calendar months before your filing date. For example, if you file on March 15, the lookback covers September 1 through February 28. The month you file in does not count. This means a temporary spike in income (bonus, overtime, seasonal work) will affect your calculation, but only for the months it falls within."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://meanstest.org/"},{"@type":"ListItem","position":2,"name":"How It Works","item":"https://meanstest.org/how-it-works.html"}]}
+</script>
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; z-index: 9999; }
+  #site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.85rem; line-height: 1.9; }
+  #site-nav a { margin: 0 0.4rem; }
+  #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+  #site-nav .site-brand { color: #f0f6fc; font-weight: 700; font-size: 1rem; margin-right: 0.75rem; text-decoration: none; }
+  .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .nav-links { display: inline; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+    .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+    .nav-links.open { display: block; }
+    .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.9rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+    .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+    .nav-links .sep { display: none; }
+  }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.5rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; }
+  .container { max-width: 760px; margin: 0 auto; padding: 2rem; }
+  .breadcrumb { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  h2 { color: #f0f6fc; font-size: 1.375rem; margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol { margin: 0 0 1rem 1.5rem; }
+  li { margin-bottom: 0.4rem; }
+  .statute-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .statute-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .green-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .green-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .warning-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .warning-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .red-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--red); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .red-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 6px; padding: 1.5rem 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; font-size: 1.1rem; }
+  .example-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid #a371f7; border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .example-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; color: var(--text-muted); font-size: 0.8125rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1875rem; }
+    .container { padding: 1rem; }
+  }
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+
+<nav id="site-nav" aria-label="Site navigation">
+  <a href="/" class="site-brand">meanstest.org</a>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="/how-it-works.html">How It Works</a>
+    <a href="/median-income.html">Income Tables</a>
+    <a href="/deductions.html">Deductions</a>
+    <a href="/what-if-you-fail.html">Failed?</a>
+    <a href="/chapter-13-means-test.html">Ch. 13</a>
+    <a href="/common-mistakes.html">Mistakes</a>
+    <span class="sep">|</span>
+    <a href="/calculator.html" style="color:#3fb950;font-weight:600">Calculator</a>
+  </div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+
+<header role="banner">
+  <h1>How the Means Test Works</h1>
+  <p class="subtitle">A two-step process that compares your income to the state median and, if needed, calculates your disposable income</p>
+</header>
+
+<div class="container" id="main" role="main">
+
+<p class="breadcrumb"><a href="/">Home</a> &rsaquo; How It Works</p>
+
+<p>If you are considering Chapter 7 bankruptcy, the means test is the first hurdle. It sounds intimidating, but it is a mechanical formula -- not a judgment of character. It simply asks whether your income is low enough to qualify for Chapter 7, or whether you should be in Chapter 13 instead.</p>
+
+<p>The test is filed on <strong>Official Form 122A</strong> with your bankruptcy petition. Here is how each step works.</p>
+
+<h2>Step 1: Compare Your Income to the State Median</h2>
+
+<h3>Calculate Your Current Monthly Income (CMI)</h3>
+
+<p>Current monthly income is not just your paycheck. It is the average of <strong>all income from all sources</strong> that you received during the 6 full calendar months before your filing date.</p>
+
+<div class="example-box">
+<h4>Example: The 6-Month Lookback</h4>
+<p>If you file on March 15, the lookback period covers <strong>September 1 through February 28</strong>. The month you actually file in does not count. Add up every dollar of income from those 6 months, then divide by 6 to get your CMI.</p>
+</div>
+
+<h3>What Counts as Income</h3>
+
+<ul>
+  <li><strong>Wages, salary, tips, bonuses, overtime, and commissions</strong></li>
+  <li><strong>Net business income</strong> (gross revenue minus ordinary business expenses)</li>
+  <li><strong>Rental and real property income</strong></li>
+  <li><strong>Interest, dividends, and royalties</strong></li>
+  <li><strong>Pension and retirement income</strong></li>
+  <li><strong>Unemployment compensation</strong></li>
+  <li><strong>State disability insurance</strong></li>
+  <li><strong>Regular contributions from others</strong> for household expenses (a partner paying half the rent counts)</li>
+  <li><strong>Alimony and child support received</strong></li>
+</ul>
+
+<div class="green-box">
+<h4>What Does NOT Count</h4>
+<p><strong>Social Security benefits</strong> of any kind are excluded from CMI -- retirement, SSDI, survivors benefits, SSI. So are payments to victims of war crimes, international terrorism, and domestic terrorism.</p>
+<p>If Social Security is your primary income, you will almost certainly pass the means test. This is one of the most important exclusions in the calculation.</p>
+</div>
+
+<h3>The Median Income Comparison</h3>
+
+<p>Once you have your CMI, multiply it by 12 to get an annualized figure. Then compare it to the <strong>median income for your state and household size</strong>. The U.S. Trustee Program publishes these figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust</a>, updated roughly every six months based on Census Bureau data.</p>
+
+<div class="statute-box">
+<h4>Below Median = Automatic Pass</h4>
+<p>If your annualized CMI is at or below the state median for your household size, the presumption of abuse does not arise. You qualify for Chapter 7 on income grounds. You still file Form 122A-1, but you do <strong>not</strong> need to complete Form 122A-2. For most filers, this is where the means test ends.</p>
+</div>
+
+<p>See <a href="/median-income.html">current median income figures for all 50 states</a>.</p>
+
+<h2>Step 2: Calculate Disposable Income (Above-Median Only)</h2>
+
+<p>If your income exceeds the state median, you must calculate your "disposable income" -- your CMI minus a specific set of allowed deductions. This is where Form 122A-2 comes in.</p>
+
+<p>The deductions are <strong>not based on what you actually spend</strong> in most categories. Most are based on IRS standards and fixed allowances. This can work for or against you -- if your actual expenses are lower than the standards, you benefit. If higher, you are limited to the standard amount (with a few exceptions).</p>
+
+<h3>Types of Deductions</h3>
+
+<ul>
+  <li><strong>IRS National Standards</strong> -- fixed amounts for food, clothing, and personal care based on household size</li>
+  <li><strong>IRS Local Standards</strong> -- amounts for housing/utilities and transportation based on your county and region</li>
+  <li><strong>Actual expenses</strong> -- taxes, health insurance, secured debt payments, childcare, and other specific categories where you deduct what you actually pay</li>
+</ul>
+
+<p>For a detailed breakdown of every deduction category, see <a href="/deductions.html">Means Test Deductions Explained</a>.</p>
+
+<h3>The 60-Month Projection</h3>
+
+<p>After subtracting all allowed deductions from your CMI, you have your monthly disposable income. The test projects this over 60 months (5 years) to determine how much you could hypothetically repay unsecured creditors.</p>
+
+<div class="warning-box">
+<h4>The Abuse Thresholds</h4>
+<ul>
+  <li><strong>60-month disposable income below $9,075</strong> (less than $151.25/month) -- You pass. No presumption of abuse.</li>
+  <li><strong>Between $9,075 and $15,150</strong> ($151.25 to $252.50/month) -- You pass only if the amount is less than 25% of your non-priority unsecured debts. Otherwise, presumption of abuse arises.</li>
+  <li><strong>$15,150 or more</strong> ($252.50+/month) -- Presumption of abuse. You fail the means test.</li>
+</ul>
+<p><em>These thresholds are adjusted periodically. Check the current figures on the most recent version of Form 122A-2 or the U.S. Trustee's website.</em></p>
+</div>
+
+<h2>A Complete Example</h2>
+
+<div class="example-box">
+<h4>Meet Sarah -- Household of 3 in Ohio</h4>
+<p>Sarah earns $4,200/month gross. She also receives $300/month in child support. No other income.</p>
+<ul>
+  <li><strong>CMI:</strong> $4,200 + $300 = $4,500/month</li>
+  <li><strong>Annualized:</strong> $4,500 x 12 = $54,000</li>
+  <li><strong>Ohio median for household of 3:</strong> approximately $78,000</li>
+  <li><strong>Result:</strong> $54,000 is well below the median. Sarah passes at Step 1. She files Form 122A-1 only and qualifies for Chapter 7.</li>
+</ul>
+</div>
+
+<div class="example-box">
+<h4>Meet James -- Household of 2 in California</h4>
+<p>James and his wife have combined income of $8,500/month ($102,000 annualized). The California median for household of 2 is approximately $83,000. James is above the median and must complete Step 2.</p>
+<ul>
+  <li><strong>CMI:</strong> $8,500/month</li>
+  <li><strong>IRS food/clothing allowance:</strong> -$1,100</li>
+  <li><strong>Housing/utilities (LA County standard):</strong> -$2,400</li>
+  <li><strong>Transportation (ownership + operating):</strong> -$800</li>
+  <li><strong>Taxes (federal + state + FICA):</strong> -$2,200</li>
+  <li><strong>Health insurance:</strong> -$450</li>
+  <li><strong>Car loan payment (60-month average):</strong> -$500</li>
+  <li><strong>Monthly disposable income:</strong> $8,500 - $7,450 = $1,050</li>
+  <li><strong>60-month total:</strong> $1,050 x 60 = $63,000</li>
+  <li><strong>Result:</strong> $63,000 exceeds $15,150. Presumption of abuse arises. James should consider <a href="/what-if-you-fail.html">his options</a>.</li>
+</ul>
+<p><em>Note: these numbers are illustrative. Actual IRS standards and deductions vary by location, household size, and individual circumstances.</em></p>
+</div>
+
+<h2>Timing Matters</h2>
+
+<p>Because the means test uses a 6-month average, your result can change depending on <strong>when</strong> you file. If you received a large bonus, worked overtime, or had seasonal income during the lookback period, waiting a few months can significantly lower your CMI.</p>
+
+<p>This is not gaming the system. It is filing at a time that accurately reflects your current financial situation. Many attorneys advise clients on optimal filing timing based on their income history.</p>
+
+<div class="green-box">
+<h4>Strategic Timing Examples</h4>
+<ul>
+  <li>You received a $10,000 severance in January. If you file in July, that income is outside the lookback period (January through June file = July through December lookback).</li>
+  <li>You worked holiday overtime in November and December. Filing in July instead of April means those high-income months drop out of your 6-month average.</li>
+  <li>You lost your job 3 months ago. The sooner you file, the more the higher-income months weigh in your average. Waiting means more low-income months in the calculation.</li>
+</ul>
+</div>
+
+<h2>What Happens After the Means Test</h2>
+
+<p>The means test is one gate, not the only gate. Even if you pass, the court can still dismiss your case for abuse under the "totality of the circumstances" standard in Section 707(b)(3). This is rare, but it can happen if the court believes you are abusing the system despite passing the mechanical test.</p>
+
+<p>And if you do not pass, you still have options. See <a href="/what-if-you-fail.html">What Happens If You Fail the Means Test</a>.</p>
+
+<div class="cta-box">
+<h4>Check Where You Stand</h4>
+<p>Enter your state, household size, and income to see whether you are above or below the state median.</p>
+<p style="margin-top:0.75rem;margin-bottom:0"><a href="/calculator.html" style="font-weight:600">Use the Free Calculator &rarr;</a></p>
+</div>
+
+<div class="warning-box">
+<h4>Not Legal Advice</h4>
+<p>This page provides general educational information about the bankruptcy means test under 11 U.S.C. Section 707(b). It is not legal advice. Consult a licensed bankruptcy attorney for advice on your specific situation.</p>
+</div>
+
+</div>
+
+<footer>
+  <div style="margin-bottom:1rem">
+    <a href="/">Home</a> &middot;
+    <a href="/how-it-works.html">How It Works</a> &middot;
+    <a href="/median-income.html">Income Tables</a> &middot;
+    <a href="/deductions.html">Deductions</a> &middot;
+    <a href="/what-if-you-fail.html">Failed?</a> &middot;
+    <a href="/calculator.html">Calculator</a>
+  </div>
+  <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:1rem auto">
+    <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations fund PACER access fees.</p>
+    <a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
+  </div>
+  <p style="margin-top:1rem">&copy; 2026 meanstest.org. Not legal advice.</p>
+</footer>
+
+</body>
+</html>
