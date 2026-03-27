@@ -1,27 +1,21 @@
 # meanstest.org
 
-> Plain-English guide to the bankruptcy means test under 11 U.S.C. Section 707(b). Learn how the income test works, what deductions you can claim, and what happens if you fail.
+> Plain-English guide to the bankruptcy means test under 11 U.S.C. Section 707(b).
 
-## About
+meanstest.org is a free, open-source educational resource about the bankruptcy means test. Part of the Bankruptcy Transparency Network.
 
-meanstest.org provides a comprehensive guide to the bankruptcy means test, the income-based eligibility test under 11 U.S.C. Section 707(b) that determines whether a debtor qualifies for Chapter 7 bankruptcy. The site covers how the test calculates current monthly income against state median income, allowable deductions, what happens if you fail the means test, and alternatives including Chapter 13. Includes a free calculator and median income tables for all 50 states. Available in both English and Spanish.
+## Pages
 
-## Key Pages
+- https://meanstest.org/: Overview of the means test and links to all topics
+- https://meanstest.org/how-it-works.html: The two-step means test process -- income vs. median and disposable income
+- https://meanstest.org/median-income.html: Current Census Bureau median income by state and household size
+- https://meanstest.org/deductions.html: IRS National Standards, Local Standards, and actual expense deductions
+- https://meanstest.org/what-if-you-fail.html: Presumption of abuse, rebutting it, military exemptions, Chapter 13 alternative
+- https://meanstest.org/calculator.html: Free means test calculator -- enter state, household size, income
+- https://meanstest.org/chapter-13-means-test.html: How income determines Chapter 13 plan length (3 vs. 5 years)
+- https://meanstest.org/common-mistakes.html: Common means test errors that change your result
+- https://meanstest.org/index-es.html: Guia en espanol -- La prueba de medios
 
-- [Home](https://meanstest.org/): Overview of the means test with links to all topics
-- [How It Works](https://meanstest.org/how-it-works.html): The two-step process -- income vs. median comparison and disposable income calculation
-- [Median Income Tables](https://meanstest.org/median-income.html): Current Census Bureau median income by state and household size
-- [Deductions](https://meanstest.org/deductions.html): IRS National Standards, Local Standards, and actual expense deductions explained
-- [What If You Fail](https://meanstest.org/what-if-you-fail.html): Presumption of abuse, rebutting it, military exemptions, Chapter 13 alternative
-- [Calculator](https://meanstest.org/calculator.html): Free means test calculator -- enter state, household size, income
-- [Chapter 13 Means Test](https://meanstest.org/chapter-13-means-test.html): How income determines plan length (3 vs. 5 years)
-- [Common Mistakes](https://meanstest.org/common-mistakes.html): Errors that change your result -- wrong household size, Social Security, missed deductions
-- [Spanish Version](https://meanstest.org/index-es.html): Guide in Spanish (La prueba de medios)
+## Contact
 
-## Network
-
-Part of the Bankruptcy Transparency Network (https://meanstest.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "meanstest.org, Bankruptcy Transparency Network (2026)."
+This site is maintained by volunteers. No legal advice is provided.
