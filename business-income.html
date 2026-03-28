@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Self-Employed Means Test -- Business Expenses and Chapter 7 Eligibility | meanstest.org</title>
+<meta name="description" content="How the bankruptcy means test works for self-employed people, freelancers, and business owners. Business expenses reduce your current monthly income. Learn the 6-month lookback, strategic timing, and Form 122A-2 calculations.">
+<link rel="canonical" href="https://meanstest.org/business-income.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<meta property="og:title" content="Self-Employed Means Test -- Business Expenses and Chapter 7 Eligibility">
+<meta property="og:description" content="How the bankruptcy means test works for self-employed people, freelancers, and business owners. Business expenses, strategic timing, and the 6-month lookback.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://meanstest.org/business-income.html">
+<meta property="og:site_name" content="meanstest.org">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Self-Employed Means Test -- Business Expenses and Chapter 7 Eligibility">
+<meta name="twitter:description" content="How the bankruptcy means test works for self-employed people, freelancers, and business owners. Business expenses, strategic timing, and the 6-month lookback.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the means test work for self-employed people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Self-employed filers include their gross business revenue in current monthly income (CMI), but legitimate business expenses are subtracted before the means test calculation. The CMI is based on the 6 full calendar months before filing. For self-employed people with variable income, the timing of the filing can significantly affect the result. Schedule I (income) and Schedule J (expenses) provide additional context beyond the means test formula."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I use gross or net business income on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You start with gross business revenue, then subtract ordinary and necessary business expenses to arrive at your net business income. It is the net figure -- not the gross -- that counts toward your current monthly income on Form 122A-1. This is consistent with how income is reported on Schedule I, where self-employed debtors report gross receipts minus business expenses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I time my filing for when income is low?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, strategic timing is a legitimate consideration. The means test uses a 6-month lookback period -- the 6 full calendar months before filing. If your income fluctuates seasonally or you have had a recent downturn, filing at the right time can lower your CMI. However, the totality of circumstances test under Section 707(b)(3) means the court can still scrutinize your filing if it appears timed to manipulate the results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What business expenses can I deduct on the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ordinary and necessary business expenses are deducted from gross business revenue before calculating current monthly income. This includes cost of goods sold, rent, utilities, supplies, insurance, equipment maintenance, vehicle expenses related to the business, subcontractor payments, business-related travel, professional licenses, and similar operating costs. Personal expenses are not deductible as business expenses."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; z-index: 9999; }
+  #site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.85rem; line-height: 1.9; }
+  #site-nav a { margin: 0 0.4rem; }
+  #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+  #site-nav .site-brand { color: #f0f6fc; font-weight: 700; font-size: 1rem; margin-right: 0.75rem; text-decoration: none; }
+  .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .nav-links { display: inline; }
+  .lang-toggle { color: var(--text-muted); font-size: 0.85rem; border-left: 1px solid var(--border); padding-left: 0.75rem; margin-left: 0.5rem; display: inline; }
+  .lang-toggle a { color: var(--text-muted); font-weight: 600; }
+  .lang-toggle a:hover { color: var(--accent); }
+  .lang-toggle .current { color: var(--accent); font-weight: 700; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+    .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+    .nav-links.open { display: block; }
+    .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.9rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+    .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+    .nav-links .sep { display: none; }
+    .lang-toggle { display: block; padding: 0.6rem 1rem; border-left: none; border-top: 1px solid #21262d; margin-left: 0; }
+  }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.5rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; }
+  .container { max-width: 760px; margin: 0 auto; padding: 2rem; }
+  .breadcrumb { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  h2 { color: #f0f6fc; font-size: 1.375rem; margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol { margin: 0 0 1rem 1.5rem; }
+  li { margin-bottom: 0.4rem; }
+  .statute-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .statute-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .green-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .green-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .warning-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .warning-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .red-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--red); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .red-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .cta-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin: 2rem 0; }
+  .cta-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .steps { counter-reset: step; list-style: none; margin: 1.5rem 0; padding: 0; }
+  .steps li { counter-increment: step; position: relative; padding-left: 3rem; margin-bottom: 1.25rem; }
+  .steps li::before { content: counter(step); position: absolute; left: 0; top: 0.1rem; width: 2rem; height: 2rem; background: var(--surface); border: 2px solid var(--accent); border-radius: 50%; text-align: center; line-height: 1.75rem; font-weight: 700; color: var(--accent); font-size: 0.9rem; }
+  .steps li strong { color: #f0f6fc; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; color: var(--text-muted); font-size: 0.8125rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    .container { padding: 1rem; }
+    h2 { font-size: 1.1875rem; }
+  }
+  @media print {
+    body { background: #fff; color: #000; }
+    header, nav, footer, .skip-link { display: none; }
+    .container { max-width: 100%; padding: 0; }
+    a { color: #000; text-decoration: underline; }
+  }
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+
+<nav id="site-nav" aria-label="Site navigation">
+  <a href="/" class="site-brand">meanstest.org</a>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="/how-it-works.html">How It Works</a>
+    <a href="/median-income.html">Income Tables</a>
+    <a href="/deductions.html">Deductions</a>
+    <a href="/what-if-you-fail.html">Failed?</a>
+    <a href="/chapter-13-means-test.html">Ch. 13</a>
+    <a href="/common-mistakes.html">Mistakes</a>
+    <a href="/above-median-income.html">Above Median</a>
+    <span class="sep">|</span>
+    <a href="/calculator.html" style="color:#3fb950;font-weight:600">Calculator</a>
+    <span class="lang-toggle"><span class="current">EN</span> | <a href="/index-es.html">ES</a></span>
+  </div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+
+<header role="banner">
+  <h1>Self-Employed Means Test</h1>
+  <p class="subtitle">How business income and expenses affect your Chapter 7 eligibility</p>
+</header>
+
+<div class="container" id="main" role="main">
+
+<p class="breadcrumb"><a href="/">Home</a> &rsaquo; Self-Employed Means Test</p>
+
+<h2>Self-Employment Creates Unique Complications</h2>
+
+<p>If you are self-employed -- whether you run a small business, freelance, do contract work, or have a side hustle -- the bankruptcy means test works differently for you than for a W-2 employee. The core issue is how your income is calculated for purposes of "current monthly income" (CMI) under <strong>11 U.S.C. Section 101(10A)</strong>.</p>
+
+<p>For W-2 employees, income is straightforward: wages, salary, tips. For self-employed filers, you must account for both gross business revenue and business expenses. The difference between these two numbers can make or break your means test result.</p>
+
+<div class="statute-box">
+<h4>The Rule</h4>
+<p>Current monthly income includes income from "all sources" derived during the 6-month lookback period. For self-employed debtors, this means gross business revenue is included -- but ordinary and necessary business expenses are subtracted. It is your <strong>net business income</strong>, not gross revenue, that enters the means test formula.</p>
+</div>
+
+<h2>Gross Revenue vs. Net Income: The Critical Distinction</h2>
+
+<p>Suppose you run a cleaning company. In the 6 months before filing, your business took in $120,000 in gross revenue. But you paid $45,000 in employee wages, $12,000 in supplies, $6,000 in vehicle expenses, $3,600 in insurance, and $5,400 in other operating costs. Your net business income is $48,000 for the 6-month period, or $8,000 per month.</p>
+
+<p>On the means test, your CMI from the business is $8,000 per month -- not $20,000. This distinction is critical. Many self-employed people have gross revenues that look high but net income that is modest after legitimate expenses.</p>
+
+<p>You report this on <strong>Form 122A-1</strong> (Statement of Your Current Monthly Income). Line 3 asks for "Net income from the operation of a business, profession, or farm." The word "net" is key -- it means after business expenses.</p>
+
+<h2>The 6-Month Lookback Period</h2>
+
+<p>The means test uses your income from the <strong>6 full calendar months before the month you file</strong>. If you file on March 15, the lookback period is September 1 through February 28. This period is fixed by statute and cannot be adjusted.</p>
+
+<p>For self-employed filers, the 6-month lookback creates a specific challenge: <strong>income volatility</strong>. Businesses with seasonal patterns, project-based revenue, or irregular client payments may have dramatically different income depending on which 6 months are captured.</p>
+
+<div class="warning-box">
+<h4>The volatility problem</h4>
+<p>A freelance web developer who landed a $60,000 project in October and another in December but had minimal income the rest of the year would show extremely high CMI if they file in March (lookback captures October through February). The same developer filing in August (lookback captures February through July) would show much lower CMI. Same person, same annual income, very different means test results.</p>
+</div>
+
+<h2>What Counts as a Business Expense?</h2>
+
+<p>The means test does not define "business expenses" separately. Courts generally follow tax law standards -- ordinary and necessary expenses of operating the business. Common deductible business expenses include:</p>
+
+<ul>
+  <li><strong>Cost of goods sold</strong> -- raw materials, inventory, wholesale purchases</li>
+  <li><strong>Employee wages and contractor payments</strong> -- payroll, 1099 payments, subcontractor fees</li>
+  <li><strong>Rent and utilities</strong> -- office space, warehouse, business share of home office</li>
+  <li><strong>Supplies and equipment</strong> -- tools, software, consumables, maintenance</li>
+  <li><strong>Vehicle expenses</strong> -- fuel, maintenance, insurance (business-use portion)</li>
+  <li><strong>Business insurance</strong> -- liability, workers' comp, professional coverage</li>
+  <li><strong>Professional services</strong> -- accounting, legal, consulting fees</li>
+  <li><strong>Marketing and advertising</strong> -- website, ads, business cards, trade shows</li>
+  <li><strong>Travel</strong> -- business-related travel, lodging, meals (business portion)</li>
+  <li><strong>Licenses and permits</strong> -- business licenses, professional certifications, regulatory fees</li>
+</ul>
+
+<p><strong>Personal expenses are not deductible as business expenses.</strong> The court and the U.S. Trustee will scrutinize your business expenses for any personal spending disguised as business costs. Personal vehicle use, personal meals, personal travel, and similar items must be separated from legitimate business expenses.</p>
+
+<h2>The Means Test Deductions Do Not Map Perfectly to Business Expenses</h2>
+
+<p>Here is where it gets tricky. The means test has two layers of expense treatment for self-employed filers:</p>
+
+<ol>
+  <li><strong>Business expenses</strong> are subtracted from gross revenue to calculate net business income (CMI). This happens on Form 122A-1.</li>
+  <li><strong>Personal deductions</strong> -- IRS standards, taxes, insurance, secured debts -- are subtracted from CMI on Form 122A-2 (if you are above the median).</li>
+</ol>
+
+<p>The risk of double-counting arises when a business expense overlaps with a personal deduction. For example, if your business pays for your health insurance, that cost is already subtracted as a business expense. You cannot then claim it again as a personal health insurance deduction on Form 122A-2. The same applies to vehicle expenses: if your business deducts car costs, you cannot also claim the full IRS transportation allowance for the same vehicle.</p>
+
+<div class="green-box">
+<h4>Practical tip</h4>
+<p>Keep clear records separating business and personal expenses. If you use a vehicle for both business and personal purposes, track mileage or allocate costs by percentage. If your business pays for insurance, note it. The cleaner your separation, the easier it is to maximize deductions without double-counting issues.</p>
+</div>
+
+<h2>Schedule I and J: The Full Picture</h2>
+
+<p>Beyond the means test, self-employed filers complete <strong>Schedule I</strong> (Your Income) and <strong>Schedule J</strong> (Your Expenses). These schedules show your <em>actual</em> current income and expenses -- not the formulaic means test calculations.</p>
+
+<p>Schedule I requires self-employed debtors to attach a detailed statement of gross receipts and expenses. Schedule J lists your actual monthly living expenses. Together, they show the court what your real financial situation looks like right now -- which may differ significantly from the 6-month lookback.</p>
+
+<p>Why does this matter? Because even if you pass the means test, the court can still dismiss your case under the <strong>"totality of the circumstances"</strong> test in Section <strong>707(b)(3)</strong>. If the means test says you qualify but Schedules I and J show you actually have significant disposable income, the U.S. Trustee may argue your filing is abusive. Conversely, if the means test is borderline but your actual expenses clearly show you cannot pay creditors, Schedules I and J support your case.</p>
+
+<h2>Strategic Filing Timing</h2>
+
+<p>For self-employed filers with variable income, the timing of your bankruptcy filing is a legitimate strategic consideration. The 6-month lookback is mechanical -- it captures exactly 6 calendar months and nothing else. If your income fluctuates, filing at the right time can make a real difference.</p>
+
+<p>Consider these scenarios:</p>
+
+<ul>
+  <li><strong>Seasonal business:</strong> A landscaper who earns most income from April through October would have a lower CMI filing in March (lookback: September through February) than filing in November (lookback: May through October).</li>
+  <li><strong>One-time windfall:</strong> If you received a large one-time payment -- settlement, bonus, insurance payout -- waiting until it falls outside the 6-month window lowers your CMI.</li>
+  <li><strong>Business downturn:</strong> If your business has recently slowed, filing sooner captures more high-income months. Waiting allows more low-income months to enter the calculation.</li>
+  <li><strong>Lost a major client:</strong> If you lost a client responsible for significant revenue, each month that passes replaces a high-income month with a low-income month in the lookback.</li>
+</ul>
+
+<div class="warning-box">
+<h4>Caution: the totality test</h4>
+<p>Strategic timing is legal, but there are limits. Under Section 707(b)(3), the court can examine the "totality of the debtor's financial circumstances" to determine whether the filing is an abuse. If it appears you deliberately manipulated your filing date to game the means test -- while actually having the ability to repay debts -- the court may dismiss your case. Strategic timing works best when it reflects your genuine financial reality, not an artificial snapshot.</p>
+</div>
+
+<h2>Practical Tips for Self-Employed Filers</h2>
+
+<ul>
+  <li><strong>Keep 6 months of detailed records.</strong> Bank statements, invoices, receipts, profit-and-loss statements. The U.S. Trustee will want to see documentation of both income and expenses.</li>
+  <li><strong>Separate business and personal accounts.</strong> If you have been mixing personal and business funds in one account, start separating them now. Commingled accounts make the expense analysis much harder and raise red flags.</li>
+  <li><strong>Prepare a profit-and-loss statement.</strong> A clear P&L for the 6-month lookback period, showing gross revenue, itemized expenses, and net income, will be your most important document.</li>
+  <li><strong>Watch for the double-count trap.</strong> Do not claim the same expense as both a business expense (reducing CMI) and a personal deduction (reducing disposable income on Form 122A-2).</li>
+  <li><strong>Consider whether your debts are "primarily consumer debts."</strong> If more than 50% of your debts are business debts, the means test does not apply to you at all. You are exempt under Section 707(b), and your Chapter 7 eligibility is analyzed under different standards.</li>
+  <li><strong>Work with a bankruptcy attorney familiar with self-employment.</strong> The interaction between business income, means test deductions, Schedules I and J, and the totality-of-circumstances test is genuinely complex. An experienced attorney can help structure the filing correctly.</li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>How does the means test work for self-employed people?</h3>
+<p>Self-employed filers include net business income (gross revenue minus ordinary business expenses) in their current monthly income calculation. The CMI is based on the 6 full calendar months before filing. If above the state median, the full means test on Form 122A-2 applies, with additional deductions for personal expenses, taxes, insurance, and secured debts.</p>
+
+<h3>Do I use gross or net business income?</h3>
+<p>Net. Form 122A-1 asks for "net income from the operation of a business." You subtract ordinary and necessary business expenses from gross revenue before entering the figure. Gross revenue alone does not determine your means test result.</p>
+
+<h3>Can I time my filing for when income is low?</h3>
+<p>Yes, timing is a legitimate consideration. The means test mechanically captures the 6 calendar months before filing. If your income varies seasonally or you have had a recent downturn, the filing date matters. However, the court can still examine the totality of your circumstances under Section 707(b)(3), so timing should reflect genuine financial reality.</p>
+
+<h3>What business expenses can I deduct on the means test?</h3>
+<p>Ordinary and necessary business operating expenses -- cost of goods, payroll, rent, utilities, supplies, vehicle costs, insurance, professional services, marketing, and similar items. Personal expenses cannot be claimed as business expenses. Keep detailed records to support every deduction.</p>
+
+<div class="cta-box">
+<h4>Check Where You Stand</h4>
+<p>Start with a quick income check. Enter your state, household size, and net annual income to see where you fall relative to the state median.</p>
+<p style="margin-top:0.75rem;margin-bottom:0"><a href="/calculator.html" style="font-weight:600">Use the Free Calculator &rarr;</a></p>
+</div>
+
+<div class="warning-box">
+<h4>Not Legal Advice</h4>
+<p>This page provides general educational information about the bankruptcy means test for self-employed filers under 11 U.S.C. Section 707(b). It is not legal advice. Self-employment creates complex interactions between business income, means test deductions, and abuse analysis. Consult a licensed bankruptcy attorney experienced with self-employed debtors before making any filing decisions.</p>
+</div>
+
+</div>
+
+<footer>
+  <div style="margin-bottom:1rem">
+    <a href="/">Home</a> &middot;
+    <a href="/how-it-works.html">How It Works</a> &middot;
+    <a href="/median-income.html">Income Tables</a> &middot;
+    <a href="/deductions.html">Deductions</a> &middot;
+    <a href="/what-if-you-fail.html">Failed?</a> &middot;
+    <a href="/above-median-income.html">Above Median</a> &middot;
+    <a href="/calculator.html">Calculator</a>
+  </div>
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
+  <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://section1192.org" style="color:#58a6ff">Section 1192 -- Subchapter V</a> -- Small business reorganization for businesses with debts under $7.5M</p>
+  <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">How to File Bankruptcy</a> -- Step-by-step guide to the bankruptcy filing process</p>
+  <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://whatischapter7.com" style="color:#58a6ff">What Is Chapter 7?</a> -- Plain-English guide to Chapter 7 liquidation bankruptcy</p>
+</div>
+  <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:1rem auto">
+    <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.</p>
+    <a href="https://ko-fi.com/ilikemath9999" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
+  </div>
+  <p style="margin-top:1rem">&copy; 2026 meanstest.org. Not legal advice.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit (determination pending).</p>
+</footer>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+
+<script src="/btn-engage.js"></script>
+</body>
+</html>
