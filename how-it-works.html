@@ -444,6 +444,21 @@
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
 
 <script src="/btn-engage.js"></script>
+
+<!-- PAA SECTION (build_paa_pages.py) -->
+<div style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#111;border:1px solid #333;border-radius:8px">
+  <p style="color:#fff;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">People Also Ask</p>
+  <ul style="list-style:none;padding:0;margin:0">
+      <li style="margin-bottom:8px"><a href="/paa/how-do-i-calculate-the-bankruptcy-means-test.html" style="color:#60a5fa;font-size:14px;text-decoration:none">How do I calculate the bankruptcy means test?</a></li>
+      <li style="margin-bottom:8px"><a href="/paa/what-income-counts-for-the-bankruptcy-means-test.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What income counts for the bankruptcy means test?</a></li>
+      <li style="margin-bottom:8px"><a href="/paa/what-if-i-fail-the-means-test.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What if I fail the means test?</a></li>
+      <li style="margin-bottom:8px"><a href="/paa/does-social-security-count-for-the-means-test.html" style="color:#60a5fa;font-size:14px;text-decoration:none">Does Social Security count for the means test?</a></li>
+      <li style="margin-bottom:8px"><a href="/paa/what-is-the-median-income-for-the-means-test-by-state.html" style="color:#60a5fa;font-size:14px;text-decoration:none">What is the median income for the means test by state?</a></li>
+      <li style="margin-bottom:8px"><a href="/paa/how-far-back-does-the-means-test-look-at-income.html" style="color:#60a5fa;font-size:14px;text-decoration:none">How far back does the means test look at income?</a></li>
+  </ul>
+  <p style="margin-top:12px"><a href="/paa/" style="color:#888;font-size:13px">View all questions &rarr;</a></p>
+</div>
+<!-- /PAA SECTION -->
 <!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
   <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
