@@ -16,23 +16,23 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Means Test Calculator -- Check If You Pass the Bankruptcy Means Test</title>
-<meta name="description" content="Learn about means test calculator -- check if you pass the bankruptcy means test | meanstest.org in our free 2026 guide.">
+<title>Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test [2026]</title>
+<meta name="description" content="Free bankruptcy means test calculator with income and expense inputs. Enter your state, household size, income, and monthly expenses to check Chapter 7 eligibility instantly. Updated for 2026 filing.">
 <link rel="canonical" href="https://meanstest.org/calculator.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#0d1117">
 <!-- Open Graph -->
-<meta property="og:title" content="Means Test Calculator -- Check If You Pass the Bankruptcy Means Test">
-<meta property="og:description" content="Learn about means test calculator -- check if you pass the bankruptcy means test | meanstest.org in our free 2026 guide.">
+<meta property="og:title" content="Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test [2026]">
+<meta property="og:description" content="Free bankruptcy means test calculator with income and expense inputs. Enter your state, household size, income, and monthly expenses to check Chapter 7 eligibility instantly. Updated for 2026 filing.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://meanstest.org/calculator.html">
 <meta property="og:image" content="https://meanstest.org/og-image.png">
 <meta property="og:site_name" content="meanstest.org">
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Means Test Calculator -- Check If You Pass the Bankruptcy Means Test">
-<meta name="twitter:description" content="Learn about means test calculator -- check if you pass the bankruptcy means test | meanstest.org in our free 2026 guide.">
+<meta name="twitter:title" content="Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test [2026]">
+<meta name="twitter:description" content="Free bankruptcy means test calculator with income and expense inputs. Enter your state, household size, income, and monthly expenses to check Chapter 7 eligibility instantly. Updated for 2026 filing.">
 <meta name="twitter:image" content="https://meanstest.org/og-image.png">
 <script type="application/ld+json">
 {
@@ -51,7 +51,7 @@
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Means Test Calculator -- Check If You Pass the Bankruptcy Means Test",
-  "description": "Free bankruptcy means test calculator with median income tables for all 50 states, step-by-step Form 122A walkthrough, deduction guide, and military exemptions.",
+  "description": "Free bankruptcy means test calculator with income and expense inputs for all 50 states. Step-by-step wizard walks through Form 122A-1 and 122A-2 with deduction guide and military exemptions. Updated for 2026 filing.",
   "url": "https://meanstest.org/calculator.html",
   "publisher": {
     "@type": "Organization",
@@ -76,7 +76,7 @@
       "name": "How do I calculate the means test?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start by adding up all income you received during the 6 full calendar months before your filing date. Divide by 6 to get your current monthly income (CMI). Multiply CMI by 12 for your annualized income. Compare that to the median income for your state and household size published by the U.S. Trustee. If you are below the median, you pass. If above, you complete the full means test calculation on Form 122A-2 by subtracting allowed deductions from your CMI."
+        "text": "Start by adding up all income you received during the 6 full calendar months before your filing date. Divide by 6 to get your current monthly income (CMI). Multiply CMI by 12 for your annualized income. Compare that to the median income for your state and household size published by the U.S. Trustee. If you are below the median, you pass. If above, you complete the full means test calculation on Form 122A-2 by subtracting allowed deductions from your CMI. Use the free calculator on this page to walk through both steps with your actual numbers."
       }
     },
     {
@@ -318,12 +318,43 @@
   }
   .calc-btn:hover { background: #2ea043; }
   .calc-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .calc-btn-secondary {
+    display: inline-block; background: transparent; color: var(--accent); font-weight: 600; font-size: 1rem;
+    padding: 0.75rem 2rem; border: 1px solid var(--accent); border-radius: 6px; cursor: pointer; min-height: 44px;
+    font-family: inherit; margin-right: 0.75rem;
+  }
+  .calc-btn-secondary:hover { background: rgba(88,166,255,0.1); }
+  .calc-btn-secondary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   #calc-result { margin-top: 1.5rem; }
   .result-pass { background: var(--surface); border: 2px solid var(--green); border-radius: 8px; padding: 1.5rem; }
   .result-pass h4 { color: var(--green); font-size: 1.1rem; margin-bottom: 0.5rem; }
   .result-above { background: var(--surface); border: 2px solid var(--yellow); border-radius: 8px; padding: 1.5rem; }
   .result-above h4 { color: var(--yellow); font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .result-fail { background: var(--surface); border: 2px solid var(--red); border-radius: 8px; padding: 1.5rem; }
+  .result-fail h4 { color: var(--red); font-size: 1.1rem; margin-bottom: 0.5rem; }
   .result-detail { color: var(--text-muted); font-size: 0.9rem; margin-top: 0.75rem; }
+  /* Wizard steps */
+  .wizard-progress { display: flex; gap: 0; margin-bottom: 2rem; border-radius: 6px; overflow: hidden; }
+  .wizard-step-indicator { flex: 1; text-align: center; padding: 0.6rem 0.5rem; font-size: 0.8rem; font-weight: 600; background: var(--bg); color: var(--text-muted); border: 1px solid var(--border); transition: all 0.3s; }
+  .wizard-step-indicator.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .wizard-step-indicator.completed { background: #238636; color: #fff; border-color: #238636; }
+  .wizard-step { display: none; }
+  .wizard-step.active { display: block; }
+  .wizard-step h3 { color: #f0f6fc; font-size: 1.1rem; margin: 0 0 0.75rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .expense-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem 1.5rem; }
+  .expense-grid label { margin-bottom: 0.15rem; font-size: 0.88rem; }
+  .expense-grid input { margin-bottom: 0.5rem; }
+  .expense-grid .hint { margin-top: -0.4rem; margin-bottom: 0.75rem; font-size: 0.75rem; }
+  @media (max-width: 600px) { .expense-grid { grid-template-columns: 1fr; } }
+  .step-info { background: rgba(88,166,255,0.08); border: 1px solid rgba(88,166,255,0.2); border-radius: 6px; padding: 0.75rem 1rem; margin-bottom: 1.25rem; font-size: 0.88rem; color: var(--text-muted); }
+  .step-info strong { color: var(--accent); }
+  .btn-row { display: flex; gap: 0.75rem; align-items: center; margin-top: 1rem; }
+  .btn-row .calc-btn, .btn-row .calc-btn-secondary { margin: 0; }
+  .breakdown-table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+  .breakdown-table td { padding: 0.4rem 0.75rem; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+  .breakdown-table td:last-child { text-align: right; font-family: 'SFMono-Regular', Consolas, monospace; }
+  .breakdown-table tr.total td { border-top: 2px solid var(--accent); font-weight: 700; color: #f0f6fc; }
+  .breakdown-table tr.subtotal td { font-weight: 600; color: var(--text); }
   .median-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 1.5rem; }
   .median-table-wrap table { min-width: 560px; }
   .median-table-wrap td, .median-table-wrap th { white-space: nowrap; }
@@ -339,8 +370,8 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Means Test Calculator -- Check If You Pass the Bankruptcy Means Test",
-  "description": "Learn about means test calculator -- check if you pass the bankruptcy means test | meanstest.org in our free 2026 guide.",
+  "name": "Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test [2026]",
+  "description": "Free bankruptcy means test calculator with income and expense inputs. Enter your state, household size, income, and monthly expenses to check Chapter 7 eligibility instantly. State-by-state median income data updated for 2026 filing.",
   "url": "https://meanstest.org/calculator.html",
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Any",
@@ -378,8 +409,8 @@
 
 <a href="#main" class="skip-link">Skip to main content</a>
 <header role="banner">
-  <h1>Means Test Calculator</h1>
-  <p class="subtitle">Check whether your income is below the state median for Chapter 7 eligibility</p>
+  <h1>Free Means Test Calculator</h1>
+  <p class="subtitle">Enter your income and expenses to check Chapter 7 eligibility -- updated for 2026 filing</p>
 </header>
 
 <div class="container" id="main" role="main">
@@ -389,7 +420,7 @@
 <div class="toc">
 <h4>On This Page</h4>
 <ol>
-  <li><a href="#calculator">Means Test Calculator</a></li>
+  <li><a href="#calculator">Means Test Calculator (Income + Expenses)</a></li>
   <li><a href="#how-to-use">How to Use This Calculator</a></li>
   <li><a href="#form-122a">Step-by-Step Form 122A Walkthrough</a></li>
   <li><a href="#median-table">Median Income Table -- All 50 States + DC</a></li>
@@ -408,41 +439,168 @@
 
 <h2 id="calculator">Means Test Calculator</h2>
 
-<p>This calculator compares your annualized income to the median income threshold for your state and household size. It performs Step 1 of the means test -- the initial income comparison that determines whether you need to complete the full calculation.</p>
+<p>This calculator walks you through both steps of the bankruptcy means test. <strong>Step 1</strong> compares your income to the state median. If you are above the median, <strong>Step 2</strong> lets you enter monthly expenses and deductions to estimate whether you would pass the full means test on Form 122A-2. All calculations run entirely in your browser -- no data is collected or transmitted.</p>
 
 <div class="calc-form" role="form" aria-label="Means test calculator">
-  <label for="calc-state">State</label>
-  <select id="calc-state">
-    <option value="">-- Select your state --</option>
-  </select>
 
-  <label for="calc-household">Household Size</label>
-  <select id="calc-household">
-    <option value="1">1 person</option>
-    <option value="2">2 people</option>
-    <option value="3">3 people</option>
-    <option value="4">4 people</option>
-    <option value="5">5 people</option>
-    <option value="6">6 people</option>
-    <option value="7">7 people</option>
-    <option value="8">8 people</option>
-    <option value="9">9 people</option>
-    <option value="10">10 people</option>
-  </select>
-  <p class="hint">Count everyone who lives in your household, including dependents.</p>
+  <!-- Progress bar -->
+  <div class="wizard-progress">
+    <div class="wizard-step-indicator active" id="prog-1">1. Household</div>
+    <div class="wizard-step-indicator" id="prog-2">2. Income</div>
+    <div class="wizard-step-indicator" id="prog-3">3. Expenses</div>
+    <div class="wizard-step-indicator" id="prog-4">4. Results</div>
+  </div>
 
-  <label for="calc-income">Your Annual Income (Before Taxes)</label>
-  <input type="number" id="calc-income" placeholder="e.g., 55000" min="0" step="100" inputmode="numeric">
-  <p class="hint">Total income from all sources over the last 6 months, multiplied by 2. Include wages, business income, rental income, pensions, unemployment, and contributions from others. Exclude Social Security.</p>
+  <!-- STEP 1: Household Info -->
+  <div class="wizard-step active" id="step-1">
+    <h3>Step 1: Your Household Information</h3>
+    <div class="step-info"><strong>Why this matters:</strong> The means test compares your income to the median for your state and household size. A larger household means a higher median threshold, which can make it easier to qualify.</div>
 
-  <button class="calc-btn" id="calc-btn" type="button">Check My Income</button>
+    <label for="calc-state">State of Residence</label>
+    <select id="calc-state">
+      <option value="">-- Select your state --</option>
+    </select>
+    <p class="hint">Choose the state where you lived for the majority of the 180 days before your filing date.</p>
 
-  <div id="calc-result" aria-live="polite"></div>
+    <label for="calc-household">Household Size</label>
+    <select id="calc-household">
+      <option value="1">1 person</option>
+      <option value="2">2 people</option>
+      <option value="3">3 people</option>
+      <option value="4">4 people</option>
+      <option value="5">5 people</option>
+      <option value="6">6 people</option>
+      <option value="7">7 people</option>
+      <option value="8">8 people</option>
+      <option value="9">9 people</option>
+      <option value="10">10 people</option>
+    </select>
+    <p class="hint">Count yourself, your spouse (even if not filing), and all dependents living with you. <a href="/household-size.html">How to count household members.</a></p>
+
+    <div class="btn-row">
+      <button class="calc-btn" type="button" onclick="wizardNext(2)">Next: Enter Income</button>
+    </div>
+  </div>
+
+  <!-- STEP 2: Income -->
+  <div class="wizard-step" id="step-2">
+    <h3>Step 2: Your Income (Last 6 Months)</h3>
+    <div class="step-info"><strong>How to calculate:</strong> Add up all income from all sources received during the 6 full calendar months before your filing date. Enter the total below -- the calculator will compute your monthly and annual figures automatically.</div>
+
+    <label for="calc-income-6mo">Total Gross Income Over the Last 6 Months</label>
+    <input type="number" id="calc-income-6mo" placeholder="e.g., 27500" min="0" step="100" inputmode="numeric">
+    <p class="hint">Include wages, salary, tips, bonuses, overtime, net business income, rental income, interest, dividends, pension income, unemployment, and regular contributions from others. <strong>Exclude</strong> Social Security benefits.</p>
+
+    <div id="income-preview" style="margin-bottom:1rem"></div>
+
+    <div class="btn-row">
+      <button class="calc-btn-secondary" type="button" onclick="wizardNext(1)">Back</button>
+      <button class="calc-btn" type="button" id="step2-next-btn" onclick="runStep1()">Check Against Median</button>
+    </div>
+
+    <div id="step1-result" aria-live="polite" style="margin-top:1rem"></div>
+  </div>
+
+  <!-- STEP 3: Expenses (only shown if above median) -->
+  <div class="wizard-step" id="step-3">
+    <h3>Step 3: Monthly Expenses and Deductions</h3>
+    <div class="step-info"><strong>Your income is above the state median</strong> -- but that does not mean you fail. Enter your actual monthly expenses below. The means test allows specific deductions that reduce your disposable income. Many above-median debtors pass after deductions.</div>
+
+    <p style="color:var(--text-muted);font-size:0.85rem;margin-bottom:1.25rem">Enter monthly amounts. Leave blank or 0 for any category that does not apply.</p>
+
+    <div class="expense-grid">
+      <div>
+        <label for="exp-taxes">Taxes (Federal + State + FICA)</label>
+        <input type="number" id="exp-taxes" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Total monthly taxes withheld from paychecks or paid quarterly.</p>
+      </div>
+      <div>
+        <label for="exp-housing">Housing (Rent or Mortgage)</label>
+        <input type="number" id="exp-housing" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Monthly mortgage payment (principal + interest) or rent.</p>
+      </div>
+      <div>
+        <label for="exp-utilities">Utilities</label>
+        <input type="number" id="exp-utilities" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Electric, gas, water, sewer, trash, phone, internet.</p>
+      </div>
+      <div>
+        <label for="exp-food">Food and Housekeeping</label>
+        <input type="number" id="exp-food" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Groceries, cleaning supplies, household products.</p>
+      </div>
+      <div>
+        <label for="exp-transport">Transportation (Operating)</label>
+        <input type="number" id="exp-transport" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Gas, insurance, maintenance, registration. Not car payments.</p>
+      </div>
+      <div>
+        <label for="exp-carpmt">Car Payment(s)</label>
+        <input type="number" id="exp-carpmt" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Monthly car loan or lease payments (all vehicles).</p>
+      </div>
+      <div>
+        <label for="exp-health">Health Insurance Premiums</label>
+        <input type="number" id="exp-health" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Your monthly share of health, dental, and vision premiums.</p>
+      </div>
+      <div>
+        <label for="exp-medical">Out-of-Pocket Medical</label>
+        <input type="number" id="exp-medical" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Monthly average of medical/dental costs beyond insurance.</p>
+      </div>
+      <div>
+        <label for="exp-childcare">Childcare</label>
+        <input type="number" id="exp-childcare" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Daycare, after-school care, and similar child or dependent care.</p>
+      </div>
+      <div>
+        <label for="exp-clothing">Clothing and Personal Care</label>
+        <input type="number" id="exp-clothing" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Apparel, shoes, laundry, haircuts, toiletries.</p>
+      </div>
+      <div>
+        <label for="exp-courtord">Court-Ordered Payments</label>
+        <input type="number" id="exp-courtord" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Alimony, child support, or other court-ordered obligations.</p>
+      </div>
+      <div>
+        <label for="exp-education">Education (K-12 Dependents)</label>
+        <input type="number" id="exp-education" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Up to $156.25/month per dependent child (tuition, fees, uniforms).</p>
+      </div>
+      <div>
+        <label for="exp-priority">Priority Debt Payments</label>
+        <input type="number" id="exp-priority" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Back taxes, past-due support. Total owed divided by 60.</p>
+      </div>
+      <div>
+        <label for="exp-other">Other Allowed Deductions</label>
+        <input type="number" id="exp-other" placeholder="0" min="0" step="10" inputmode="numeric">
+        <p class="hint">Disability insurance, HSA, mandatory payroll deductions, etc.</p>
+      </div>
+    </div>
+
+    <div class="btn-row">
+      <button class="calc-btn-secondary" type="button" onclick="wizardNext(2)">Back</button>
+      <button class="calc-btn" type="button" onclick="runStep2()">Calculate Full Means Test</button>
+    </div>
+  </div>
+
+  <!-- STEP 4: Results -->
+  <div class="wizard-step" id="step-4">
+    <h3>Your Means Test Results</h3>
+    <div id="calc-result" aria-live="polite"></div>
+    <div class="btn-row" style="margin-top:1.5rem">
+      <button class="calc-btn-secondary" type="button" onclick="resetCalculator()">Start Over</button>
+    </div>
+  </div>
+
 </div>
 
 <div class="statute-box">
 <h4>Important Limitations</h4>
-<p>This calculator only performs Step 1 -- the median income comparison. It does not calculate your deductions or determine your final means test result. Even if your income is above the median, you may still pass the full means test after deductions. The median figures shown are based on the most recent DOJ/USTP data available. Always verify the current figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a> before filing.</p>
+<p>This calculator provides an <strong>estimate</strong> based on the information you enter. It uses the same logic as the official Form 122A-1 and 122A-2, but does not replace professional advice. The actual means test uses IRS National and Local Standards that vary by county, not just the amounts you enter. The median figures shown are based on the most recent DOJ/USTP data available. Always verify the current figures at <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a> before filing. No data you enter is collected, transmitted, or stored -- all calculations happen entirely in your browser.</p>
 </div>
 
 <!-- ============================================================ -->
@@ -451,7 +609,7 @@
 
 <h2 id="how-to-use">How to Use This Calculator</h2>
 
-<p>The calculator above performs the first and most important step of the bankruptcy means test: comparing your income to the state median. Here is what each field means and how to get accurate numbers.</p>
+<p>The calculator above walks you through the complete bankruptcy means test in four steps: (1) enter your household information, (2) enter your 6-month income, (3) if above median, enter your monthly expenses and deductions, and (4) see your estimated result. Here is what each field means and how to get accurate numbers.</p>
 
 <h3>Selecting Your State</h3>
 
@@ -469,15 +627,15 @@
 
 <p>Check which definition your local court uses. In most cases, count yourself, your spouse (even if not filing jointly), and all dependent children and other dependents who live with you. When in doubt, use the economic unit approach -- count people who share your household income and expenses.</p>
 
-<h3>Calculating Your Annual Income</h3>
+<h3>Calculating Your Income</h3>
 
-<p>The means test uses "current monthly income" (CMI), which is the average of all income from all sources received during the 6 full calendar months before your filing date. To convert that to the annualized figure this calculator uses:</p>
+<p>The means test uses "current monthly income" (CMI), which is the average of all income from all sources received during the 6 full calendar months before your filing date. The calculator asks for your <strong>total 6-month income</strong> and automatically computes your CMI and annualized income:</p>
 
 <ol>
   <li>Add up all income received during the 6 full calendar months before your expected filing date</li>
-  <li>Divide by 6 to get your monthly average (this is your CMI)</li>
-  <li>Multiply by 12 to get the annualized figure</li>
-  <li>Enter that annualized number in the calculator</li>
+  <li>Enter that total in Step 2 of the calculator</li>
+  <li>The calculator divides by 6 (your CMI) and multiplies by 12 (annualized) automatically</li>
+  <li>It then compares your annualized income to the state median for your household size</li>
 </ol>
 
 <div class="warning-box">
@@ -965,6 +1123,7 @@
  * Format: { "STATE": [1-person, 2-person, 3-person, 4-person, each_additional] }
  * Amounts are annual. For household sizes > 4, add each_additional per person.
  *
+ * Data current as of April 2025 USTP publication. Updated for 2026 filing.
  * TO UPDATE: Replace the numbers below with the latest USTP figures.
  * The calculator and table both read from this single object.
  */
@@ -1051,7 +1210,10 @@ var MEDIAN_INCOME = {
   }
 })();
 
-/* Calculator logic */
+/* ============================================================
+ * WIZARD NAVIGATION AND CALCULATOR LOGIC
+ * ============================================================ */
+
 function getMedian(state, householdSize) {
   var d = MEDIAN_INCOME[state];
   if (!d) return null;
@@ -1063,57 +1225,243 @@ function formatCurrency(n) {
   return '$' + Math.round(n).toLocaleString();
 }
 
-document.getElementById('calc-btn').addEventListener('click', function() {
+function getVal(id) {
+  var v = parseFloat(document.getElementById(id).value);
+  return isNaN(v) ? 0 : Math.max(0, v);
+}
+
+/* Navigate wizard steps */
+function wizardNext(stepNum) {
+  /* Validate step 1 */
+  if (stepNum === 2) {
+    var state = document.getElementById('calc-state').value;
+    if (!state) {
+      alert('Please select your state of residence.');
+      return;
+    }
+  }
+
+  for (var i = 1; i <= 4; i++) {
+    var el = document.getElementById('step-' + i);
+    var prog = document.getElementById('prog-' + i);
+    if (i === stepNum) {
+      el.classList.add('active');
+      prog.classList.add('active');
+    } else {
+      el.classList.remove('active');
+      if (i < stepNum) {
+        prog.classList.remove('active');
+        prog.classList.add('completed');
+      } else {
+        prog.classList.remove('active');
+        prog.classList.remove('completed');
+      }
+    }
+  }
+
+  /* Scroll to top of calculator */
+  document.querySelector('.calc-form').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+/* Live income preview */
+document.getElementById('calc-income-6mo').addEventListener('input', function() {
+  var total6 = getVal('calc-income-6mo');
+  var preview = document.getElementById('income-preview');
+  if (total6 > 0) {
+    var monthly = total6 / 6;
+    var annual = monthly * 12;
+    preview.innerHTML = '<div class="step-info" style="margin-top:0">' +
+      '<strong>Your Current Monthly Income (CMI):</strong> ' + formatCurrency(monthly) + '/month<br>' +
+      '<strong>Annualized Income:</strong> ' + formatCurrency(annual) + '/year' +
+      '</div>';
+  } else {
+    preview.innerHTML = '';
+  }
+});
+
+/* STEP 1: Compare income to median */
+function runStep1() {
   var state = document.getElementById('calc-state').value;
   var hhSize = parseInt(document.getElementById('calc-household').value, 10);
-  var income = parseFloat(document.getElementById('calc-income').value);
-  var resultDiv = document.getElementById('calc-result');
+  var income6mo = getVal('calc-income-6mo');
+  var resultDiv = document.getElementById('step1-result');
 
   if (!state) {
-    resultDiv.innerHTML = '<div class="red-box"><h4>Please select a state.</h4></div>';
+    resultDiv.innerHTML = '<div class="red-box"><h4>Please go back and select a state.</h4></div>';
     return;
   }
-  if (isNaN(income) || income < 0) {
-    resultDiv.innerHTML = '<div class="red-box"><h4>Please enter a valid annual income amount.</h4></div>';
+  if (income6mo <= 0) {
+    resultDiv.innerHTML = '<div class="red-box"><h4>Please enter your total income for the last 6 months.</h4></div>';
     return;
   }
 
+  var cmi = income6mo / 6;
+  var annualIncome = cmi * 12;
   var median = getMedian(state, hhSize);
   var hhLabel = hhSize === 1 ? '1 person' : hhSize + ' people';
 
-  if (income <= median) {
-    resultDiv.innerHTML =
-      '<div class="result-pass">' +
-      '<h4>You are likely below the median -- you may pass the means test.</h4>' +
-      '<p>Your annualized income of <strong>' + formatCurrency(income) + '</strong> is at or below the median income of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + '.</p>' +
-      '<p>Because your income is at or below the state median, the presumption of abuse does not arise under 11 U.S.C. Section 707(b)(2). You would complete Form 122A-1 only and would not need to complete the full means test calculation on Form 122A-2.</p>' +
-      '<p class="result-detail"><strong>What this means:</strong> You likely qualify for Chapter 7 on income grounds. However, passing the means test is only one eligibility requirement. Other factors -- such as prior filings, fraud, or the totality of circumstances -- can still affect your case. Consult a bankruptcy attorney for a complete eligibility assessment.</p>' +
-      '</div>';
-  } else {
-    var overAmount = income - median;
-    var overPct = ((overAmount / median) * 100).toFixed(1);
-    resultDiv.innerHTML =
-      '<div class="result-above">' +
-      '<h4>Your income is above the state median -- you need the full means test.</h4>' +
-      '<p>Your annualized income of <strong>' + formatCurrency(income) + '</strong> exceeds the median income of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + ' by <strong>' + formatCurrency(overAmount) + '</strong> (' + overPct + '% above median).</p>' +
-      '<p>This does <strong>not</strong> mean you fail the means test or cannot file Chapter 7. It means you must complete the full means test calculation on Form 122A-2, which subtracts allowed deductions from your current monthly income.</p>' +
-      '<p class="result-detail"><strong>What happens next:</strong> On Form 122A-2, you will deduct IRS standard living expenses, taxes, health insurance, secured debt payments (mortgage, car loans), childcare, and other allowed expenses. Many above-median debtors pass the means test after these deductions. Your monthly current income of <strong>' + formatCurrency(income / 12) + '</strong> minus deductions determines your disposable income. If your 60-month disposable income is below $8,175 ($136.25/month), you pass (threshold updated April 2025).</p>' +
-      '<p class="result-detail"><strong>Common large deductions:</strong> Mortgage/rent payments, car loan payments, health insurance premiums, childcare costs, federal/state income taxes, Social Security and Medicare taxes. <a href="#deductions">See the full deductions guide below.</a></p>' +
-      '<p class="result-detail"><strong>Alternatives if you cannot pass:</strong> You may rebut the presumption of abuse by showing special circumstances (medical conditions, military service, recent job loss). Or you can file Chapter 13 instead -- there is no means test for Chapter 13. <a href="/what-if-you-fail.html">Learn about your options if you fail the means test.</a></p>' +
-      '<p class="result-detail" style="margin-top:16px;text-align:center"><a href="https://bankruptcymeanstest.org/calculator.html" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#d29922,#e3a82b);color:#fff;border-radius:8px;text-decoration:none;font-weight:700">Run the Part 2 Calculator Now</a><br><span style="font-size:0.85em;color:var(--text-secondary)">Free Part 2 calculator with IRS expense deductions -- see if you pass after deductions</span></p>' +
-      '</div>';
-  }
-
-  /* Track calculator usage in GA4 */
+  /* Track in GA4 */
   if (typeof gtag === 'function') {
-    gtag('event', 'means_test_check', {
+    gtag('event', 'means_test_step1', {
       'event_category': 'calculator',
       'event_label': state,
       'value': hhSize,
-      'custom_result': income <= median ? 'below_median' : 'above_median'
+      'custom_result': annualIncome <= median ? 'below_median' : 'above_median'
     });
   }
-});
+
+  if (annualIncome <= median) {
+    /* PASS at Step 1 -- show result directly */
+    var resultHtml =
+      '<div class="result-pass">' +
+      '<h4>You PASS the means test -- your income is below the state median.</h4>' +
+      '<p>Your annualized income of <strong>' + formatCurrency(annualIncome) + '</strong> (' + formatCurrency(cmi) + '/month) is at or below the median income of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + '.</p>' +
+      '<p>Because your income is at or below the state median, the presumption of abuse does not arise under 11 U.S.C. Section 707(b)(2). You would complete Form 122A-1 only and would <strong>not</strong> need to complete the full means test calculation on Form 122A-2.</p>' +
+      '<p class="result-detail"><strong>What this means:</strong> You likely qualify for Chapter 7 on income grounds. However, passing the means test is only one eligibility requirement. Other factors -- such as <a href="https://727a8.com">prior filings</a>, fraud, or the totality of circumstances -- can still affect your case. Consult a bankruptcy attorney for a complete eligibility assessment.</p>' +
+      '<p class="result-detail"><strong>Wondering about Chapter 7 vs. Chapter 13?</strong> Compare the two at <a href="https://chapter7vs13.org">chapter7vs13.org</a>. Need to check bankruptcy exemptions for your state? Visit <a href="https://bankruptcyexemptionsbystate.com">bankruptcyexemptionsbystate.com</a>.</p>' +
+      '</div>';
+    document.getElementById('calc-result').innerHTML = resultHtml;
+    wizardNext(4);
+  } else {
+    /* Above median -- offer Step 2 */
+    var overAmount = annualIncome - median;
+    var overPct = ((overAmount / median) * 100).toFixed(1);
+    resultDiv.innerHTML =
+      '<div class="result-above" style="margin-top:1rem">' +
+      '<h4>Your income is above the state median by ' + formatCurrency(overAmount) + ' (' + overPct + '%)</h4>' +
+      '<p>Your annualized income of <strong>' + formatCurrency(annualIncome) + '</strong> exceeds the median of <strong>' + formatCurrency(median) + '</strong> for a household of ' + hhLabel + ' in ' + state + '.</p>' +
+      '<p>This does <strong>not</strong> mean you fail. Most above-median debtors pass after deductions. Click "Next" to enter your expenses and see whether you would pass the full means test.</p>' +
+      '</div>' +
+      '<div class="btn-row" style="margin-top:1rem"><button class="calc-btn" type="button" onclick="wizardNext(3)">Next: Enter Expenses</button></div>';
+  }
+}
+
+/* STEP 2: Full means test with expenses */
+function runStep2() {
+  var state = document.getElementById('calc-state').value;
+  var hhSize = parseInt(document.getElementById('calc-household').value, 10);
+  var income6mo = getVal('calc-income-6mo');
+  var cmi = income6mo / 6;
+  var annualIncome = cmi * 12;
+  var median = getMedian(state, hhSize);
+  var hhLabel = hhSize === 1 ? '1 person' : hhSize + ' people';
+
+  /* Gather all expense inputs */
+  var expenses = {
+    'Taxes (Federal + State + FICA)': getVal('exp-taxes'),
+    'Housing (Rent or Mortgage)': getVal('exp-housing'),
+    'Utilities': getVal('exp-utilities'),
+    'Food and Housekeeping': getVal('exp-food'),
+    'Transportation (Operating)': getVal('exp-transport'),
+    'Car Payment(s)': getVal('exp-carpmt'),
+    'Health Insurance Premiums': getVal('exp-health'),
+    'Out-of-Pocket Medical': getVal('exp-medical'),
+    'Childcare': getVal('exp-childcare'),
+    'Clothing and Personal Care': getVal('exp-clothing'),
+    'Court-Ordered Payments': getVal('exp-courtord'),
+    'Education (K-12)': getVal('exp-education'),
+    'Priority Debt Payments': getVal('exp-priority'),
+    'Other Allowed Deductions': getVal('exp-other')
+  };
+
+  var totalMonthlyExpenses = 0;
+  for (var key in expenses) { totalMonthlyExpenses += expenses[key]; }
+
+  var monthlyDisposable = cmi - totalMonthlyExpenses;
+  var disposable60 = monthlyDisposable * 60;
+
+  /* Build breakdown table */
+  var breakdownRows = '';
+  breakdownRows += '<tr class="subtotal"><td>Current Monthly Income (CMI)</td><td>' + formatCurrency(cmi) + '</td></tr>';
+  for (var cat in expenses) {
+    if (expenses[cat] > 0) {
+      breakdownRows += '<tr><td>' + cat + '</td><td>-' + formatCurrency(expenses[cat]) + '</td></tr>';
+    }
+  }
+  breakdownRows += '<tr class="subtotal"><td>Total Monthly Deductions</td><td>-' + formatCurrency(totalMonthlyExpenses) + '</td></tr>';
+  breakdownRows += '<tr class="total"><td>Monthly Disposable Income</td><td>' + formatCurrency(monthlyDisposable) + '</td></tr>';
+  breakdownRows += '<tr class="total"><td>60-Month Disposable Income</td><td>' + formatCurrency(disposable60) + '</td></tr>';
+
+  var breakdownHtml = '<table class="breakdown-table">' + breakdownRows + '</table>';
+
+  /* Determine result based on 60-month disposable income thresholds
+   * Below $9,075 ($151.25/month): PASS
+   * $9,075-$15,150: PASS only if less than 25% of non-priority unsecured debt (we assume pass for estimate)
+   * Above $15,150 ($252.50/month): FAIL -- presumption of abuse
+   */
+  var resultHtml = '';
+  var resultClass = '';
+
+  if (monthlyDisposable <= 0 || disposable60 < 9075) {
+    resultClass = 'result-pass';
+    resultHtml =
+      '<div class="' + resultClass + '">' +
+      '<h4>You likely PASS the full means test.</h4>' +
+      '<p>After deductions, your estimated monthly disposable income is <strong>' + formatCurrency(monthlyDisposable) + '</strong>. Over 60 months, that is <strong>' + formatCurrency(disposable60) + '</strong> -- below the $9,075 threshold.</p>' +
+      '<p>The presumption of abuse does <strong>not</strong> arise. Based on these estimates, you would likely qualify for Chapter 7 bankruptcy.</p>' +
+      breakdownHtml +
+      '<p class="result-detail"><strong>Important:</strong> This estimate uses the expenses you entered. The actual Form 122A-2 uses IRS National and Local Standards for some categories (food, clothing, housing, transportation), which may differ from your actual spending. Consult a bankruptcy attorney to verify your specific numbers.</p>' +
+      '<p class="result-detail"><strong>Next steps:</strong> Check your <a href="https://bankruptcyexemptionsbystate.com">state exemptions</a> to protect your property. Unsure whether Chapter 7 or Chapter 13 is right for you? Compare them at <a href="https://chapter7vs13.org">chapter7vs13.org</a>. Ready to start the process? See <a href="https://howtofilebankruptcy.org">howtofilebankruptcy.org</a>.</p>' +
+      '</div>';
+  } else if (disposable60 >= 9075 && disposable60 <= 15150) {
+    resultClass = 'result-above';
+    resultHtml =
+      '<div class="' + resultClass + '">' +
+      '<h4>You MAY pass the means test -- it depends on your unsecured debt.</h4>' +
+      '<p>Your estimated 60-month disposable income of <strong>' + formatCurrency(disposable60) + '</strong> falls in the "gray zone" ($9,075 -- $15,150). In this range, you pass only if the amount is <strong>less than 25%</strong> of your total non-priority unsecured debts (credit cards, medical bills, personal loans).</p>' +
+      '<p>For example, if you have $60,000 in unsecured debt, 25% is $15,000 -- so a 60-month disposable of ' + formatCurrency(disposable60) + ' would ' + (disposable60 < 15000 ? 'likely pass.' : 'be close to the line.') + '</p>' +
+      breakdownHtml +
+      '<p class="result-detail"><strong>What to do:</strong> Add up all your non-priority unsecured debts. Multiply by 0.25. If your 60-month disposable (' + formatCurrency(disposable60) + ') is less than that number, you pass. Otherwise, you may need to consider <a href="https://chapter7vs13.org">Chapter 13</a> or argue special circumstances.</p>' +
+      '<p class="result-detail"><strong>Note:</strong> This estimate uses your self-reported expenses. The actual Form 122A-2 uses IRS standards for some categories, which may be higher or lower. Consult a bankruptcy attorney for an accurate calculation.</p>' +
+      '</div>';
+  } else {
+    resultClass = 'result-fail';
+    resultHtml =
+      '<div class="' + resultClass + '">' +
+      '<h4>Based on these numbers, the presumption of abuse would arise.</h4>' +
+      '<p>Your estimated 60-month disposable income of <strong>' + formatCurrency(disposable60) + '</strong> exceeds the $15,150 threshold. This means a presumption of abuse would arise under 11 U.S.C. Section 707(b)(2).</p>' +
+      breakdownHtml +
+      '<p class="result-detail"><strong>This is not the end.</strong> You may still be able to file Chapter 7 if you can show "special circumstances" under Section 707(b)(2)(B) -- such as a serious medical condition, military service, recent job loss, or extraordinary expenses not captured in the standard calculation.</p>' +
+      '<p class="result-detail"><strong>Chapter 13 is a strong alternative.</strong> There is no means test for Chapter 13. You keep all your property, can cure mortgage arrears, and get a structured path to financial recovery. Compare your options at <a href="https://chapter7vs13.org">chapter7vs13.org</a>.</p>' +
+      '<p class="result-detail"><strong>Common reasons estimates are off:</strong> You may have deductions you did not include (Chapter 13 trustee administrative expense, marital adjustment, additional secured debts). The IRS Local Standards for your county may allow higher housing and transportation deductions than your actual spending. Consult a bankruptcy attorney -- many offer free consultations.</p>' +
+      '<p class="result-detail"><a href="/what-if-you-fail.html">Read our full guide on what happens if you fail the means test.</a></p>' +
+      '</div>';
+  }
+
+  document.getElementById('calc-result').innerHTML = resultHtml;
+  wizardNext(4);
+
+  /* Track in GA4 */
+  if (typeof gtag === 'function') {
+    var resultLabel = disposable60 < 9075 ? 'pass_full' : (disposable60 <= 15150 ? 'gray_zone' : 'presumption_abuse');
+    gtag('event', 'means_test_full', {
+      'event_category': 'calculator',
+      'event_label': state + '_' + resultLabel,
+      'value': Math.round(monthlyDisposable),
+      'custom_result': resultLabel
+    });
+  }
+}
+
+/* Reset calculator */
+function resetCalculator() {
+  document.getElementById('calc-state').value = '';
+  document.getElementById('calc-household').value = '1';
+  document.getElementById('calc-income-6mo').value = '';
+  document.getElementById('income-preview').innerHTML = '';
+  document.getElementById('step1-result').innerHTML = '';
+  document.getElementById('calc-result').innerHTML = '';
+
+  /* Reset expense fields */
+  var expIds = ['exp-taxes','exp-housing','exp-utilities','exp-food','exp-transport','exp-carpmt',
+    'exp-health','exp-medical','exp-childcare','exp-clothing','exp-courtord','exp-education',
+    'exp-priority','exp-other'];
+  for (var i = 0; i < expIds.length; i++) {
+    document.getElementById(expIds[i]).value = '';
+  }
+
+  wizardNext(1);
+}
 </script>
 
 <script src="/btn-engage.js" defer></script>
