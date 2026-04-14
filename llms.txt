@@ -1,22 +1,23 @@
-# Bankruptcy Means Test Online -- Free Calculator & Guide [2026]
+# Bankruptcy Means Test Online - Free Calculator & Guide [2026]
 > Free bankruptcy means test calculator. Enter your income and expenses to check Chapter 7 eligibility instantly. Updated with 2026 median inco...
 
 ## About
 meanstest.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Above Median Income? You May Still Qualify for Chapter 7 -- Means Test: https://meanstest.org/above-median-income.html
-- Self-Employed Means Test -- Business Expenses and Chapter 7 Eligibility: https://meanstest.org/business-income.html
-- Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test: https://meanstest.org/calculator.html
-- The Chapter 13 Means Test -- Plan Length, Not Eligibility: https://meanstest.org/chapter-13-means-test.html
-- Common Means Test Mistakes -- Errors That Can Cost You: https://meanstest.org/common-mistakes.html
-- Means Test Deductions Explained -- IRS Standards, Actual Expenses, and What Counts: https://meanstest.org/deductions.html
-- Means Test Household Size -- Who Counts?: https://meanstest.org/household-size.html
-- How the Means Test Works -- The Two-Step Process: https://meanstest.org/how-it-works.html
-- Bankruptcy Means Test Online -- Free Calculator & Guide: https://meanstest.org/
-- Median Income by State -- Bankruptcy Means Test Income Tables: https://meanstest.org/median-income.html
-- What Happens If You Fail the Means Test -- Your Options: https://meanstest.org/what-if-you-fail.html
-- Means Test Vocabulary -- Every Term Explained | meanstest.org | Free 2026 Guide: https://meanstest.org/vocabulary.html
+- Above Median Income? You May Still Qualify for Chapter 7 - Means Test: https://meanstest.org/above-median-income.html
+- Self-Employed Means Test - Business Expenses and Chapter 7 Eligibility: https://meanstest.org/business-income.html
+- Free Means Test Calculator - Check If You Pass the Bankruptcy Means Test: https://meanstest.org/calculator.html
+- The Chapter 13 Means Test - Plan Length, Not Eligibility: https://meanstest.org/chapter-13-means-test.html
+- Common Means Test Mistakes - Errors That Can Cost You: https://meanstest.org/common-mistakes.html
+- Means Test Deductions Explained - IRS Standards, Actual Expenses, and What Counts: https://meanstest.org/deductions.html
+- Means Test Household Size - Who Counts?: https://meanstest.org/household-size.html
+- How the Means Test Works - The Two-Step Process: https://meanstest.org/how-it-works.html
+- Bankruptcy Means Test Online - Free Calculator & Guide: https://meanstest.org/
+- Median Income by State - Bankruptcy Means Test Income Tables: https://meanstest.org/median-income.html
+- Means Test Vocabulary - Every Term Explained | meanstest.org | Free 2026 Guide: https://meanstest.org/vocabulary.html
+- What Happens If You Fail the Means Test - Your Options: https://meanstest.org/what-if-you-fail.html
+- Privacy Policy: https://meanstest.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

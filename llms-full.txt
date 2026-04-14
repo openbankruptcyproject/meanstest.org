@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Above Median Income? You May Still Qualify for Chapter 7 -- Means Test
+## Above Median Income? You May Still Qualify for Chapter 7 - Means Test
 Source: https://meanstest.org/above-median-income.html
 
 Skip to main content
@@ -28,19 +28,19 @@ EN | ES
 
 Above Median Income? You May Still Qualify for Chapter 7
 
-Being above median income triggers the full means test -- but it does not automatically disqualify you
+Being above median income triggers the full means test - but it does not automatically disqualify you
 
 Home › Above Median Income
 
 Above Median Does Not Mean Disqualified
 
-This is one of the biggest misconceptions in consumer bankruptcy: people hear "your income is above the median" and assume they cannot file Chapter 7. That is wrong. Being above the median income for your state and household size triggers the full means test -- Form 122A-2 -- but many above-median filers still qualify for Chapter 7 after accounting for their actual expenses and obligations.
+This is one of the biggest misconceptions in consumer bankruptcy: people hear "your income is above the median" and assume they cannot file Chapter 7. That is wrong. Being above the median income for your state and household size triggers the full means test - Form 122A-2 - but many above-median filers still qualify for Chapter 7 after accounting for their actual expenses and obligations.
 
-The means test is a formula, not a bright-line cutoff. It has two steps. Step 1 compares your income to the state median. If you are below, you pass automatically. If you are above, you move to Step 2 -- the full calculation -- where allowed deductions are subtracted from your income. Only if your remaining disposable income exceeds certain thresholds does a "presumption of abuse" arise under 11 U.S.C. Section 707(b)(2)(A).
+The means test is a formula, not a bright-line cutoff. It has two steps. Step 1 compares your income to the state median. If you are below, you pass automatically. If you are above, you move to Step 2 - the full calculation - where allowed deductions are subtracted from your income. Only if your remaining disposable income exceeds certain thresholds does a "presumption of abuse" arise under 11 U.S.C. Section 707(b)(2)(A).
 
 The key takeaway
 
-Do not assume you are disqualified based on income alone. The full means test exists specifically to account for the reality that high income does not always mean high ability to pay. A household earning $95,000 with a mortgage, two car payments, health insurance, and three children may have very little disposable income -- and the means test is designed to capture that.
+Do not assume you are disqualified based on income alone. The full means test exists specifically to account for the reality that high income does not always mean high ability to pay. A household earning $95,000 with a mortgage, two car payments, health insurance, and three children may have very little disposable income - and the means test is designed to capture that.
 
 How the Full Means Test Works (Form 122A-2)
 
@@ -72,7 +72,7 @@ Secured vehicle loan payments are deductible as "payments on debts secured by pr
 
 Health Insurance and Out-of-Pocket Medical
 
-Health insurance premiums -- for you and your dependents -- are deductible at their actual cost. If you pay for employer-sponsored coverage or individual market insurance, the full premium counts. The IRS National Standards also include a separate out-of-pocket health care allowance.
+Health insurance premiums - for you and your dependents - are deductible at their actual cost. If you pay for employer-sponsored coverage or individual market insurance, the full premium counts. The IRS National Standards also include a separate out-of-pocket health care allowance.
 
 Taxes
 
@@ -80,7 +80,7 @@ Federal, state, and local income taxes, Social Security taxes, and Medicare taxe
 
 Childcare and Education
 
-Actual childcare costs (daycare, after-school care, nanny expenses) required for employment are deductible. Education expenses for dependent children through high school are also deductible up to $173.75 per child per month. For families with young children in full-time childcare, this deduction can be enormous -- $1,500 to $3,000 or more per month in many metro areas.
+Actual childcare costs (daycare, after-school care, nanny expenses) required for employment are deductible. Education expenses for dependent children through high school are also deductible up to $173.75 per child per month. For families with young children in full-time childcare, this deduction can be enormous - $1,500 to $3,000 or more per month in many metro areas.
 
 Charitable Contributions
 
@@ -88,7 +88,7 @@ Under 11 U.S.C. Section 707(b)(1), you can deduct charitable contributions up to
 
 Secured Debt Payments
 
-All contractually required payments on secured debts -- mortgages, car loans, furniture financing -- are deductible. These are separate from the IRS Local Standards and stack on top. If you owe $350,000 on a mortgage and $25,000 on a car loan, the monthly payments on both reduce your means test income.
+All contractually required payments on secured debts - mortgages, car loans, furniture financing - are deductible. These are separate from the IRS Local Standards and stack on top. If you owe $350,000 on a mortgage and $25,000 on a car loan, the monthly payments on both reduce your means test income.
 
 A Real-World Scenario
 
@@ -116,7 +116,7 @@ This scenario is not unusual. A family with a mortgage, car payments, insurance,
 
 The Special Circumstances Escape Valve
 
-Even if the numbers on Form 122A-2 show that you fail -- meaning your disposable income exceeds the threshold and a presumption of abuse arises -- you may still be able to file Chapter 7. Section 707(b)(2)(B) allows you to rebut the presumption of abuse by demonstrating "special circumstances."
+Even if the numbers on Form 122A-2 show that you fail - meaning your disposable income exceeds the threshold and a presumption of abuse arises - you may still be able to file Chapter 7. Section 707(b)(2)(B) allows you to rebut the presumption of abuse by demonstrating "special circumstances."
 
 Congress did not define "special circumstances" exhaustively, but the statute gives two examples:
 
@@ -134,17 +134,17 @@ Provide a detailed explanation of the special circumstances
 
 Sign an attestation under penalty of perjury
 
-Courts have recognized a range of special circumstances beyond the two statutory examples. Job loss, impending foreclosure, family medical emergencies, and other genuine hardships have been accepted. The standard is not impossibly high -- the court must find that the additional expenses or income adjustments bring you below the threshold when the special circumstances are factored in.
+Courts have recognized a range of special circumstances beyond the two statutory examples. Job loss, impending foreclosure, family medical emergencies, and other genuine hardships have been accepted. The standard is not impossibly high - the court must find that the additional expenses or income adjustments bring you below the threshold when the special circumstances are factored in.
 
 The IRS Living Standards: Your Built-In Deductions
 
 A critical feature of the means test is that it uses IRS-published expense allowances rather than requiring you to prove every dollar you spend. The IRS publishes three categories of standards:
 
-National Standards -- food, clothing, household supplies, personal care, and miscellaneous. These are the same nationwide and vary only by household size. You get these deductions automatically.
+National Standards - food, clothing, household supplies, personal care, and miscellaneous. These are the same nationwide and vary only by household size. You get these deductions automatically.
 
-Local Standards -- Housing -- vary by county. Cover mortgage or rent, property taxes, insurance, utilities, maintenance, and other housing costs. If your actual housing costs exceed the standard, you use your actual costs (up to certain limits).
+Local Standards - Housing - vary by county. Cover mortgage or rent, property taxes, insurance, utilities, maintenance, and other housing costs. If your actual housing costs exceed the standard, you use your actual costs (up to certain limits).
 
-Local Standards -- Transportation -- vary by region (Census divisions). Cover vehicle ownership costs and operating costs. If you own a vehicle with a loan, you get the ownership allowance plus the operating allowance.
+Local Standards - Transportation - vary by region (Census divisions). Cover vehicle ownership costs and operating costs. If you own a vehicle with a loan, you get the ownership allowance plus the operating allowance.
 
 The IRS updates these standards regularly. The U.S. Trustee publishes the current figures at justice.gov/ust. For a detailed breakdown, see our Deductions page.
 
@@ -180,7 +180,7 @@ No. The state median income is a threshold that determines whether you must comp
 
 Check Where You Stand
 
-Enter your state, household size, and income to see whether you are above or below the state median -- and learn what happens next.
+Enter your state, household size, and income to see whether you are above or below the state median - and learn what happens next.
 
 Use the Free Calculator →
 
@@ -193,7 +193,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -259,11 +259,11 @@ Calculator
 
 Related Resources
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
-How to File Bankruptcy -- Step-by-step guide to the bankruptcy filing process
+How to File Bankruptcy - Step-by-step guide to the bankruptcy filing process
 
 Stay updated on new datasets and research findings
 
@@ -302,7 +302,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Self-Employed Means Test -- Business Expenses and Chapter 7 Eligibility
+## Self-Employed Means Test - Business Expenses and Chapter 7 Eligibility
 Source: https://meanstest.org/business-income.html
 
 Skip to main content
@@ -330,21 +330,21 @@ Home › Self-Employed Means Test
 
 Self-Employment Creates Unique Complications
 
-If you are self-employed -- whether you run a small business, freelance, do contract work, or have a side hustle -- the bankruptcy means test works differently for you than for a W-2 employee. The core issue is how your income is calculated for purposes of "current monthly income" (CMI) under 11 U.S.C. Section 101(10A).
+If you are self-employed - whether you run a small business, freelance, do contract work, or have a side hustle - the bankruptcy means test works differently for you than for a W-2 employee. The core issue is how your income is calculated for purposes of "current monthly income" (CMI) under 11 U.S.C. Section 101(10A).
 
 For W-2 employees, income is straightforward: wages, salary, tips. For self-employed filers, you must account for both gross business revenue and business expenses. The difference between these two numbers can make or break your means test result.
 
 The Rule
 
-Current monthly income includes income from "all sources" derived during the 6-month lookback period. For self-employed debtors, this means gross business revenue is included -- but ordinary and necessary business expenses are subtracted. It is your net business income, not gross revenue, that enters the means test formula.
+Current monthly income includes income from "all sources" derived during the 6-month lookback period. For self-employed debtors, this means gross business revenue is included - but ordinary and necessary business expenses are subtracted. It is your net business income, not gross revenue, that enters the means test formula.
 
 Gross Revenue vs. Net Income: The Critical Distinction
 
 Suppose you run a cleaning company. In the 6 months before filing, your business took in $120,000 in gross revenue. But you paid $45,000 in employee wages, $12,000 in supplies, $6,000 in vehicle expenses, $3,600 in insurance, and $5,400 in other operating costs. Your net business income is $48,000 for the 6-month period, or $8,000 per month.
 
-On the means test, your CMI from the business is $8,000 per month -- not $20,000. This distinction is critical. Many self-employed people have gross revenues that look high but net income that is modest after legitimate expenses.
+On the means test, your CMI from the business is $8,000 per month - not $20,000. This distinction is critical. Many self-employed people have gross revenues that look high but net income that is modest after legitimate expenses.
 
-You report this on Form 122A-1 (Statement of Your Current Monthly Income). Line 3 asks for "Net income from the operation of a business, profession, or farm." The word "net" is key -- it means after business expenses.
+You report this on Form 122A-1 (Statement of Your Current Monthly Income). Line 3 asks for "Net income from the operation of a business, profession, or farm." The word "net" is key - it means after business expenses.
 
 The 6-Month Lookback Period
 
@@ -358,27 +358,27 @@ A freelance web developer who landed a $60,000 project in October and another in
 
 What Counts as a Business Expense?
 
-The means test does not define "business expenses" separately. Courts generally follow tax law standards -- ordinary and necessary expenses of operating the business. Common deductible business expenses include:
+The means test does not define "business expenses" separately. Courts generally follow tax law standards - ordinary and necessary expenses of operating the business. Common deductible business expenses include:
 
-Cost of goods sold -- raw materials, inventory, wholesale purchases
+Cost of goods sold - raw materials, inventory, wholesale purchases
 
-Employee wages and contractor payments -- payroll, 1099 payments, subcontractor fees
+Employee wages and contractor payments - payroll, 1099 payments, subcontractor fees
 
-Rent and utilities -- office space, warehouse, business share of home office
+Rent and utilities - office space, warehouse, business share of home office
 
-Supplies and equipment -- tools, software, consumables, maintenance
+Supplies and equipment - tools, software, consumables, maintenance
 
-Vehicle expenses -- fuel, maintenance, insurance (business-use portion)
+Vehicle expenses - fuel, maintenance, insurance (business-use portion)
 
-Business insurance -- liability, workers' comp, professional coverage
+Business insurance - liability, workers' comp, professional coverage
 
-Professional services -- accounting, legal, consulting fees
+Professional services - accounting, legal, consulting fees
 
-Marketing and advertising -- website, ads, business cards, trade shows
+Marketing and advertising - website, ads, business cards, trade shows
 
-Travel -- business-related travel, lodging, meals (business portion)
+Travel - business-related travel, lodging, meals (business portion)
 
-Licenses and permits -- business licenses, professional certifications, regulatory fees
+Licenses and permits - business licenses, professional certifications, regulatory fees
 
 Personal expenses are not deductible as business expenses. The court and the U.S. Trustee will scrutinize your business expenses for any personal spending disguised as business costs. Personal vehicle use, personal meals, personal travel, and similar items must be separated from legitimate business expenses.
 
@@ -388,7 +388,7 @@ Here is where it gets tricky. The means test has two layers of expense treatment
 
 Business expenses are subtracted from gross revenue to calculate net business income (CMI). This happens on Form 122A-1.
 
-Personal deductions -- IRS standards, taxes, insurance, secured debts -- are subtracted from CMI on Form 122A-2 (if you are above the median).
+Personal deductions - IRS standards, taxes, insurance, secured debts - are subtracted from CMI on Form 122A-2 (if you are above the median).
 
 The risk of double-counting arises when a business expense overlaps with a personal deduction. For example, if your business pays for your health insurance, that cost is already subtracted as a business expense. You cannot then claim it again as a personal health insurance deduction on Form 122A-2. The same applies to vehicle expenses: if your business deducts car costs, you cannot also claim the full IRS transportation allowance for the same vehicle.
 
@@ -398,21 +398,21 @@ Keep clear records separating business and personal expenses. If you use a vehic
 
 Schedule I and J: The Full Picture
 
-Beyond the means test, self-employed filers complete Schedule I (Your Income) and Schedule J (Your Expenses). These schedules show your actual current income and expenses -- not the formulaic means test calculations.
+Beyond the means test, self-employed filers complete Schedule I (Your Income) and Schedule J (Your Expenses). These schedules show your actual current income and expenses - not the formulaic means test calculations.
 
-Schedule I requires self-employed debtors to attach a detailed statement of gross receipts and expenses. Schedule J lists your actual monthly living expenses. Together, they show the court what your real financial situation looks like right now -- which may differ significantly from the 6-month lookback.
+Schedule I requires self-employed debtors to attach a detailed statement of gross receipts and expenses. Schedule J lists your actual monthly living expenses. Together, they show the court what your real financial situation looks like right now - which may differ significantly from the 6-month lookback.
 
 Why does this matter? Because even if you pass the means test, the court can still dismiss your case under the "totality of the circumstances" test in Section 707(b)(3). If the means test says you qualify but Schedules I and J show you actually have significant disposable income, the U.S. Trustee may argue your filing is abusive. Conversely, if the means test is borderline but your actual expenses clearly show you cannot pay creditors, Schedules I and J support your case.
 
 Strategic Filing Timing
 
-For self-employed filers with variable income, the timing of your bankruptcy filing is a legitimate strategic consideration. The 6-month lookback is mechanical -- it captures exactly 6 calendar months and nothing else. If your income fluctuates, filing at the right time can make a real difference.
+For self-employed filers with variable income, the timing of your bankruptcy filing is a legitimate strategic consideration. The 6-month lookback is mechanical - it captures exactly 6 calendar months and nothing else. If your income fluctuates, filing at the right time can make a real difference.
 
 Consider these scenarios:
 
 Seasonal business: A landscaper who earns most income from April through October would have a lower CMI filing in March (lookback: September through February) than filing in November (lookback: May through October).
 
-One-time windfall: If you received a large one-time payment -- settlement, bonus, insurance payout -- waiting until it falls outside the 6-month window lowers your CMI.
+One-time windfall: If you received a large one-time payment - settlement, bonus, insurance payout - waiting until it falls outside the 6-month window lowers your CMI.
 
 Business downturn: If your business has recently slowed, filing sooner captures more high-income months. Waiting allows more low-income months to enter the calculation.
 
@@ -420,7 +420,7 @@ Lost a major client: If you lost a client responsible for significant revenue, e
 
 Caution: the totality test
 
-Strategic timing is legal, but there are limits. Under Section 707(b)(3), the court can examine the "totality of the debtor's financial circumstances" to determine whether the filing is an abuse. If it appears you deliberately manipulated your filing date to game the means test -- while actually having the ability to repay debts -- the court may dismiss your case. Strategic timing works best when it reflects your genuine financial reality, not an artificial snapshot.
+Strategic timing is legal, but there are limits. Under Section 707(b)(3), the court can examine the "totality of the debtor's financial circumstances" to determine whether the filing is an abuse. If it appears you deliberately manipulated your filing date to game the means test - while actually having the ability to repay debts - the court may dismiss your case. Strategic timing works best when it reflects your genuine financial reality, not an artificial snapshot.
 
 Practical Tips for Self-Employed Filers
 
@@ -452,7 +452,7 @@ Yes, timing is a legitimate consideration. The means test mechanically captures 
 
 What business expenses can I deduct on the means test?
 
-Ordinary and necessary business operating expenses -- cost of goods, payroll, rent, utilities, supplies, vehicle costs, insurance, professional services, marketing, and similar items. Personal expenses cannot be claimed as business expenses. Keep detailed records to support every deduction.
+Ordinary and necessary business operating expenses - cost of goods, payroll, rent, utilities, supplies, vehicle costs, insurance, professional services, marketing, and similar items. Personal expenses cannot be claimed as business expenses. Keep detailed records to support every deduction.
 
 Check Where You Stand
 
@@ -469,7 +469,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -535,11 +535,11 @@ Calculator
 
 Related Resources
 
-Section 1192 -- Subchapter V -- Small business reorganization for businesses with debts under $7.5M
+Section 1192 - Subchapter V - Small business reorganization for businesses with debts under $7.5M
 
-How to File Bankruptcy -- Step-by-step guide to the bankruptcy filing process
+How to File Bankruptcy - Step-by-step guide to the bankruptcy filing process
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
 Stay updated on new datasets and research findings
 
@@ -578,7 +578,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Free Means Test Calculator -- Check If You Pass the Bankruptcy Means Test [2026]
+## Free Means Test Calculator - Check If You Pass the Bankruptcy Means Test [2026]
 Source: https://meanstest.org/calculator.html
 
 meanstest.org
@@ -599,7 +599,7 @@ Skip to main content
 
 Free Means Test Calculator
 
-Enter your income and expenses to check Chapter 7 eligibility -- updated for 2026 filing
+Enter your income and expenses to check Chapter 7 eligibility - updated for 2026 filing
 
 Home › Calculator
 
@@ -611,7 +611,7 @@ How to Use This Calculator
 
 Step-by-Step Form 122A Walkthrough
 
-Median Income Table -- All 50 States + DC
+Median Income Table - All 50 States + DC
 
 Common Deductions Explained
 
@@ -627,7 +627,7 @@ Frequently Asked Questions
 
 Means Test Calculator
 
-This calculator walks you through both steps of the bankruptcy means test. Step 1 compares your income to the state median. If you are above the median, Step 2 lets you enter monthly expenses and deductions to estimate whether you would pass the full means test on Form 122A-2. All calculations run entirely in your browser -- no data is collected or transmitted.
+This calculator walks you through both steps of the bankruptcy means test. Step 1 compares your income to the state median. If you are above the median, Step 2 lets you enter monthly expenses and deductions to estimate whether you would pass the full means test on Form 122A-2. All calculations run entirely in your browser - no data is collected or transmitted.
 
 1. Household
 
@@ -666,7 +666,7 @@ Next: Enter Income
 
 Step 2: Your Income (Last 6 Months)
 
-How to calculate: Add up all income from all sources received during the 6 full calendar months before your filing date. Enter the total below -- the calculator will compute your monthly and annual figures automatically.
+How to calculate: Add up all income from all sources received during the 6 full calendar months before your filing date. Enter the total below - the calculator will compute your monthly and annual figures automatically.
 
 Total Gross Income Over the Last 6 Months
 
@@ -677,7 +677,7 @@ Check Against Median
 
 Step 3: Monthly Expenses and Deductions
 
-Your income is above the state median -- but that does not mean you fail. Enter your actual monthly expenses below. The means test allows specific deductions that reduce your disposable income. Many above-median debtors pass after deductions.
+Your income is above the state median - but that does not mean you fail. Enter your actual monthly expenses below. The means test allows specific deductions that reduce your disposable income. Many above-median debtors pass after deductions.
 
 Enter monthly amounts. Leave blank or 0 for any category that does not apply.
 
@@ -746,7 +746,7 @@ Start Over
 
 Important Limitations
 
-This calculator provides an estimate based on the information you enter. It uses the same logic as the official Form 122A-1 and 122A-2, but does not replace professional advice. The actual means test uses IRS National and Local Standards that vary by county, not just the amounts you enter. The median figures shown are based on the most recent DOJ/USTP data available. Always verify the current figures at justice.gov/ust/means-testing before filing. No data you enter is collected, transmitted, or stored -- all calculations happen entirely in your browser.
+This calculator provides an estimate based on the information you enter. It uses the same logic as the official Form 122A-1 and 122A-2, but does not replace professional advice. The actual means test uses IRS National and Local Standards that vary by county, not just the amounts you enter. The median figures shown are based on the most recent DOJ/USTP data available. Always verify the current figures at justice.gov/ust/means-testing before filing. No data you enter is collected, transmitted, or stored - all calculations happen entirely in your browser.
 
 How to Use This Calculator
 
@@ -766,7 +766,7 @@ IRS dependent test: Only count yourself and people you could claim as dependents
 
 "Economic unit" test: Count people who share income and expenses with you, functioning as a single economic unit. This is the middle ground and the most commonly used approach.
 
-Check which definition your local court uses. In most cases, count yourself, your spouse (even if not filing jointly), and all dependent children and other dependents who live with you. When in doubt, use the economic unit approach -- count people who share your household income and expenses.
+Check which definition your local court uses. In most cases, count yourself, your spouse (even if not filing jointly), and all dependent children and other dependents who live with you. When in doubt, use the economic unit approach - count people who share your household income and expenses.
 
 Calculating Your Income
 
@@ -784,17 +784,17 @@ What to Include and Exclude
 
 Include: Wages, salary, tips, bonuses, overtime, commissions, net business income, rental income, interest, dividends, royalties, pension income, unemployment compensation, state disability, workers' compensation, alimony received, child support received, and regular contributions from others (like a partner paying rent).
 
-Exclude: Social Security benefits (all types -- retirement, disability, SSI, survivor), payments to victims of war crimes, and payments to victims of terrorism.
+Exclude: Social Security benefits (all types - retirement, disability, SSI, survivor), payments to victims of war crimes, and payments to victims of terrorism.
 
 Step-by-Step Form 122A Walkthrough
 
-The means test is completed on two official bankruptcy forms. Understanding what each form does and how to fill it out will help you prepare even if you are working with an attorney -- you should know what numbers are going onto these forms and why.
+The means test is completed on two official bankruptcy forms. Understanding what each form does and how to fill it out will help you prepare even if you are working with an attorney - you should know what numbers are going onto these forms and why.
 
 Form 122A-1: Statement of Your Current Monthly Income
 
 This is the first form everyone files. It determines whether you are above or below the state median. Here is what each part asks for:
 
-Part 1: Military and Non-Consumer Exclusions. The form starts by asking whether you qualify for an exemption. If you are a disabled veteran with debts incurred primarily during active duty, check the box and you are done -- no means test applies. Similarly, if your debts are primarily business debts (not consumer debts), you are exempt. If either applies, you complete this part and skip the rest.
+Part 1: Military and Non-Consumer Exclusions. The form starts by asking whether you qualify for an exemption. If you are a disabled veteran with debts incurred primarily during active duty, check the box and you are done - no means test applies. Similarly, if your debts are primarily business debts (not consumer debts), you are exempt. If either applies, you complete this part and skip the rest.
 
 Part 2: Your Income. This is the core of Form 122A-1. For each of the 6 calendar months before filing, you list all income received from every source. The form has separate lines for:
 
@@ -814,7 +814,7 @@ Line 8: Unemployment compensation
 
 Line 9: Income from all other sources (state disability, workers' comp, etc.)
 
-Line 10: Total CMI -- add lines 2 through 9
+Line 10: Total CMI - add lines 2 through 9
 
 Part 3: Determine Whether the Presumption of Abuse Arises. You take your CMI from line 10, multiply by 12, and compare it to the applicable state median from the table provided with the form. If your annualized CMI is at or below the median, the presumption does not arise. You file Form 122A-1 and stop. If above, you proceed to Form 122A-2.
 
@@ -822,7 +822,7 @@ Form 122A-2: Means Test Calculation
 
 This is the detailed calculation that only above-median debtors complete. It has six parts:
 
-Part 1: Deductions Under IRS Standards. This section applies the IRS National Standards (food, clothing, household supplies, personal care, miscellaneous) and Local Standards (housing, utilities, transportation) to your situation. The amounts are fixed based on household size and county -- they do not depend on what you actually spend.
+Part 1: Deductions Under IRS Standards. This section applies the IRS National Standards (food, clothing, household supplies, personal care, miscellaneous) and Local Standards (housing, utilities, transportation) to your situation. The amounts are fixed based on household size and county - they do not depend on what you actually spend.
 
 Part 2: Additional Living Expense Deductions. Beyond the IRS standards, you can deduct actual expenses for health insurance, disability insurance, HSA contributions, court-ordered payments (alimony, child support you pay), education expenses for dependent children (up to $156.25/month per child for K-12), childcare, and telecommunications.
 
@@ -844,9 +844,9 @@ Where to Get the Forms
 
 Both forms are available free from the U.S. Courts website at uscourts.gov/forms/bankruptcy-forms. Look for Form 122A-1 and Form 122A-2. The forms include instructions and references to the applicable IRS standards and median income tables.
 
-Median Income Table -- All 50 States + DC
+Median Income Table - All 50 States + DC
 
-The table below shows the median family income by state and household size used for the means test. These figures are based on Census Bureau data as published by the U.S. Trustee Program. The USTP updates these figures periodically -- typically every six months. Always verify the current figures at justice.gov/ust/means-testing because the figures in effect on your filing date control.
+The table below shows the median family income by state and household size used for the means test. These figures are based on Census Bureau data as published by the U.S. Trustee Program. The USTP updates these figures periodically - typically every six months. Always verify the current figures at justice.gov/ust/means-testing because the figures in effect on your filing date control.
 
 For household sizes larger than 4, add the amount shown in the "Each Additional" column for each person beyond 4.
 
@@ -863,13 +863,13 @@ The median income figures shown above and used by the calculator are based on th
 
 Common Deductions Explained
 
-If your income is above the state median, the full means test on Form 122A-2 lets you subtract a specific set of deductions. These deductions are what separate "above median" from "failing the means test" -- many above-median debtors pass after deductions. Here is a detailed breakdown of each major deduction category.
+If your income is above the state median, the full means test on Form 122A-2 lets you subtract a specific set of deductions. These deductions are what separate "above median" from "failing the means test" - many above-median debtors pass after deductions. Here is a detailed breakdown of each major deduction category.
 
 IRS National Standards (Food, Clothing, Personal Care)
 
-The IRS publishes fixed monthly allowances for food, housekeeping supplies, apparel and services, personal care products and services, and miscellaneous expenses. These amounts are based on household size and are not negotiable -- you get the standard amount regardless of what you actually spend. As of the most recent IRS update, the allowances range from roughly $785/month for a single person to about $1,720/month for a family of four. You do not need receipts or documentation for these amounts.
+The IRS publishes fixed monthly allowances for food, housekeeping supplies, apparel and services, personal care products and services, and miscellaneous expenses. These amounts are based on household size and are not negotiable - you get the standard amount regardless of what you actually spend. As of the most recent IRS update, the allowances range from roughly $785/month for a single person to about $1,720/month for a family of four. You do not need receipts or documentation for these amounts.
 
-IRS Local Standards -- Housing and Utilities
+IRS Local Standards - Housing and Utilities
 
 Housing and utility deductions are based on your county. The IRS publishes allowances for mortgage/rent and for utilities (including phone) separately. Two important rules apply:
 
@@ -877,25 +877,25 @@ You get the county-specific allowance even if your actual housing costs are lowe
 
 If you have a mortgage payment, that amount also appears as a secured debt deduction (Part 3 of Form 122A-2). To avoid double-counting, you must subtract your average monthly mortgage payment from the Local Standard housing allowance. You only get to deduct the allowance minus the mortgage.
 
-IRS Local Standards -- Transportation
+IRS Local Standards - Transportation
 
 Transportation has two components:
 
-Ownership costs: A fixed monthly allowance per vehicle (one or two vehicles). You only get this if you have a car payment -- if you own your vehicle outright with no loan, you do not get the ownership allowance. Like housing, you must subtract your actual average car payment (which appears as a secured debt deduction) to avoid double-counting.
+Ownership costs: A fixed monthly allowance per vehicle (one or two vehicles). You only get this if you have a car payment - if you own your vehicle outright with no loan, you do not get the ownership allowance. Like housing, you must subtract your actual average car payment (which appears as a secured debt deduction) to avoid double-counting.
 
 Operating costs: A regional monthly allowance for gas, insurance, maintenance, and registration. You get this regardless of whether you have a car payment. The allowance varies by Census region (Northeast, Midwest, South, West).
 
 Taxes
 
-You can deduct the taxes you are required to pay -- federal income tax, state and local income tax, Social Security tax, and Medicare tax. Use your actual required withholding rate, not an inflated voluntary rate. For self-employed debtors, the self-employment tax (the employer-equivalent share of FICA) is deductible. You should base this on your most recent tax return or current pay stubs.
+You can deduct the taxes you are required to pay - federal income tax, state and local income tax, Social Security tax, and Medicare tax. Use your actual required withholding rate, not an inflated voluntary rate. For self-employed debtors, the self-employment tax (the employer-equivalent share of FICA) is deductible. You should base this on your most recent tax return or current pay stubs.
 
 Health Insurance and Medical Costs
 
-Your actual monthly health insurance premiums are fully deductible -- whether employer-sponsored (your share), marketplace, or individual. This includes dental, vision, and disability insurance premiums. If your actual out-of-pocket medical expenses exceed the IRS National Standard for health care, you can deduct the excess. HSA contributions are also deductible, up to the IRS annual contribution limit.
+Your actual monthly health insurance premiums are fully deductible - whether employer-sponsored (your share), marketplace, or individual. This includes dental, vision, and disability insurance premiums. If your actual out-of-pocket medical expenses exceed the IRS National Standard for health care, you can deduct the excess. HSA contributions are also deductible, up to the IRS annual contribution limit.
 
 Childcare and Dependent Care
 
-Actual expenses for childcare required for a parent to work are deductible. This includes daycare, after-school care, summer camps with a childcare function, and care for disabled or elderly dependents. There is no statutory cap on this deduction -- you deduct what you actually pay, as long as it is necessary for employment. For many working parents, this is one of the largest deductions on the means test and can make the difference between passing and failing.
+Actual expenses for childcare required for a parent to work are deductible. This includes daycare, after-school care, summer camps with a childcare function, and care for disabled or elderly dependents. There is no statutory cap on this deduction - you deduct what you actually pay, as long as it is necessary for employment. For many working parents, this is one of the largest deductions on the means test and can make the difference between passing and failing.
 
 Secured Debt Payments
 
@@ -919,11 +919,11 @@ If you owe priority debts (back taxes, past-due alimony or child support, certai
 
 Education Expenses for Dependent Children
 
-You may deduct up to $156.25 per month per dependent child for attendance at a private or public elementary or secondary school. This covers tuition, fees, uniforms, and special educational needs -- but only K-12. College tuition does not qualify for this deduction.
+You may deduct up to $156.25 per month per dependent child for attendance at a private or public elementary or secondary school. This covers tuition, fees, uniforms, and special educational needs - but only K-12. College tuition does not qualify for this deduction.
 
 Chapter 13 Administrative Expense
 
-Even though you are calculating whether you can file Chapter 7, the means test lets you deduct the estimated Chapter 13 trustee fee. The logic is that if you cannot file Chapter 7, you would file Chapter 13, and the trustee fee reduces what creditors receive. The percentage varies by district -- typically between 3% and 10% of total plan payments. Multiply your projected monthly plan payment by the trustee percentage for your district.
+Even though you are calculating whether you can file Chapter 7, the means test lets you deduct the estimated Chapter 13 trustee fee. The logic is that if you cannot file Chapter 7, you would file Chapter 13, and the trustee fee reduces what creditors receive. The percentage varies by district - typically between 3% and 10% of total plan payments. Multiply your projected monthly plan payment by the trustee percentage for your district.
 
 What If You Are Above the Median but Have High Expenses?
 
@@ -939,7 +939,7 @@ A household of 3 in Ohio with an annualized CMI of $88,000 (CMI = $7,333/month) 
 
 IRS National Standards (food, clothing, personal care): $1,400/month
 
-IRS Local Standards (housing, utilities -- net of mortgage): $350/month
+IRS Local Standards (housing, utilities - net of mortgage): $350/month
 
 IRS Local Standards (transportation operating): $300/month
 
@@ -953,7 +953,7 @@ Car payment (secured debt): $450/month
 
 Childcare: $800/month
 
-Total deductions: $7,250/month. Disposable income: $83/month. Over 60 months: $4,980 -- well under $9,075. This debtor passes the means test despite being $10,000 above the median.
+Total deductions: $7,250/month. Disposable income: $83/month. Over 60 months: $4,980 - well under $9,075. This debtor passes the means test despite being $10,000 above the median.
 
 Special Circumstances Can Overcome the Presumption
 
@@ -991,13 +991,13 @@ What happens if you fail the means test? →
 
 Military and Veteran Exemptions
 
-Congress carved out two specific exemptions from the means test for service members and veterans. These exemptions recognize that military service creates unique financial pressures -- frequent relocations, deployments, reduced earning capacity during service -- and that service members should not face additional barriers to bankruptcy relief.
+Congress carved out two specific exemptions from the means test for service members and veterans. These exemptions recognize that military service creates unique financial pressures - frequent relocations, deployments, reduced earning capacity during service - and that service members should not face additional barriers to bankruptcy relief.
 
-Disabled Veterans -- Section 707(b)(2)(D)(i)
+Disabled Veterans - Section 707(b)(2)(D)(i)
 
 A disabled veteran is completely exempt from the means test if the veteran's indebtedness occurred primarily during a period when the veteran was on active duty or was performing a homeland defense activity. The key requirements are:
 
-Veteran status: The debtor must be a veteran as defined in 38 U.S.C. Section 101 -- a person who served in the active military, naval, or air service and was discharged or released under conditions other than dishonorable.
+Veteran status: The debtor must be a veteran as defined in 38 U.S.C. Section 101 - a person who served in the active military, naval, or air service and was discharged or released under conditions other than dishonorable.
 
 Disability: The veteran must have a disability. The statute does not specify a minimum disability rating. Any service-connected disability qualifies. A VA disability rating is strong evidence, but the statute does not explicitly require a VA rating.
 
@@ -1005,7 +1005,7 @@ Debt timing: The debts must have been incurred primarily (more than 50%) during 
 
 If you qualify, check the appropriate box on Form 122A-1 Part 1 and you do not complete the means test calculation. You file Form 122A-1 but skip Form 122A-2 entirely.
 
-Reservists and National Guard -- Section 707(b)(2)(D)(ii)
+Reservists and National Guard - Section 707(b)(2)(D)(ii)
 
 Members of reserve components of the Armed Forces and the National Guard who were called to active duty or performed homeland defense activity for at least 90 days after September 11, 2001 are exempt from the means test if they file within a specified period after release from active duty. The requirements are:
 
@@ -1033,7 +1033,7 @@ Even if you do not qualify for a formal exemption, military service can affect y
 
 Strategic Filing Timing
 
-Because the means test looks at your income over the 6 full calendar months before filing, your result can change significantly depending on when you file. This is not gaming the system -- it is ensuring that the test accurately reflects your current financial situation rather than a temporary income spike.
+Because the means test looks at your income over the 6 full calendar months before filing, your result can change significantly depending on when you file. This is not gaming the system - it is ensuring that the test accurately reflects your current financial situation rather than a temporary income spike.
 
 When Timing Matters Most
 
@@ -1049,7 +1049,7 @@ Tax refund: A large tax refund received during the lookback period may be counte
 
 Do Not Manipulate Your Income
 
-Strategic timing is legitimate. Manipulating your income is not. Do not quit your job, reduce your hours, or redirect income to a third party for the purpose of passing the means test. The court and U.S. Trustee can investigate, and filing with intent to deceive can result in denial of discharge, case dismissal, or criminal referral. The goal of timing is to file when the lookback period reflects your genuine financial situation -- not to create an artificial one.
+Strategic timing is legitimate. Manipulating your income is not. Do not quit your job, reduce your hours, or redirect income to a third party for the purpose of passing the means test. The court and U.S. Trustee can investigate, and filing with intent to deceive can result in denial of discharge, case dismissal, or criminal referral. The goal of timing is to file when the lookback period reflects your genuine financial situation - not to create an artificial one.
 
 Common Mistakes on the Means Test
 
@@ -1057,11 +1057,11 @@ Errors on the means test can delay your case, draw scrutiny from the U.S. Truste
 
 1. Forgetting to Include a Spouse's Income
 
-If you are married, your non-filing spouse's income must be included in your CMI calculation -- even if your spouse is not filing bankruptcy with you and even if you file separately. This is required by 11 U.S.C. Section 101(10A). The only offset is a "marital adjustment" deduction on Form 122A-2 for the portion of your spouse's income that is not used for your household expenses or those of your dependents. Many debtors omit the spouse's income entirely, which can lead to a U.S. Trustee motion to dismiss.
+If you are married, your non-filing spouse's income must be included in your CMI calculation - even if your spouse is not filing bankruptcy with you and even if you file separately. This is required by 11 U.S.C. Section 101(10A). The only offset is a "marital adjustment" deduction on Form 122A-2 for the portion of your spouse's income that is not used for your household expenses or those of your dependents. Many debtors omit the spouse's income entirely, which can lead to a U.S. Trustee motion to dismiss.
 
 2. Using the Wrong 6-Month Period
 
-The lookback period is the 6 full calendar months before the month you file. If you file on March 15, the lookback period is September 1 through February 28 -- not the 180 days before March 15. This distinction matters when a high-income month is on the boundary.
+The lookback period is the 6 full calendar months before the month you file. If you file on March 15, the lookback period is September 1 through February 28 - not the 180 days before March 15. This distinction matters when a high-income month is on the boundary.
 
 3. Including Social Security in Income
 
@@ -1069,7 +1069,7 @@ Social Security benefits are explicitly excluded from CMI under Section 101(10A)
 
 4. Missing the Secured Debt Deduction
 
-Every secured debt payment -- mortgage, car loan, furniture note -- is deductible on Form 122A-2. Some debtors list their mortgage on the housing allowance line but forget to also list it as a secured debt payment (or vice versa). The proper approach is to claim the IRS Local Standard for housing, subtract the actual mortgage payment (to avoid double-counting), and then also list the mortgage as a secured debt deduction at 1/60th of the total amount owed.
+Every secured debt payment - mortgage, car loan, furniture note - is deductible on Form 122A-2. Some debtors list their mortgage on the housing allowance line but forget to also list it as a secured debt payment (or vice versa). The proper approach is to claim the IRS Local Standard for housing, subtract the actual mortgage payment (to avoid double-counting), and then also list the mortgage as a secured debt deduction at 1/60th of the total amount owed.
 
 5. Wrong Household Size
 
@@ -1091,7 +1091,7 @@ Frequently Asked Questions
 
 Can I pass the means test if I make $100,000 a year?
 
-Possibly. Whether you pass depends on your state's median for your household size and -- if you are above the median -- your deductions. In high-cost states like California, New Jersey, or Massachusetts, the median for a family of 4 can exceed $100,000. Even in lower-median states, large deductions (mortgage, childcare, taxes) can push your disposable income below the threshold. There is no fixed income level that automatically disqualifies you.
+Possibly. Whether you pass depends on your state's median for your household size and - if you are above the median - your deductions. In high-cost states like California, New Jersey, or Massachusetts, the median for a family of 4 can exceed $100,000. Even in lower-median states, large deductions (mortgage, childcare, taxes) can push your disposable income below the threshold. There is no fixed income level that automatically disqualifies you.
 
 Does the means test apply to Chapter 13?
 
@@ -1107,15 +1107,15 @@ Yes. Unemployment compensation is included in current monthly income under the m
 
 What about rental income from investment property?
 
-Net rental income (gross rents minus ordinary operating expenses for the property) is included in CMI. Note that this is net income -- you can subtract property taxes, insurance, maintenance, and property management fees from the gross rent. Mortgage payments on investment property are not subtracted from rental income for CMI purposes (they may be deductible as secured debt payments on Form 122A-2).
+Net rental income (gross rents minus ordinary operating expenses for the property) is included in CMI. Note that this is net income - you can subtract property taxes, insurance, maintenance, and property management fees from the gross rent. Mortgage payments on investment property are not subtracted from rental income for CMI purposes (they may be deductible as secured debt payments on Form 122A-2).
 
 My spouse and I are filing jointly. How does that affect the means test?
 
-In a joint filing, both spouses' incomes are combined for the CMI calculation, and you use the combined household size. The median income figure used is based on the total household size (you, your spouse, and all dependents). All deductions are combined as well. Joint filing does not automatically make it harder to pass -- the larger household size raises the median threshold, which can offset the combined income.
+In a joint filing, both spouses' incomes are combined for the CMI calculation, and you use the combined household size. The median income figure used is based on the total household size (you, your spouse, and all dependents). All deductions are combined as well. Joint filing does not automatically make it harder to pass - the larger household size raises the median threshold, which can offset the combined income.
 
 Can the U.S. Trustee still challenge my case if I pass the means test?
 
-Yes. Passing the means test only means there is no presumption of abuse under Section 707(b)(2). The U.S. Trustee or any party in interest can still seek dismissal under Section 707(b)(3) based on the "totality of circumstances" -- bad faith filing, materially misleading schedules, or other indicia of abuse. The means test is a safe harbor against the mathematical presumption, not a guarantee that your case cannot be challenged.
+Yes. Passing the means test only means there is no presumption of abuse under Section 707(b)(2). The U.S. Trustee or any party in interest can still seek dismissal under Section 707(b)(3) based on the "totality of circumstances" - bad faith filing, materially misleading schedules, or other indicia of abuse. The means test is a safe harbor against the mathematical presumption, not a guarantee that your case cannot be challenged.
 
 Learn More About the Means Test
 
@@ -1125,14 +1125,14 @@ Full Means Test Guide at meanstest.org →
 
 Not Legal Advice
 
-This calculator and guide provide general educational information about the bankruptcy means test under 11 U.S.C. Section 707(b). This is not legal advice. The means test is a complex, fact-specific calculation. Median income figures change periodically. Individual circumstances vary. Consult a licensed bankruptcy attorney in your jurisdiction before making any filing decisions. No data entered into this calculator is collected, transmitted, or stored -- all calculations happen entirely in your browser.
+This calculator and guide provide general educational information about the bankruptcy means test under 11 U.S.C. Section 707(b). This is not legal advice. The means test is a complex, fact-specific calculation. Median income figures change periodically. Individual circumstances vary. Consult a licensed bankruptcy attorney in your jurisdiction before making any filing decisions. No data entered into this calculator is collected, transmitted, or stored - all calculations happen entirely in your browser.
 
 Further Reading & Resources
 
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -1250,7 +1250,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## The Chapter 13 Means Test -- Plan Length, Not Eligibility
+## The Chapter 13 Means Test - Plan Length, Not Eligibility
 Source: https://meanstest.org/chapter-13-means-test.html
 
 Skip to main content
@@ -1271,7 +1271,7 @@ Calculator
 
 The Chapter 13 Means Test
 
-In Chapter 13, the means test determines plan length -- not whether you can file
+In Chapter 13, the means test determines plan length - not whether you can file
 
 Home › Chapter 13 Means Test
 
@@ -1279,17 +1279,17 @@ If you are looking at Chapter 13 because you did not pass the Chapter 7 means te
 
 No Means Test for Eligibility
 
-Section 707(b) -- the means test -- applies only to Chapter 7. There is no income-based test that can prevent you from filing Chapter 13. If you have regular income and your debts are within the statutory limits, you can file.
+Section 707(b) - the means test - applies only to Chapter 7. There is no income-based test that can prevent you from filing Chapter 13. If you have regular income and your debts are within the statutory limits, you can file.
 
 Chapter 13 Eligibility Requirements
 
-Regular income -- wages, self-employment income, Social Security, pension, or any other regular source
+Regular income - wages, self-employment income, Social Security, pension, or any other regular source
 
-Debt limits -- combined secured and unsecured debts must be below $2,750,000 (as of the 2024 adjustment)
+Debt limits - combined secured and unsecured debts must be below $2,750,000 (as of the 2024 adjustment)
 
-Tax filing -- you must have filed all required tax returns for the 4 years before filing
+Tax filing - you must have filed all required tax returns for the 4 years before filing
 
-Credit counseling -- you must complete an approved credit counseling course within 180 days before filing
+Credit counseling - you must complete an approved credit counseling course within 180 days before filing
 
 How Income Determines Plan Length
 
@@ -1311,15 +1311,15 @@ This is set by Section 1325(b)(4). If you are above the median, your plan must r
 
 Why This Matters
 
-A 3-year plan means 36 monthly payments. A 5-year plan means 60 monthly payments. That is two additional years of living on a court-supervised budget. For many people, the difference between 3 and 5 years is significant -- it affects your financial flexibility, life planning, and the total amount you pay to unsecured creditors.
+A 3-year plan means 36 monthly payments. A 5-year plan means 60 monthly payments. That is two additional years of living on a court-supervised budget. For many people, the difference between 3 and 5 years is significant - it affects your financial flexibility, life planning, and the total amount you pay to unsecured creditors.
 
 The Disposable Income Test
 
-Chapter 13 has its own income calculation -- the disposable income test under Section 1325(b). If the trustee or an unsecured creditor objects to your plan, you must commit all "projected disposable income" to plan payments for the applicable commitment period.
+Chapter 13 has its own income calculation - the disposable income test under Section 1325(b). If the trustee or an unsecured creditor objects to your plan, you must commit all "projected disposable income" to plan payments for the applicable commitment period.
 
 How It Works for Below-Median Debtors
 
-If your income is at or below the state median, disposable income is calculated using your actual expenses -- what you really spend on housing, food, transportation, etc. This can be more or less favorable than the IRS standards, depending on your situation.
+If your income is at or below the state median, disposable income is calculated using your actual expenses - what you really spend on housing, food, transportation, etc. This can be more or less favorable than the IRS standards, depending on your situation.
 
 How It Works for Above-Median Debtors
 
@@ -1349,33 +1349,33 @@ Projection period
 
 Consequence
 Case dismissed or converted
-Plan not confirmed -- must pay more or modify
+Plan not confirmed - must pay more or modify
 
 What You Must Pay in Chapter 13
 
 Your Chapter 13 plan must satisfy several requirements:
 
-Priority debts in full -- back taxes, domestic support obligations, and other priority claims must be paid 100% through the plan
+Priority debts in full - back taxes, domestic support obligations, and other priority claims must be paid 100% through the plan
 
-Secured debts -- you must keep current on mortgage and car loan payments (or surrender the collateral)
+Secured debts - you must keep current on mortgage and car loan payments (or surrender the collateral)
 
-Disposable income commitment -- all projected disposable income goes to unsecured creditors for the plan period
+Disposable income commitment - all projected disposable income goes to unsecured creditors for the plan period
 
-Best interests test -- unsecured creditors must receive at least as much as they would in a hypothetical Chapter 7 liquidation
+Best interests test - unsecured creditors must receive at least as much as they would in a hypothetical Chapter 7 liquidation
 
-Trustee fee -- the Chapter 13 trustee takes a percentage (typically 6-10%) of plan payments as an administrative fee
+Trustee fee - the Chapter 13 trustee takes a percentage (typically 6-10%) of plan payments as an administrative fee
 
 The result is that your monthly plan payment covers all of these obligations. For some debtors, unsecured creditors receive very little (sometimes 0%) after priority debts, secured debts, and the trustee fee are accounted for. For others, especially above-median debtors, the unsecured portion can be substantial.
 
 Forms You Will File
 
-Form 122C-1 -- Chapter 13 Statement of Your Current Monthly Income and Calculation of Commitment Period. Determines whether your plan runs 3 or 5 years.
+Form 122C-1 - Chapter 13 Statement of Your Current Monthly Income and Calculation of Commitment Period. Determines whether your plan runs 3 or 5 years.
 
-Form 122C-2 -- Chapter 13 Calculation of Your Disposable Income. Only required for above-median debtors. Uses IRS standards to calculate how much of your income must go to unsecured creditors.
+Form 122C-2 - Chapter 13 Calculation of Your Disposable Income. Only required for above-median debtors. Uses IRS standards to calculate how much of your income must go to unsecured creditors.
 
 Chapter 13 Completion Rates
 
-Chapter 13 is a marathon, not a sprint. National data shows that roughly 33-40% of Chapter 13 cases end in discharge. The rest are dismissed -- often because the debtor could not maintain plan payments over the full 3 or 5 years. Job loss, medical emergencies, divorce, and other life events can derail a plan.
+Chapter 13 is a marathon, not a sprint. National data shows that roughly 33-40% of Chapter 13 cases end in discharge. The rest are dismissed - often because the debtor could not maintain plan payments over the full 3 or 5 years. Job loss, medical emergencies, divorce, and other life events can derail a plan.
 
 This is not meant to discourage you. Many people successfully complete Chapter 13 and emerge debt-free. But it is important to understand that Chapter 13 requires a sustained commitment over years, and you should plan for the possibility that circumstances may change during that time.
 
@@ -1394,7 +1394,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -1498,7 +1498,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Common Means Test Mistakes -- Errors That Can Cost You
+## Common Means Test Mistakes - Errors That Can Cost You
 Source: https://meanstest.org/common-mistakes.html
 
 Skip to main content
@@ -1519,7 +1519,7 @@ Calculator
 
 Common Means Test Mistakes
 
-Each of these errors can flip your result from pass to fail -- or make you think you fail when you actually pass
+Each of these errors can flip your result from pass to fail - or make you think you fail when you actually pass
 
 Home › Common Mistakes
 
@@ -1531,9 +1531,9 @@ The Error
 
 Including Social Security benefits in your current monthly income calculation.
 
-Social Security income is excluded from the means test. All types -- retirement, disability (SSDI), survivors benefits, SSI. This is one of the most common errors, especially among retirees and people on disability who assume "all income counts."
+Social Security income is excluded from the means test. All types - retirement, disability (SSDI), survivors benefits, SSI. This is one of the most common errors, especially among retirees and people on disability who assume "all income counts."
 
-If you receive $2,000/month in Social Security and $1,500/month from a pension, your CMI for means test purposes is $1,500 -- not $3,500. This single correction can mean the difference between being above or below the median.
+If you receive $2,000/month in Social Security and $1,500/month from a pension, your CMI for means test purposes is $1,500 - not $3,500. This single correction can mean the difference between being above or below the median.
 
 The Fix
 
@@ -1543,17 +1543,17 @@ Mistake #2: Wrong Household Size
 
 The Error
 
-Using the wrong number for household size -- either too small (missing dependents) or too large (including people who should not count).
+Using the wrong number for household size - either too small (missing dependents) or too large (including people who should not count).
 
 Household size directly determines which median income number you compare against. A household of 2 might have a median of $68,000 while a household of 3 has a median of $78,000. Getting this number wrong by even one person can change your result.
 
 The tricky part: courts disagree on how to count household size. Three approaches exist:
 
-Census Bureau (head count) -- everyone living in your home, regardless of relationship or dependency
+Census Bureau (head count) - everyone living in your home, regardless of relationship or dependency
 
-IRS dependent test -- only people you can claim as dependents on your tax return, plus yourself and spouse
+IRS dependent test - only people you can claim as dependents on your tax return, plus yourself and spouse
 
-Economic unit test -- people who form a single economic unit, sharing income and expenses
+Economic unit test - people who form a single economic unit, sharing income and expenses
 
 Different courts in different districts use different tests. The one your court uses can significantly affect your result.
 
@@ -1567,7 +1567,7 @@ The Error
 
 Using your annual salary or current gross paycheck amount instead of calculating CMI properly.
 
-The means test does not use your current salary or your annual income. It uses your average monthly income over the 6 full calendar months before filing. If your income has changed during that period -- you got a raise, lost a job, worked overtime, received a bonus -- the 6-month average will be different from your current salary.
+The means test does not use your current salary or your annual income. It uses your average monthly income over the 6 full calendar months before filing. If your income has changed during that period - you got a raise, lost a job, worked overtime, received a bonus - the 6-month average will be different from your current salary.
 
 This also means that timing matters. If you had a high-income month 5 months ago, it is still in the lookback. If you wait one more month, it drops out.
 
@@ -1583,27 +1583,27 @@ Leaving deductions blank or underestimating them on Form 122A-2.
 
 Many above-median filers leave money on the table. Form 122A-2 has dozens of line items, and it is easy to skip ones you do not immediately recognize. Common missed deductions:
 
-Health insurance premiums -- especially marketplace plans
+Health insurance premiums - especially marketplace plans
 
-Mandatory retirement contributions -- employer-required 401(k) contributions
+Mandatory retirement contributions - employer-required 401(k) contributions
 
-Childcare costs -- the full actual amount
+Childcare costs - the full actual amount
 
-State and local taxes -- often forgotten when only federal is obvious
+State and local taxes - often forgotten when only federal is obvious
 
-Chapter 13 administrative expense -- available even on the Chapter 7 form
+Chapter 13 administrative expense - available even on the Chapter 7 form
 
-Priority debt payments -- 1/60th of back taxes owed
+Priority debt payments - 1/60th of back taxes owed
 
 HSA contributions
 
-Telecommunications -- additional phone/internet allowance
+Telecommunications - additional phone/internet allowance
 
 See the full deductions guide for every category.
 
 The Fix
 
-Go through Form 122A-2 line by line. For every deduction category, ask: "Does this apply to me?" Do not leave lines blank if you have any qualifying expense. The form is long for a reason -- every deduction is an opportunity to reduce your disposable income.
+Go through Form 122A-2 line by line. For every deduction category, ask: "Does this apply to me?" Do not leave lines blank if you have any qualifying expense. The form is long for a reason - every deduction is an opportunity to reduce your disposable income.
 
 Mistake #5: Using Outdated Median Income Figures
 
@@ -1611,7 +1611,7 @@ The Error
 
 Using median income figures from a previous period rather than the ones in effect on your filing date.
 
-The U.S. Trustee updates median income figures approximately every 6 months. The figures change -- sometimes significantly. If you calculated your means test using last year's figures and the medians have since increased, you might actually be below the new median.
+The U.S. Trustee updates median income figures approximately every 6 months. The figures change - sometimes significantly. If you calculated your means test using last year's figures and the medians have since increased, you might actually be below the new median.
 
 The Fix
 
@@ -1621,9 +1621,9 @@ Mistake #6: Forgetting the Non-Filing Spouse
 
 The Error
 
-If married but filing individually, not including the non-filing spouse's income on Form 122A-1 -- or including it but forgetting to claim the "marital adjustment" deduction.
+If married but filing individually, not including the non-filing spouse's income on Form 122A-1 - or including it but forgetting to claim the "marital adjustment" deduction.
 
-If you are married and filing without your spouse, you must still report your spouse's income on Form 122A-1. However, you then get a marital adjustment deduction on the continuation sheet -- you can subtract the portion of your spouse's income that is not used for your household expenses or your dependents' expenses.
+If you are married and filing without your spouse, you must still report your spouse's income on Form 122A-1. However, you then get a marital adjustment deduction on the continuation sheet - you can subtract the portion of your spouse's income that is not used for your household expenses or your dependents' expenses.
 
 Some filers forget to include the spouse's income (which can cause problems if discovered). Others include it but forget to claim the marital adjustment (which inflates their CMI and may push them above the median).
 
@@ -1653,13 +1653,13 @@ Because the means test averages 6 months of income, the date you file can dramat
 
 The Fix
 
-Before filing, calculate your CMI for several possible filing dates. Map out the 6-month lookback for each. Find the date that gives you the most favorable average -- considering not just income spikes but also any months with reduced income that should be in the window.
+Before filing, calculate your CMI for several possible filing dates. Map out the 6-month lookback for each. Find the date that gives you the most favorable average - considering not just income spikes but also any months with reduced income that should be in the window.
 
 The Big Picture
 
 Every Error Goes in One Direction
 
-Notice something about these mistakes? Most of them make you appear to have more income than you actually have for means test purposes. Including Social Security, using the wrong household size, missing deductions, using gross salary -- they all push your result toward failing. If you think you fail the means test, double-check every one of these items before giving up on Chapter 7.
+Notice something about these mistakes? Most of them make you appear to have more income than you actually have for means test purposes. Including Social Security, using the wrong household size, missing deductions, using gross salary - they all push your result toward failing. If you think you fail the means test, double-check every one of these items before giving up on Chapter 7.
 
 Run the Numbers Correctly
 
@@ -1676,7 +1676,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -1780,7 +1780,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Means Test Deductions Explained -- IRS Standards, Actual Expenses, and What Counts
+## Means Test Deductions Explained - IRS Standards, Actual Expenses, and What Counts
 Source: https://meanstest.org/deductions.html
 
 Skip to main content
@@ -1801,7 +1801,7 @@ Calculator
 
 Means Test Deductions Explained
 
-IRS National Standards, Local Standards, actual expenses -- every deduction that can lower your disposable income
+IRS National Standards, Local Standards, actual expenses - every deduction that can lower your disposable income
 
 Home › Deductions
 
@@ -1829,9 +1829,9 @@ These figures are updated annually by the IRS. Check the current National Standa
 
 Why This Matters
 
-You get the National Standard amount even if your actual food and clothing costs are much lower. This is a guaranteed deduction -- no receipts needed, no documentation required beyond the form itself.
+You get the National Standard amount even if your actual food and clothing costs are much lower. This is a guaranteed deduction - no receipts needed, no documentation required beyond the form itself.
 
-IRS Local Standards -- Housing and Utilities
+IRS Local Standards - Housing and Utilities
 
 Housing and utility deductions are based on your county. The IRS publishes different amounts for each county in the country, reflecting actual housing costs in your area. The allowance covers:
 
@@ -1851,13 +1851,13 @@ High-Cost Areas Benefit
 
 If you live in a high-cost county (San Francisco, Manhattan, DC, etc.), your housing standard will be much higher than in a rural county. This means the means test is effectively easier to pass in expensive areas, because the deductions are larger. The IRS standard for housing in San Francisco County can be over $4,000/month, while a rural county in Mississippi might be under $1,000/month.
 
-IRS Local Standards -- Transportation
+IRS Local Standards - Transportation
 
 Transportation deductions have two components:
 
 Ownership Cost
 
-If you have a car loan or lease, you get an ownership allowance of approximately $588/month per vehicle (up to two vehicles for a household). If you own your car free and clear -- no loan, no lease -- you do not get the ownership allowance. This is one of the few areas where having a payment actually helps on the means test.
+If you have a car loan or lease, you get an ownership allowance of approximately $588/month per vehicle (up to two vehicles for a household). If you own your car free and clear - no loan, no lease - you do not get the ownership allowance. This is one of the few areas where having a payment actually helps on the means test.
 
 Operating Cost
 
@@ -1891,7 +1891,7 @@ Union dues
 
 Uniform costs (if mandatory)
 
-For self-employed debtors, the self-employment tax (employer-equivalent share of Social Security and Medicare) is deductible. Use your actual tax liability -- not an inflated withholding you could adjust downward.
+For self-employed debtors, the self-employment tax (employer-equivalent share of Social Security and Medicare) is deductible. Use your actual tax liability - not an inflated withholding you could adjust downward.
 
 Health Insurance and Medical Expenses
 
@@ -1907,7 +1907,7 @@ Health insurance is often one of the largest actual expense deductions. If you p
 
 Secured Debt Payments
 
-All payments on secured debts -- mortgage, car loans, furniture financing, anything with collateral -- are deducted. The calculation is:
+All payments on secured debts - mortgage, car loans, furniture financing, anything with collateral - are deducted. The calculation is:
 
 Total the amount you will owe on each secured debt over the next 60 months
 
@@ -1949,25 +1949,25 @@ An additional allowance for phone and internet service if not already fully cove
 
 Chapter 13 Administrative Expenses
 
-If you would need to file Chapter 13 instead of Chapter 7, you can deduct the estimated Chapter 13 trustee fee -- typically 6-10% of plan payments. This is a deduction on the Chapter 7 means test that accounts for what it would cost to administer a hypothetical Chapter 13 plan.
+If you would need to file Chapter 13 instead of Chapter 7, you can deduct the estimated Chapter 13 trustee fee - typically 6-10% of plan payments. This is a deduction on the Chapter 7 means test that accounts for what it would cost to administer a hypothetical Chapter 13 plan.
 
 Deductions That People Miss
 
 Common Missed Deductions
 
-Health insurance premiums -- especially for marketplace plans with high monthly costs
+Health insurance premiums - especially for marketplace plans with high monthly costs
 
-Mandatory retirement contributions -- 401(k) contributions required by your employer
+Mandatory retirement contributions - 401(k) contributions required by your employer
 
-Childcare -- the full actual cost, not a reduced estimate
+Childcare - the full actual cost, not a reduced estimate
 
-Secured debt including car loans -- averaged over 60 months
+Secured debt including car loans - averaged over 60 months
 
-Chapter 13 administrative expense -- available even on the Chapter 7 form
+Chapter 13 administrative expense - available even on the Chapter 7 form
 
-Tax debts as priority claims -- 1/60th of owed back taxes
+Tax debts as priority claims - 1/60th of owed back taxes
 
-State and local taxes -- often forgotten when only federal withholding is obvious
+State and local taxes - often forgotten when only federal withholding is obvious
 
 Many above-median filers leave deductions on the table because the form is long and certain line items are easy to skip. An experienced bankruptcy attorney will know which deductions apply to your situation and how to maximize them.
 
@@ -1996,7 +1996,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -2100,7 +2100,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Means Test Household Size -- Who Counts?
+## Means Test Household Size - Who Counts?
 Source: https://meanstest.org/household-size.html
 
 Skip to main content
@@ -2122,13 +2122,13 @@ EN | ES
 
 Means Test Household Size
 
-Who counts in your household -- and why it matters for the means test
+Who counts in your household - and why it matters for the means test
 
 Home › Household Size
 
 Why Household Size Matters
 
-Household size is one of the most important variables on the means test because it determines which median income threshold applies to you. The larger your household, the higher the median income threshold -- and the easier it is to qualify for Chapter 7.
+Household size is one of the most important variables on the means test because it determines which median income threshold applies to you. The larger your household, the higher the median income threshold - and the easier it is to qualify for Chapter 7.
 
 For example, the 2026 median income in Missouri for a single-person household is approximately $56,000. For a household of 4, it is approximately $89,000. That is a $33,000 difference. A person earning $70,000 would fail at Step 1 as a single-person household but pass easily as a household of 4.
 
@@ -2146,7 +2146,7 @@ Under this approach, your household includes everyone who lives in your home, re
 
 Who counts: Your spouse, your children (minor or adult), your parents, your grandchildren, your siblings, roommates, significant others, anyone sleeping under your roof on a regular basis.
 
-Who does not count: People who have a separate residence, people temporarily visiting, college students living away from home (debatable -- some courts count them, some do not).
+Who does not count: People who have a separate residence, people temporarily visiting, college students living away from home (debatable - some courts count them, some do not).
 
 Pros: Simple to apply. Largest household size, which means the highest median income threshold. Favorable for debtors in multi-generational or multi-person households.
 
@@ -2154,21 +2154,21 @@ Cons: Can include people who have no financial connection to the debtor. A roomm
 
 2. IRS / Tax Dependent Approach
 
-Under this approach, your household includes you, your spouse (if filing jointly), and anyone you claim as a dependent on your federal tax return. This follows IRS rules for dependency -- generally minor children, full-time students under 24, and qualifying relatives who meet income and support tests.
+Under this approach, your household includes you, your spouse (if filing jointly), and anyone you claim as a dependent on your federal tax return. This follows IRS rules for dependency - generally minor children, full-time students under 24, and qualifying relatives who meet income and support tests.
 
 Who counts: You, your spouse, and your tax dependents (as defined by the Internal Revenue Code).
 
 Who does not count: Roommates, adult children with their own income, elderly parents you support but do not claim as dependents, significant others, friends.
 
-Pros: Objective and verifiable -- just look at the most recent tax return. Consistent with how income is reported elsewhere in the bankruptcy forms.
+Pros: Objective and verifiable - just look at the most recent tax return. Consistent with how income is reported elsewhere in the bankruptcy forms.
 
 Cons: Narrowest definition. May exclude people who are genuinely part of the economic household. A debtor supporting an elderly parent who is not a tax dependent would not get to count that parent.
 
 3. Economic Unit Approach (Hybrid)
 
-Under this approach, your household includes people who are financially interdependent -- those who share income, expenses, and financial resources as a single economic unit. This is a fact-specific inquiry that looks at actual financial relationships rather than legal categories.
+Under this approach, your household includes people who are financially interdependent - those who share income, expenses, and financial resources as a single economic unit. This is a fact-specific inquiry that looks at actual financial relationships rather than legal categories.
 
-Who counts: Anyone who shares financial resources with you -- contributing to household bills, depending on you for support, or pooling income for shared expenses. Your spouse, dependent children, elderly parents you support, adult children who contribute to household costs, and domestic partners who share finances.
+Who counts: Anyone who shares financial resources with you - contributing to household bills, depending on you for support, or pooling income for shared expenses. Your spouse, dependent children, elderly parents you support, adult children who contribute to household costs, and domestic partners who share finances.
 
 Who does not count: Roommates with separate finances who simply split rent, temporary guests, people with whom you have no financial interdependence.
 
@@ -2178,7 +2178,7 @@ Cons: Fact-intensive and potentially subjective. Requires documenting financial 
 
 Which approach does your court use?
 
-The approach varies by circuit and sometimes by district. Before filing, determine which approach your local bankruptcy court follows. Your attorney or the court's published decisions will tell you. If the law is unsettled in your jurisdiction, the household size definition could be a point of litigation -- which means you may want to prepare arguments for the most favorable interpretation.
+The approach varies by circuit and sometimes by district. Before filing, determine which approach your local bankruptcy court follows. Your attorney or the court's published decisions will tell you. If the law is unsettled in your jurisdiction, the household size definition could be a point of litigation - which means you may want to prepare arguments for the most favorable interpretation.
 
 Common Household Members: Do They Count?
 
@@ -2188,7 +2188,7 @@ Your spouse counts as part of your household under all three approaches, whether
 
 Minor Children
 
-Minor children living with you count under all three approaches. They are your dependents, they live in your home, and they are part of your economic unit. If you share custody, the analysis becomes more nuanced -- courts generally count children who primarily reside with you.
+Minor children living with you count under all three approaches. They are your dependents, they live in your home, and they are part of your economic unit. If you share custody, the analysis becomes more nuanced - courts generally count children who primarily reside with you.
 
 Adult Children Living at Home
 
@@ -2198,15 +2198,15 @@ Census approach: Count if they live in your home, regardless of income or indepe
 
 IRS approach: Count only if you claim them as tax dependents (generally must be under 24 and a full-time student, or meet qualifying relative tests).
 
-Economic unit approach: Count if they share finances with you -- contributing to household expenses or depending on your support. An adult child paying their own bills from their own income may not count.
+Economic unit approach: Count if they share finances with you - contributing to household expenses or depending on your support. An adult child paying their own bills from their own income may not count.
 
 Elderly Parents
 
-An elderly parent living in your home counts under the Census approach. Under the IRS approach, they count only if you claim them as a dependent. Under the economic unit approach, they count if they are financially interdependent with you -- which is common for elderly parents who contribute Social Security income to household expenses or rely on you for financial support.
+An elderly parent living in your home counts under the Census approach. Under the IRS approach, they count only if you claim them as a dependent. Under the economic unit approach, they count if they are financially interdependent with you - which is common for elderly parents who contribute Social Security income to household expenses or rely on you for financial support.
 
 Roommates
 
-Pure roommates -- people who share your living space but maintain separate finances -- generally do not count under the IRS or economic unit approaches. They may count under the Census approach, since they occupy the same housing unit. However, counting a roommate increases your household size (good for the median threshold) without adding their income to your CMI (since they are not a spouse).
+Pure roommates - people who share your living space but maintain separate finances - generally do not count under the IRS or economic unit approaches. They may count under the Census approach, since they occupy the same housing unit. However, counting a roommate increases your household size (good for the median threshold) without adding their income to your CMI (since they are not a spouse).
 
 Domestic Partners / Significant Others
 
@@ -2222,7 +2222,7 @@ How the Marital Adjustment Works
 
 Suppose your spouse earns $5,000 per month. Of that, $3,000 goes toward shared household expenses (mortgage, groceries, utilities, children's costs). The remaining $2,000 goes toward your spouse's separate car payment, student loans, and personal expenses. You can claim a $2,000 per month marital adjustment, reducing the CMI by that amount.
 
-The marital adjustment can be substantial. Document it carefully -- the U.S. Trustee may challenge it if the allocation between household and non-household expenses seems unreasonable.
+The marital adjustment can be substantial. Document it carefully - the U.S. Trustee may challenge it if the allocation between household and non-household expenses seems unreasonable.
 
 Strategy: When Household Size Is Borderline
 
@@ -2230,7 +2230,7 @@ If you are near the means test threshold and household size could tip the result
 
 Know your circuit's approach. Research the published decisions in your district. If the law is unsettled, you may be able to argue for the most favorable approach.
 
-Document financial interdependence. If you are supporting people who might not count under the IRS approach, document the financial relationship -- bank statements, receipts, proof of shared expenses. This supports the economic unit argument.
+Document financial interdependence. If you are supporting people who might not count under the IRS approach, document the financial relationship - bank statements, receipts, proof of shared expenses. This supports the economic unit argument.
 
 Consider timing with custody. If you share custody of children, the household size may depend on where the children are primarily residing at the time of filing. Court orders, school enrollment, and actual living arrangements all matter.
 
@@ -2240,7 +2240,7 @@ Anticipate the U.S. Trustee. If your household size claim is aggressive, the U.S
 
 Household Size on the Forms
 
-You declare your household size on Form 122A-1, Line 5. The form asks for the number of people in your household. The form does not specify which definition to use -- it simply says "household." This is where the ambiguity begins.
+You declare your household size on Form 122A-1, Line 5. The form asks for the number of people in your household. The form does not specify which definition to use - it simply says "household." This is where the ambiguity begins.
 
 The household size you enter on Form 122A-1 determines which column of the median income table applies to your case. The U.S. Trustee publishes current median income figures at justice.gov/ust, broken down by state and household size from 1 to 10+ persons.
 
@@ -2279,7 +2279,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -2345,11 +2345,11 @@ Calculator
 
 Related Resources
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
-How to File Bankruptcy -- Step-by-step guide to the bankruptcy filing process
+How to File Bankruptcy - Step-by-step guide to the bankruptcy filing process
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
 Stay updated on new datasets and research findings
 
@@ -2388,7 +2388,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## How the Means Test Works -- The Two-Step Process
+## How the Means Test Works - The Two-Step Process
 Source: https://meanstest.org/how-it-works.html
 
 Skip to main content
@@ -2413,7 +2413,7 @@ A two-step process that compares your income to the state median and, if needed,
 
 Home › How It Works
 
-If you are considering Chapter 7 bankruptcy, the means test is the first hurdle. It sounds intimidating, but it is a mechanical formula -- not a judgment of character. It simply asks whether your income is low enough to qualify for Chapter 7, or whether you should be in Chapter 13 instead.
+If you are considering Chapter 7 bankruptcy, the means test is the first hurdle. It sounds intimidating, but it is a mechanical formula - not a judgment of character. It simply asks whether your income is low enough to qualify for Chapter 7, or whether you should be in Chapter 13 instead.
 
 The test is filed on Official Form 122A with your bankruptcy petition. Here is how each step works.
 
@@ -2449,7 +2449,7 @@ Alimony and child support received
 
 What Does NOT Count
 
-Social Security benefits of any kind are excluded from CMI -- retirement, SSDI, survivors benefits, SSI. So are payments to victims of war crimes, international terrorism, and domestic terrorism.
+Social Security benefits of any kind are excluded from CMI - retirement, SSDI, survivors benefits, SSI. So are payments to victims of war crimes, international terrorism, and domestic terrorism.
 
 If Social Security is your primary income, you will almost certainly pass the means test. This is one of the most important exclusions in the calculation.
 
@@ -2465,17 +2465,17 @@ See current median income figures for all 50 states.
 
 Step 2: Calculate Disposable Income (Above-Median Only)
 
-If your income exceeds the state median, you must calculate your "disposable income" -- your CMI minus a specific set of allowed deductions. This is where Form 122A-2 comes in.
+If your income exceeds the state median, you must calculate your "disposable income" - your CMI minus a specific set of allowed deductions. This is where Form 122A-2 comes in.
 
-The deductions are not based on what you actually spend in most categories. Most are based on IRS standards and fixed allowances. This can work for or against you -- if your actual expenses are lower than the standards, you benefit. If higher, you are limited to the standard amount (with a few exceptions).
+The deductions are not based on what you actually spend in most categories. Most are based on IRS standards and fixed allowances. This can work for or against you - if your actual expenses are lower than the standards, you benefit. If higher, you are limited to the standard amount (with a few exceptions).
 
 Types of Deductions
 
-IRS National Standards -- fixed amounts for food, clothing, and personal care based on household size
+IRS National Standards - fixed amounts for food, clothing, and personal care based on household size
 
-IRS Local Standards -- amounts for housing/utilities and transportation based on your county and region
+IRS Local Standards - amounts for housing/utilities and transportation based on your county and region
 
-Actual expenses -- taxes, health insurance, secured debt payments, childcare, and other specific categories where you deduct what you actually pay
+Actual expenses - taxes, health insurance, secured debt payments, childcare, and other specific categories where you deduct what you actually pay
 
 For a detailed breakdown of every deduction category, see Means Test Deductions Explained.
 
@@ -2485,17 +2485,17 @@ After subtracting all allowed deductions from your CMI, you have your monthly di
 
 The Abuse Thresholds
 
-60-month disposable income below $9,075 (less than $151.25/month) -- You pass. No presumption of abuse.
+60-month disposable income below $9,075 (less than $151.25/month) - You pass. No presumption of abuse.
 
-Between $9,075 and $15,150 ($151.25 to $252.50/month) -- You pass only if the amount is less than 25% of your non-priority unsecured debts. Otherwise, presumption of abuse arises.
+Between $9,075 and $15,150 ($151.25 to $252.50/month) - You pass only if the amount is less than 25% of your non-priority unsecured debts. Otherwise, presumption of abuse arises.
 
-$15,150 or more ($252.50+/month) -- Presumption of abuse. You fail the means test.
+$15,150 or more ($252.50+/month) - Presumption of abuse. You fail the means test.
 
 These thresholds are adjusted periodically. Check the current figures on the most recent version of Form 122A-2 or the U.S. Trustee's website.
 
 A Complete Example
 
-Meet Sarah -- Household of 3 in Ohio
+Meet Sarah - Household of 3 in Ohio
 
 Sarah earns $4,200/month gross. She also receives $300/month in child support. No other income.
 
@@ -2507,7 +2507,7 @@ Ohio median for household of 3: approximately $78,000
 
 Result: $54,000 is well below the median. Sarah passes at Step 1. She files Form 122A-1 only and qualifies for Chapter 7.
 
-Meet James -- Household of 2 in California
+Meet James - Household of 2 in California
 
 James and his wife have combined income of $8,500/month ($102,000 annualized). The California median for household of 2 is approximately $83,000. James is above the median and must complete Step 2.
 
@@ -2568,7 +2568,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -2686,7 +2686,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Bankruptcy Means Test Online -- Free Calculator & Guide [2026]
+## Bankruptcy Means Test Online - Free Calculator & Guide [2026]
 Source: https://meanstest.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -2709,11 +2709,11 @@ Vocabulary
 Calculator
 EN | ES
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Bankruptcy Means Test Online Calculator
 
-Do you qualify for Chapter 7? The means test is the income formula that determines your options. Here is how it actually works -- in plain English.
+Do you qualify for Chapter 7? The means test is the income formula that determines your options. Here is how it actually works - in plain English.
 
 ~80% of Chapter 7 filers pass the means test
 
@@ -2728,21 +2728,21 @@ What Is the Means Test?
 
 The means test is a formula that determines whether your household income is low enough to file Chapter 7 bankruptcy. It was added to the Bankruptcy Code in 2005 by the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) and is codified at 11 U.S.C. Section 707(b).
 
-Before 2005, almost anyone could file Chapter 7 regardless of income. Congress decided that higher-income debtors who could afford to repay at least some of their debts should not be allowed to wipe everything clean through Chapter 7. The means test was their solution -- a standardized income-and-expense formula that separates debtors who genuinely cannot pay from those who can.
+Before 2005, almost anyone could file Chapter 7 regardless of income. Congress decided that higher-income debtors who could afford to repay at least some of their debts should not be allowed to wipe everything clean through Chapter 7. The means test was their solution - a standardized income-and-expense formula that separates debtors who genuinely cannot pay from those who can.
 
 The good news
 
-The vast majority of people who file Chapter 7 pass the means test. If your income is below the median for your state and household size, you pass automatically. Even if your income is above the median, many filers still pass after deductions for housing, transportation, taxes, healthcare, and other allowed expenses. The means test sounds scarier than it is.
+The vast majority of people who file Chapter 7 pass the means test. If your income is below the median for your state and household size, you pass automatically. Even if your income is above the median, many filers still pass after deductions for housing, transportation, taxes, healthcare, and other allowed expenses. The means test sounds scarier than it is. People on disability income almost always pass because Social Security disability benefits are excluded from the means test calculation.
 
 The Two-Step Process
 
 Compare your income to the state median. Add up all income you received during the 6 full calendar months before filing. Annualize it. If it is at or below the median income for your state and household size, you pass. Done. Full walkthrough →
 
-If above median, calculate disposable income. Subtract allowed deductions -- IRS living expense standards, taxes, health insurance, mortgage/car payments, childcare, and more. If your remaining disposable income is below the threshold, you still pass. See all deductions →
+If above median, calculate disposable income. Subtract allowed deductions - IRS living expense standards, taxes, health insurance, mortgage/car payments, childcare, and more. If your remaining disposable income is below the threshold, you still pass. See all deductions →
 
 The Core Rule
 
-If your income is above your state's median for your household size, and your disposable income (after allowed deductions) exceeds certain thresholds, there is a "presumption of abuse." The court will presume your Chapter 7 filing is abusive and will either dismiss it or convert it to Chapter 13 -- unless you can show special circumstances.
+If your income is above your state's median for your household size, and your disposable income (after allowed deductions) exceeds certain thresholds, there is a "presumption of abuse." The court will presume your Chapter 7 filing is abusive and will either dismiss it or convert it to Chapter 13 - unless you can show special circumstances.
 
 Explore Each Topic
 
@@ -2764,7 +2764,7 @@ Presumption of abuse, rebutting the presumption, special circumstances (military
 
 Chapter 13 Means Test
 
-How the means test differs for Chapter 13. It does not block eligibility -- it determines whether your plan runs 3 years or 5 years.
+How the means test differs for Chapter 13. It does not block eligibility - it determines whether your plan runs 3 years or 5 years.
 
 Common Mistakes
 
@@ -2790,23 +2790,23 @@ Who Is Exempt from the Means Test?
 
 The means test only applies to individual debtors with primarily consumer debts. Several categories of filers are exempt:
 
-Primarily business debts -- If more than half your debts are business debts (not consumer debts), the means test does not apply. Section 707(b) only covers cases where debts are "primarily consumer debts."
+Primarily business debts - If more than half your debts are business debts (not consumer debts), the means test does not apply. Section 707(b) only covers cases where debts are "primarily consumer debts."
 
-Disabled veterans -- Under Section 707(b)(2)(D)(i), the means test does not apply to disabled veterans whose indebtedness occurred primarily during a period of active duty or homeland defense activity.
+Disabled veterans - Under Section 707(b)(2)(D)(i), the means test does not apply to disabled veterans whose indebtedness occurred primarily during a period of active duty or homeland defense activity.
 
-Reservists and National Guard -- Under Section 707(b)(2)(D)(ii), members called to active duty for at least 90 days after September 11, 2001 are exempt if they file within the specified period after release.
+Reservists and National Guard - Under Section 707(b)(2)(D)(ii), members called to active duty for at least 90 days after September 11, 2001 are exempt if they file within the specified period after release.
 
-Below-median income -- If your annualized income is at or below the state median, you pass at Step 1 automatically. You still file Form 122A-1, but the full calculation is not required.
+Below-median income - If your annualized income is at or below the state median, you pass at Step 1 automatically. You still file Form 122A-1, but the full calculation is not required.
 
 The Forms You Will File
 
 The means test is completed on official bankruptcy forms filed with your petition:
 
-Form 122A-1 (Chapter 7 Statement of Your Current Monthly Income) -- calculates your CMI and compares it to the state median. Every Chapter 7 individual filer completes this form.
+Form 122A-1 (Chapter 7 Statement of Your Current Monthly Income) - calculates your CMI and compares it to the state median. Every Chapter 7 individual filer completes this form.
 
-Form 122A-2 (Chapter 7 Means Test Calculation) -- only required if you are above the median. Subtracts allowed deductions and determines whether a presumption of abuse arises.
+Form 122A-2 (Chapter 7 Means Test Calculation) - only required if you are above the median. Subtracts allowed deductions and determines whether a presumption of abuse arises.
 
-Form 122C-1 and 122C-2 -- the Chapter 13 repayment plan guide equivalents, which determine plan length and disposable income commitment rather than eligibility.
+Form 122C-1 and 122C-2 - the Chapter 13 repayment plan guide equivalents, which determine plan length and disposable income commitment rather than eligibility.
 
 Key Facts at a Glance
 
@@ -2824,7 +2824,7 @@ If you are below the median, you pass automatically
 
 If you are above the median, deductions for housing, transportation, taxes, healthcare, and other expenses may still bring you below the threshold
 
-Failing the means test does not mean you cannot file bankruptcy -- Chapter 13 has no means test
+Failing the means test does not mean you cannot file bankruptcy - Chapter 13 has no means test
 
 The presumption of abuse can be rebutted with special circumstances
 
@@ -2837,7 +2837,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -2885,7 +2885,7 @@ Complete guide to the 8-year Chapter 7 discharge bar
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -2957,7 +2957,7 @@ Privacy policy
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-meanstest.org -- Part of the Open Bankruptcy Project
+meanstest.org - Part of the Open Bankruptcy Project
 
 Home ·
 How It Works ·
@@ -2975,11 +2975,11 @@ How Much Does Bankruptcy Cost?
 
 Related Resources
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
-The 341 Meeting -- What to expect at your meeting of creditors
+The 341 Meeting - What to expect at your meeting of creditors
 
-Chapter 13 Plans -- How Chapter 13 repayment plans work and get confirmed
+Chapter 13 Plans - How Chapter 13 repayment plans work and get confirmed
 
 Federal Rules Committee
 
@@ -3118,7 +3118,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Median Income by State -- Bankruptcy Means Test Income Tables
+## Median Income by State - Bankruptcy Means Test Income Tables
 Source: https://meanstest.org/median-income.html
 
 Skip to main content
@@ -3145,7 +3145,7 @@ Home › Median Income Tables
 
 The first step of the means test compares your annualized income to the median income for your state and household size. If you are at or below the median, you pass. No further calculation needed.
 
-These figures come from the Census Bureau American Community Survey and are published by the U.S. Trustee Program. They are updated approximately every 6 months -- typically around April and November. The figures in effect on your filing date (not the date you start preparing forms) are the ones that apply to your case.
+These figures come from the Census Bureau American Community Survey and are published by the U.S. Trustee Program. They are updated approximately every 6 months - typically around April and November. The figures in effect on your filing date (not the date you start preparing forms) are the ones that apply to your case.
 
 How to Read This Table
 
@@ -3301,11 +3301,11 @@ Important Notes About These Figures
 
 Use the Correct Date
 
-The median income figures that apply to your case are the ones in effect on your filing date. If the figures update between when you start preparing your forms and when you actually file, use the figures in effect when you file. This can work for or against you -- if the medians go up, it is slightly easier to pass.
+The median income figures that apply to your case are the ones in effect on your filing date. If the figures update between when you start preparing your forms and when you actually file, use the figures in effect when you file. This can work for or against you - if the medians go up, it is slightly easier to pass.
 
 These are household figures, not individual. If you are married and filing jointly, combine both spouses' income. If filing individually but married, you still report your spouse's income on Form 122A-1 (with a deduction for the non-filing spouse's share of expenses on the continuation sheet).
 
-Household size is not just people on the petition. It includes dependents who live with you. Courts disagree on the exact definition -- some use the Census Bureau approach, some use the IRS dependent test, some use an economic unit test. Ask your attorney which standard your district uses.
+Household size is not just people on the petition. It includes dependents who live with you. Courts disagree on the exact definition - some use the Census Bureau approach, some use the IRS dependent test, some use an economic unit test. Ask your attorney which standard your district uses.
 
 Social Security income is not counted. When comparing your income to these medians, exclude all Social Security benefits. This means the median threshold is effectively higher for people with Social Security income, since less of their total income counts.
 
@@ -3324,7 +3324,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -3426,7 +3426,143 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## What Happens If You Fail the Means Test -- Your Options
+## Means Test Vocabulary - Every Term Explained | meanstest.org | Free 2026 Guide
+Source: https://meanstest.org/vocabulary.html
+
+Skip to content
+
+meanstest.org
+☰
+
+Home
+How It Works
+Deductions
+Median Income
+Above Median
+Vocabulary
+Calculator
+
+Home›Vocabulary
+
+Part of the Open Bankruptcy Project - 100+ free domains, 2,000+ pages, $0 cost
+
+Means Test Vocabulary
+
+Every term on the bankruptcy means test explained in plain language. 30+ definitions covering income calculations, deduction categories, IRS standards, and the forms you will encounter.
+
+How to use this glossary
+
+Terms are organized by category: income, deductions, forms, and legal concepts. Each definition explains what the term means in the context of the bankruptcy means test specifically - not its general dictionary definition.
+
+Income Terms
+
+Current Monthly Income (CMI)The average of all income from all sources during the 6 full calendar months before filing, divided by 6. Defined in 11 U.S.C. 101(10A). Includes wages, salary, tips, bonuses, overtime, self-employment income, rental income, pension and retirement income, unemployment compensation, and regular contributions from others toward household expenses. Does NOT include Social Security benefits or payments to victims of war crimes or terrorism.
+
+Annualized IncomeYour CMI multiplied by 12. This number is compared to the state median income for your household size to determine whether you are "above median" or "below median." This comparison is the gateway to the entire means test calculation.
+
+Median Family IncomeThe midpoint income for a household of your size in your state, published by the Census Bureau and updated periodically by the U.S. Trustee Program. If your annualized income is below median, you generally qualify for Chapter 7 without completing the full means test. Median figures vary dramatically by state - for example, a family of 4 in Mississippi has a much lower median than a family of 4 in Connecticut.
+
+Above Median IncomeYour annualized CMI exceeds the state median for your household size. In Chapter 7, you must complete the full means test deduction calculation to see if you pass. In Chapter 13, your plan must last 5 years (not 3), and you must commit all projected disposable income to the plan. See the above median income guide.
+
+Below Median IncomeYour annualized CMI is at or below the state median for your household size. In Chapter 7, the presumption of abuse does not arise - you generally qualify. In Chapter 13, your plan can be as short as 3 years. You still complete Form 122A-1 or 122C-1, but do not need the full deduction calculation.
+
+Marital AdjustmentIf you are married and filing individually (not jointly), you may deduct your non-filing spouse's income that is not regularly contributed to household expenses. Calculated on Form 122A-1, Line 13 (or 122C-1, Line 13). This prevents a non-filing spouse's separately maintained income from inflating your CMI.
+
+CMI Calculation Period (Lookback Period)The 6 full calendar months immediately preceding the month of filing. If you file on March 15, the lookback period is September 1 through February 28. This is why filing date timing matters - a bonus or overtime in the lookback period raises your CMI. Some filers time their petition to exclude high-income months.
+
+Deduction Terms
+
+IRS National StandardsFixed monthly allowances set by the IRS for food, clothing, housekeeping supplies, personal care, and miscellaneous expenses. You receive these deductions regardless of what you actually spend. Based on household size. For a single person, approximately $785/month; for a family of 4, approximately $1,697/month. Updated annually. See the deductions guide.
+
+IRS Local Standards - Housing and UtilitiesCounty-specific allowances for housing and utility costs. Separate amounts for mortgage/rent and for utilities/maintenance. Based on household size and the county where you live. These vary dramatically - a debtor in Manhattan gets a much higher housing allowance than a debtor in rural Kansas.
+
+IRS Local Standards - TransportationTwo components: ownership costs (if you have a car payment, approximately $588/month for one car, $1,176 for two) and operating costs (fuel, maintenance, insurance - based on your Census region, approximately $266-$338/month per car). You only get the ownership allowance if you actually have a car payment or lease.
+
+Allowable DeductionsThe total of all expenses the means test permits you to subtract from CMI. Includes IRS standards (national and local), taxes, mandatory payroll deductions, health insurance, childcare, education for dependent children, court-ordered payments, secured debt payments over 60 months, priority debt over 60 months, and the Chapter 13 trustee fee. The more you can legitimately deduct, the more likely you are to pass the means test.
+
+Other Necessary Expenses (ONEs)Additional deductions beyond the IRS standards that the means test allows. Includes taxes (income, Social Security, Medicare), mandatory payroll deductions (retirement contributions, union dues), term life insurance, court-ordered payments (child support, alimony), education expenses for dependent children (up to $156.25/month per child), childcare, healthcare costs above the IRS standard, and telecommunications ($75/month combined for phone/internet).
+
+Secured Debt Payment DeductionYour total payments on secured debts (mortgages, car loans, tax liens) that will come due in the next 60 months, divided by 60. This gives you a monthly deduction for these payments. Includes both current payments and any arrearages you plan to cure. This deduction often makes the difference between passing and failing the means test.
+
+Priority Claim DeductionTotal priority debts (domestic support arrears, certain tax debts, employee wage claims) divided by 60. Priority debts must be paid in full in Chapter 13, so the means test allows this deduction from disposable income.
+
+Chapter 13 Administrative ExpenseThe estimated trustee fee multiplied by your projected plan payments. The standing trustee in your district takes a percentage (typically 3-10%) of plan payments as an administrative fee. This is deductible on the means test for Chapter 13 filers.
+
+Legal Concepts
+
+Presumption of AbuseUnder 11 U.S.C. 707(b)(2), if you are above median income and your means test shows monthly disposable income (after deductions) x 60 equals $9,075 or more, the court presumes your Chapter 7 filing is abusive. Also arises if the 60-month total is at least $5,475 and would pay 25%+ of nonpriority unsecured claims. If presumption arises, the U.S. Trustee can move to dismiss unless you demonstrate special circumstances.
+
+Special CircumstancesUnder 11 U.S.C. 707(b)(2)(B), a debtor can rebut the presumption of abuse by demonstrating special circumstances that justify additional expenses or adjustments to CMI for which there is no reasonable alternative. Examples: serious medical condition, military service obligations, job loss after the lookback period. Must be documented and the court must find them credible. This is a high bar - not every unusual expense qualifies.
+
+Disposable Income (Projected)CMI minus all allowable deductions. In Chapter 7, this determines whether the presumption of abuse arises. In Chapter 13, this determines the minimum amount you must pay to unsecured creditors through your plan. The lower your projected disposable income, the less you pay in Chapter 13.
+
+Applicable Commitment PeriodThe length of your Chapter 13 plan. Below median: 3 years (36 months). Above median: 5 years (60 months). The court can approve a shorter plan for below-median debtors. Above-median debtors must commit to the full 5 years unless they pay 100% of unsecured claims sooner.
+
+Household SizeThe number of people in your household for means test purposes. This affects your median income comparison and your IRS standard deductions. Courts disagree on how to count household size - some use the Census Bureau definition (everyone living in the home), others use the IRS dependent definition, and others use an "economic unit" test. Check your district's interpretation. See the household size guide.
+
+Totality of the CircumstancesUnder 11 U.S.C. 707(b)(3), even if you pass the means test mathematically, the court can still dismiss your Chapter 7 case if the totality of your financial circumstances demonstrates abuse. This is a separate, subjective analysis the court can apply - for example, if you have significant equity in non-exempt assets or your budget reveals unreasonable spending patterns.
+
+Safe HarborIf your annualized CMI is at or below the state median for your household size, the presumption of abuse cannot arise under the means test formula. You are in the "safe harbor" - but the court can still review your case under the totality-of-the-circumstances test (707(b)(3)).
+
+Forms
+
+Form 122A-1 (Chapter 7 Statement of Current Monthly Income)Required for all individual Chapter 7 filers. Calculates your CMI and compares it to the state median. If below median, you stop here. If above median, proceed to Form 122A-2.
+
+Form 122A-2 (Chapter 7 Means Test Calculation)Required only for above-median Chapter 7 filers. Calculates all allowable deductions and determines whether the presumption of abuse arises. This is the full means test calculation.
+
+Form 122C-1 (Chapter 13 Statement of Current Monthly Income and Calculation of Commitment Period)Required for all individual Chapter 13 filers. Calculates CMI and determines whether the applicable commitment period is 3 years or 5 years.
+
+Form 122C-2 (Chapter 13 Calculation of Disposable Income)Required for above-median Chapter 13 filers. Calculates the projected disposable income that must be paid to unsecured creditors through the plan.
+
+Schedule I (Current Income)A separate form from the means test. Lists your actual current monthly income at the time of filing. May differ from CMI because CMI uses a 6-month average while Schedule I shows current income. Courts use Schedule I for Chapter 13 feasibility analysis.
+
+Schedule J (Current Expenditures)Lists your actual current monthly expenses. Combined with Schedule I to show your actual monthly budget. The difference between income (Schedule I) and expenses (Schedule J) is your actual monthly net income - which affects plan feasibility in Chapter 13.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+Related Guides
+
+15 Red Flags of a Bankruptcy Mill
+When Your Lawyer Won't Call Back
+Student Loan Bankruptcy Terms
+Your Rights Against Debt Buyers
+Chapter 7 vs Chapter 13
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Automatic Stay
+Bankruptcy Mill
+Brunner Test
+Debt Buyer Rights
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## What Happens If You Fail the Means Test - Your Options
 Source: https://meanstest.org/what-if-you-fail.html
 
 Skip to main content
@@ -3455,7 +3591,7 @@ If you are reading this page, you may have just run the numbers and found that y
 
 What "Failing" Actually Means
 
-When you fail the means test, a "presumption of abuse" arises under 11 U.S.C. Section 707(b)(2). This is a legal presumption -- it means the court starts with the assumption that your Chapter 7 filing is an abuse of the system. But a presumption can be overcome.
+When you fail the means test, a "presumption of abuse" arises under 11 U.S.C. Section 707(b)(2). This is a legal presumption - it means the court starts with the assumption that your Chapter 7 filing is an abuse of the system. But a presumption can be overcome.
 
 The presumption does not automatically kill your case. It triggers a process:
 
@@ -3463,7 +3599,7 @@ The U.S. Trustee reviews your filing
 
 The U.S. Trustee, the bankruptcy trustee, or a creditor may file a motion to dismiss for abuse
 
-You have the opportunity to respond -- either by rebutting the presumption or by voluntarily converting or dismissing
+You have the opportunity to respond - either by rebutting the presumption or by voluntarily converting or dismissing
 
 The court decides
 
@@ -3477,15 +3613,15 @@ A call or order to active duty in the Armed Forces
 
 These are examples, not the only possibilities. Courts have considered other circumstances including:
 
-Recent job loss -- if you lost your job after the 6-month lookback period, your current income may be much lower than the means test reflects
+Recent job loss - if you lost your job after the 6-month lookback period, your current income may be much lower than the means test reflects
 
-Divorce or separation -- a sudden change in household income and obligations
+Divorce or separation - a sudden change in household income and obligations
 
-Caring for a disabled family member -- expenses not captured by standard deductions
+Caring for a disabled family member - expenses not captured by standard deductions
 
 Natural disaster or casualty loss
 
-Impending retirement -- if your income will drop significantly
+Impending retirement - if your income will drop significantly
 
 The Bar Is High
 
@@ -3515,7 +3651,7 @@ You must make monthly payments for 3-5 years
 
 If your income is above the state median, the plan must run 5 years (60 months)
 
-Chapter 13 completion rates are historically low -- nationally, roughly 33-40% of Chapter 13 cases end in discharge
+Chapter 13 completion rates are historically low - nationally, roughly 33-40% of Chapter 13 cases end in discharge
 
 You need enough regular income to fund the plan payments
 
@@ -3523,7 +3659,7 @@ Learn more about how the means test interacts with Chapter 13.
 
 Option 3: Wait and File Later
 
-The means test uses your average income over the 6 full calendar months before filing. If your income has recently dropped -- you lost a job, stopped working overtime, retired, or left a high-paying position -- waiting a few months can change your result.
+The means test uses your average income over the 6 full calendar months before filing. If your income has recently dropped - you lost a job, stopped working overtime, retired, or left a high-paying position - waiting a few months can change your result.
 
 As higher-income months roll out of the lookback window and lower-income months roll in, your CMI decreases. This is a legitimate strategy, not fraud. You are simply filing at a time that accurately reflects your current financial reality.
 
@@ -3547,7 +3683,7 @@ A disability (any rating)
 
 Debts incurred primarily during active duty or homeland defense
 
-If you qualify, the means test simply does not apply -- no calculation needed, no presumption of abuse possible.
+If you qualify, the means test simply does not apply - no calculation needed, no presumption of abuse possible.
 
 Reservists and National Guard
 
@@ -3557,7 +3693,7 @@ The Bottom Line
 
 Failing the Means Test Is Not a Dead End
 
-If you fail the means test, the most common outcomes are: (1) file Chapter 13 instead, (2) wait for your income to change and refile, or (3) rebut the presumption with special circumstances. Very few people who want debt relief are completely shut out. The means test redirects you -- it rarely stops you entirely.
+If you fail the means test, the most common outcomes are: (1) file Chapter 13 instead, (2) wait for your income to change and refile, or (3) rebut the presumption with special circumstances. Very few people who want debt relief are completely shut out. The means test redirects you - it rarely stops you entirely.
 
 Check Your Income First
 
@@ -3574,7 +3710,7 @@ Further Reading & Resources
 Authority sources for deeper research on the bankruptcy means test:
 
 11 U.S.C. Section 707(b)
-Cornell LII -- means test statute
+Cornell LII - means test statute
 
 Census Median Income Data
 Income thresholds
@@ -3678,144 +3814,82 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Means Test Vocabulary -- Every Term Explained | meanstest.org | Free 2026 Guide
-Source: https://meanstest.org/vocabulary.html
-
-Skip to content
+## Privacy Policy - meanstest.org
+Source: https://meanstest.org/privacy.html
 
 meanstest.org
-☰
 
 Home
-How It Works
-Deductions
-Median Income
-Above Median
-Vocabulary
-Calculator
+Privacy
 
-Part of the Open Bankruptcy Project -- 100+ free domains, 2,000+ pages, $0 cost
+Privacy Policy
 
-Means Test Vocabulary
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Every term on the bankruptcy means test explained in plain language. 30+ definitions covering income calculations, deduction categories, IRS standards, and the forms you will encounter.
+Data We Collect
 
-How to use this glossary
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Terms are organized by category: income, deductions, forms, and legal concepts. Each definition explains what the term means in the context of the bankruptcy means test specifically -- not its general dictionary definition.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Income Terms
+What We Don't Do
 
-Current Monthly Income (CMI)The average of all income from all sources during the 6 full calendar months before filing, divided by 6. Defined in 11 U.S.C. 101(10A). Includes wages, salary, tips, bonuses, overtime, self-employment income, rental income, pension and retirement income, unemployment compensation, and regular contributions from others toward household expenses. Does NOT include Social Security benefits or payments to victims of war crimes or terrorism.
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Annualized IncomeYour CMI multiplied by 12. This number is compared to the state median income for your household size to determine whether you are "above median" or "below median." This comparison is the gateway to the entire means test calculation.
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Median Family IncomeThe midpoint income for a household of your size in your state, published by the Census Bureau and updated periodically by the U.S. Trustee Program. If your annualized income is below median, you generally qualify for Chapter 7 without completing the full means test. Median figures vary dramatically by state -- for example, a family of 4 in Mississippi has a much lower median than a family of 4 in Connecticut.
+Cookies
 
-Above Median IncomeYour annualized CMI exceeds the state median for your household size. In Chapter 7, you must complete the full means test deduction calculation to see if you pass. In Chapter 13, your plan must last 5 years (not 3), and you must commit all projected disposable income to the plan. See the above median income guide.
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Below Median IncomeYour annualized CMI is at or below the state median for your household size. In Chapter 7, the presumption of abuse does not arise -- you generally qualify. In Chapter 13, your plan can be as short as 3 years. You still complete Form 122A-1 or 122C-1, but do not need the full deduction calculation.
+Third-Party Services
 
-Marital AdjustmentIf you are married and filing individually (not jointly), you may deduct your non-filing spouse's income that is not regularly contributed to household expenses. Calculated on Form 122A-1, Line 13 (or 122C-1, Line 13). This prevents a non-filing spouse's separately maintained income from inflating your CMI.
+Google Analytics (GA4) - aggregate traffic measurement
 
-CMI Calculation Period (Lookback Period)The 6 full calendar months immediately preceding the month of filing. If you file on March 15, the lookback period is September 1 through February 28. This is why filing date timing matters -- a bonus or overtime in the lookback period raises your CMI. Some filers time their petition to exclude high-income months.
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Deduction Terms
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-IRS National StandardsFixed monthly allowances set by the IRS for food, clothing, housekeeping supplies, personal care, and miscellaneous expenses. You receive these deductions regardless of what you actually spend. Based on household size. For a single person, approximately $785/month; for a family of 4, approximately $1,697/month. Updated annually. See the deductions guide.
+GitHub Pages - hosting
 
-IRS Local Standards -- Housing and UtilitiesCounty-specific allowances for housing and utility costs. Separate amounts for mortgage/rent and for utilities/maintenance. Based on household size and the county where you live. These vary dramatically -- a debtor in Manhattan gets a much higher housing allowance than a debtor in rural Kansas.
+Contact Forms & Email
 
-IRS Local Standards -- TransportationTwo components: ownership costs (if you have a car payment, approximately $588/month for one car, $1,176 for two) and operating costs (fuel, maintenance, insurance -- based on your Census region, approximately $266-$338/month per car). You only get the ownership allowance if you actually have a car payment or lease.
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Allowable DeductionsThe total of all expenses the means test permits you to subtract from CMI. Includes IRS standards (national and local), taxes, mandatory payroll deductions, health insurance, childcare, education for dependent children, court-ordered payments, secured debt payments over 60 months, priority debt over 60 months, and the Chapter 13 trustee fee. The more you can legitimately deduct, the more likely you are to pass the means test.
+Children's Privacy
 
-Other Necessary Expenses (ONEs)Additional deductions beyond the IRS standards that the means test allows. Includes taxes (income, Social Security, Medicare), mandatory payroll deductions (retirement contributions, union dues), term life insurance, court-ordered payments (child support, alimony), education expenses for dependent children (up to $156.25/month per child), childcare, healthcare costs above the IRS standard, and telecommunications ($75/month combined for phone/internet).
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Secured Debt Payment DeductionYour total payments on secured debts (mortgages, car loans, tax liens) that will come due in the next 60 months, divided by 60. This gives you a monthly deduction for these payments. Includes both current payments and any arrearages you plan to cure. This deduction often makes the difference between passing and failing the means test.
+Data Retention
 
-Priority Claim DeductionTotal priority debts (domestic support arrears, certain tax debts, employee wage claims) divided by 60. Priority debts must be paid in full in Chapter 13, so the means test allows this deduction from disposable income.
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Chapter 13 Administrative ExpenseThe estimated trustee fee multiplied by your projected plan payments. The standing trustee in your district takes a percentage (typically 3-10%) of plan payments as an administrative fee. This is deductible on the means test for Chapter 13 filers.
+Your Rights
 
-Legal Concepts
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Presumption of AbuseUnder 11 U.S.C. 707(b)(2), if you are above median income and your means test shows monthly disposable income (after deductions) x 60 equals $9,075 or more, the court presumes your Chapter 7 filing is abusive. Also arises if the 60-month total is at least $5,475 and would pay 25%+ of nonpriority unsecured claims. If presumption arises, the U.S. Trustee can move to dismiss unless you demonstrate special circumstances.
+Network Policy
 
-Special CircumstancesUnder 11 U.S.C. 707(b)(2)(B), a debtor can rebut the presumption of abuse by demonstrating special circumstances that justify additional expenses or adjustments to CMI for which there is no reasonable alternative. Examples: serious medical condition, military service obligations, job loss after the lookback period. Must be documented and the court must find them credible. This is a high bar -- not every unusual expense qualifies.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Disposable Income (Projected)CMI minus all allowable deductions. In Chapter 7, this determines whether the presumption of abuse arises. In Chapter 13, this determines the minimum amount you must pay to unsecured creditors through your plan. The lower your projected disposable income, the less you pay in Chapter 13.
+Changes
 
-Applicable Commitment PeriodThe length of your Chapter 13 plan. Below median: 3 years (36 months). Above median: 5 years (60 months). The court can approve a shorter plan for below-median debtors. Above-median debtors must commit to the full 5 years unless they pay 100% of unsecured claims sooner.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Household SizeThe number of people in your household for means test purposes. This affects your median income comparison and your IRS standard deductions. Courts disagree on how to count household size -- some use the Census Bureau definition (everyone living in the home), others use the IRS dependent definition, and others use an "economic unit" test. Check your district's interpretation. See the household size guide.
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Totality of the CircumstancesUnder 11 U.S.C. 707(b)(3), even if you pass the means test mathematically, the court can still dismiss your Chapter 7 case if the totality of your financial circumstances demonstrates abuse. This is a separate, subjective analysis the court can apply -- for example, if you have significant equity in non-exempt assets or your budget reveals unreasonable spending patterns.
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Safe HarborIf your annualized CMI is at or below the state median for your household size, the presumption of abuse cannot arise under the means test formula. You are in the "safe harbor" -- but the court can still review your case under the totality-of-the-circumstances test (707(b)(3)).
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Forms
-
-Form 122A-1 (Chapter 7 Statement of Current Monthly Income)Required for all individual Chapter 7 filers. Calculates your CMI and compares it to the state median. If below median, you stop here. If above median, proceed to Form 122A-2.
-
-Form 122A-2 (Chapter 7 Means Test Calculation)Required only for above-median Chapter 7 filers. Calculates all allowable deductions and determines whether the presumption of abuse arises. This is the full means test calculation.
-
-Form 122C-1 (Chapter 13 Statement of Current Monthly Income and Calculation of Commitment Period)Required for all individual Chapter 13 filers. Calculates CMI and determines whether the applicable commitment period is 3 years or 5 years.
-
-Form 122C-2 (Chapter 13 Calculation of Disposable Income)Required for above-median Chapter 13 filers. Calculates the projected disposable income that must be paid to unsecured creditors through the plan.
-
-Schedule I (Current Income)A separate form from the means test. Lists your actual current monthly income at the time of filing. May differ from CMI because CMI uses a 6-month average while Schedule I shows current income. Courts use Schedule I for Chapter 13 feasibility analysis.
-
-Schedule J (Current Expenditures)Lists your actual current monthly expenses. Combined with Schedule I to show your actual monthly budget. The difference between income (Schedule I) and expenses (Schedule J) is your actual monthly net income -- which affects plan feasibility in Chapter 13.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-Related Guides
-
-15 Red Flags of a Bankruptcy Mill
-When Your Lawyer Won't Call Back
-Student Loan Bankruptcy Terms
-Your Rights Against Debt Buyers
-Chapter 7 vs Chapter 13
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-♥ Sponsor
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-Open Bankruptcy Project
-Ch.7 vs Ch.13
-Automatic Stay
-Bankruptcy Mill
-Brunner Test
-Debt Buyer Rights
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
+No ads. No affiliate links. No data sold. Supported by donations.
 
 ---
 
 ## Additional FAQ Pages
 
 
-### Does Social Security count for the means test? -- Bankruptcy Means Test
+### Does Social Security count for the means test? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/does-social-security-count-for-the-means-test.html
 
 Skip to content
@@ -3853,7 +3927,7 @@ Dependent benefits
 
 Practical Impact
 
-For someone living primarily on Social Security, this exclusion is a game-changer. A retiree receiving $3,000/month in Social Security -- which would be $36,000/year -- could have zero "income" for means test purposes. They would automatically pass Part 1 and qualify for Chapter 7.
+For someone living primarily on Social Security, this exclusion is a game-changer. A retiree receiving $3,000/month in Social Security - which would be $36,000/year - could have zero "income" for means test purposes. They would automatically pass Part 1 and qualify for Chapter 7.
 
 Mixed Income Situations
 
@@ -3869,6 +3943,10 @@ How It Works
 
 Calculator
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
@@ -3883,7 +3961,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### How do I calculate the bankruptcy means test? -- Bankruptcy Means Test
+### How do I calculate the bankruptcy means test? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/how-do-i-calculate-the-bankruptcy-means-test.html
 
 Skip to content
@@ -3931,6 +4009,10 @@ How It Works
 
 Index
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
@@ -3945,7 +4027,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### How far back does the means test look at income? -- Bankruptcy Means Test
+### How far back does the means test look at income? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/how-far-back-does-the-means-test-look-at-income.html
 
 Skip to content
@@ -3963,17 +4045,17 @@ How far back does the means test look at income?
 
 The means test looks back 6 full calendar months before the month you file. If you file in April, the lookback covers October through March. This lookback period determines your 'current monthly income' and can be strategically timed to exclude months with unusually high or low income.
 
-The 6-month lookback period is one of the most important -- and most strategic -- aspects of the means test.
+The 6-month lookback period is one of the most important - and most strategic - aspects of the means test.
 
 The Exact Calculation Window
 
 The lookback period covers the 6 complete calendar months before the month you file. It does not include the month of filing itself. Examples:
 
-File in January 2026 -- lookback: July through December 2025
+File in January 2026 - lookback: July through December 2025
 
-File in March 2026 -- lookback: September 2025 through February 2026
+File in March 2026 - lookback: September 2025 through February 2026
 
-File on April 30, 2026 -- lookback: October 2025 through March 2026
+File on April 30, 2026 - lookback: October 2025 through March 2026
 
 Why Timing Matters
 
@@ -3991,7 +4073,7 @@ What About Income Changes After Filing?
 
 The means test is a snapshot of your pre-filing income. If your income changes after filing, it generally does not affect a Chapter 7 case. However, the U.S. Trustee can file a motion to dismiss based on the "totality of circumstances" if your post-filing situation suggests the filing was not made in good faith.
 
-Strategic timing of your filing is legitimate and common. It is one of the most valuable aspects of working with an experienced bankruptcy attorney -- or doing thorough research as a pro se filer.
+Strategic timing of your filing is legitimate and common. It is one of the most valuable aspects of working with an experienced bankruptcy attorney - or doing thorough research as a pro se filer.
 
 Related Guides
 
@@ -4015,7 +4097,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- Bankruptcy Means Test
+### Common Questions - Bankruptcy Means Test
 Source: https://meanstest.org/paa/index.html
 
 meanstest.org
@@ -4039,6 +4121,10 @@ What is the median income for the means test by state?
 
 How far back does the means test look at income?
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Part of the Bankruptcy Transparency Network
 
 1328f.com
@@ -4046,7 +4132,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### What if I fail the means test? -- Bankruptcy Means Test
+### What if I fail the means test? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/what-if-i-fail-the-means-test.html
 
 Skip to content
@@ -4068,7 +4154,7 @@ Failing the means test closes the Chapter 7 door but does not eliminate your opt
 
 Option 1: File Chapter 13 Instead
 
-Chapter 13 has no income ceiling. If you fail the Chapter 7 means test, it is because you have enough disposable income to fund a repayment plan -- which is exactly what Chapter 13 requires. Your plan payment will be based on your disposable income, and after 3-5 years you receive a discharge of remaining qualifying debts.
+Chapter 13 has no income ceiling. If you fail the Chapter 7 means test, it is because you have enough disposable income to fund a repayment plan - which is exactly what Chapter 13 requires. Your plan payment will be based on your disposable income, and after 3-5 years you receive a discharge of remaining qualifying debts.
 
 Option 2: Retime Your Filing
 
@@ -4116,7 +4202,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### What income counts for the bankruptcy means test? -- Bankruptcy Means Test
+### What income counts for the bankruptcy means test? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/what-income-counts-for-the-bankruptcy-means-test.html
 
 Skip to content
@@ -4160,7 +4246,7 @@ State disability benefits
 
 Income That Does NOT Count
 
-Social Security benefits -- explicitly excluded by statute, regardless of amount
+Social Security benefits - explicitly excluded by statute, regardless of amount
 
 Payments to victims of war crimes or terrorism
 
@@ -4182,6 +4268,10 @@ Income Exclusions
 
 Calculator
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
@@ -4196,7 +4286,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### What is the median income for the means test by state? -- Bankruptcy Means Test
+### What is the median income for the means test by state? - Bankruptcy Means Test
 Source: https://meanstest.org/paa/what-is-the-median-income-for-the-means-test-by-state.html
 
 Skip to content
