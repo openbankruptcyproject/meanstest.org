@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Common Means Test Mistakes - Errors That Can Cost You</title>
+<meta name="description" content="Learn about common means test mistakes - errors that can cost you | meanstest.org in our free 2026 guide.">
+<link rel="canonical" href="https://meanstest.org/common-mistakes.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<meta property="og:title" content="Common Means Test Mistakes - Errors That Can Cost You">
+<meta property="og:description" content="Learn about common means test mistakes - errors that can cost you | meanstest.org in our free 2026 guide.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://meanstest.org/common-mistakes.html">
+<meta property="og:site_name" content="meanstest.org">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Common Means Test Mistakes - Errors That Can Cost You">
+<meta name="twitter:description" content="Learn about common means test mistakes - errors that can cost you | meanstest.org in our free 2026 guide.">
+<meta property="og:image" content="https://meanstest.org/og-image.svg">
+<meta name="twitter:image" content="https://meanstest.org/og-image.svg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most common means test mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistakes include: using the wrong household size, including Social Security income (which is excluded), using gross income instead of the 6-month CMI calculation, failing to claim all available deductions, using outdated median income figures, not accounting for a non-filing spouse's income, and miscalculating secured debt deductions. Each of these errors can change the result from pass to fail or vice versa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Social Security count as income for the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Social Security benefits of all types - retirement, disability (SSDI), survivors benefits, and SSI - are completely excluded from the means test income calculation. This is one of the most commonly misunderstood rules. If you included Social Security in your calculation and failed, recalculate without it - you may pass."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I determine my household size for the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Household size includes you, your spouse (if filing jointly), and your dependents who live with you. Courts disagree on the exact definition - some use the Census Bureau approach (people living in your home), some use the IRS dependent test, and some use an economic unit test. The definition your court uses can significantly affect your result because a larger household size means a higher median income threshold."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://meanstest.org/"},{"@type":"ListItem","position":2,"name":"Common Mistakes","item":"https://meanstest.org/common-mistakes.html"}]}
+</script>
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; z-index: 9999; }
+  #site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.85rem; line-height: 1.9; }
+  #site-nav a { margin: 0 0.4rem; }
+  #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+  #site-nav .site-brand { color: #f0f6fc; font-weight: 700; font-size: 1rem; margin-right: 0.75rem; text-decoration: none; }
+  .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .nav-links { display: inline; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+    .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+    .nav-links.open { display: block; }
+    .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.9rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+    .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+    .nav-links .sep { display: none; }
+  }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.5rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; }
+  .container { max-width: 760px; margin: 0 auto; padding: 2rem; }
+  .breadcrumb { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  h2 { color: #f0f6fc; font-size: 1.375rem; margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol { margin: 0 0 1rem 1.5rem; }
+  li { margin-bottom: 0.4rem; }
+  .red-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--red); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .red-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .green-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .green-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .warning-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .warning-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .statute-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .statute-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 6px; padding: 1.5rem 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; font-size: 1.1rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; color: var(--text-muted); font-size: 0.8125rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1875rem; }
+    .container { padding: 1rem; }
+  }
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Common Means Test Mistakes",
+      "description": "Avoid these common means test mistakes: wrong household size, forgetting Social Security exclusion, missing deductions, using gross instead of CMI, and more. Ea",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://meanstest.org/common-mistakes.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Common Means Test Mistakes",
+      "url": "https://meanstest.org/common-mistakes.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+
+<link rel="alternate" hreflang="en" href="https://meanstest.org/common-mistakes.html">
+<link rel="alternate" hreflang="es" href="https://meanstest.org/common-mistakes-es.html">
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+
+<nav id="site-nav" aria-label="Site navigation">
+  <a href="/" class="site-brand">meanstest.org</a>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
+  <div class="nav-links" id="nav-links">
+    <a href="/">Home</a>
+    <a href="/how-it-works.html">How It Works</a>
+    <a href="/median-income.html">Income Tables</a>
+    <a href="/deductions.html">Deductions</a>
+    <a href="/what-if-you-fail.html">Failed?</a>
+    <a href="/chapter-13-means-test.html">Ch. 13</a>
+    <a href="/common-mistakes.html">Mistakes</a>
+    <a href="/above-median-income.html">Above Median</a>
+    <span class="sep">|</span>
+    <a href="/calculator.html" style="color:#3fb950;font-weight:600">Calculator</a>
+  </div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+
+<header role="banner">
+  <h1>Common Means Test Mistakes</h1>
+  <p class="subtitle">Each of these errors can flip your result from pass to fail - or make you think you fail when you actually pass</p>
+</header>
+
+<div class="container" id="main" role="main">
+
+<p class="breadcrumb"><a href="/">Home</a> &rsaquo; Common Mistakes</p>
+
+<p>The means test is a mechanical calculation, but it has enough moving parts that mistakes are common. Some mistakes make you think you fail when you would actually pass. Others can cause your case to be challenged after filing. Here are the ones we see most often.</p>
+
+<h2>Mistake #1: Including Social Security Income</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Including Social Security benefits in your current monthly income calculation.</p>
+</div>
+
+<p><strong>Social Security income is excluded from the means test.</strong> All types - retirement, disability (SSDI), survivors benefits, SSI. This is one of the most common errors, especially among retirees and people on disability who assume "all income counts."</p>
+
+<p>If you receive $2,000/month in Social Security and $1,500/month from a pension, your CMI for means test purposes is $1,500 - not $3,500. This single correction can mean the difference between being above or below the median.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>On Form 122A-1, Line 3 specifically excludes Social Security. Do not include it in any income line. If you have already calculated your means test with Social Security included and failed, recalculate without it.</p>
+</div>
+
+<h2>Mistake #2: Wrong Household Size</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Using the wrong number for household size - either too small (missing dependents) or too large (including people who should not count).</p>
+</div>
+
+<p>Household size directly determines which median income number you compare against. A household of 2 might have a median of $68,000 while a household of 3 has a median of $78,000. Getting this number wrong by even one person can change your result.</p>
+
+<p>The tricky part: courts disagree on how to count household size. Three approaches exist:</p>
+
+<ul>
+  <li><strong>Census Bureau (head count)</strong> - everyone living in your home, regardless of relationship or dependency</li>
+  <li><strong>IRS dependent test</strong> - only people you can claim as dependents on your tax return, plus yourself and spouse</li>
+  <li><strong>Economic unit test</strong> - people who form a single economic unit, sharing income and expenses</li>
+</ul>
+
+<p>Different courts in different districts use different tests. The one your court uses can significantly affect your result.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>Find out which test your district uses. If you have a child in college who lives away but you claim as a dependent, the answer changes depending on the test. If you have a roommate who splits rent, the answer changes. Ask an attorney familiar with your local court.</p>
+</div>
+
+<h2>Mistake #3: Using Gross Income or Annual Salary</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Using your annual salary or current gross paycheck amount instead of calculating CMI properly.</p>
+</div>
+
+<p>The means test does not use your current salary or your annual income. It uses your <strong>average monthly income over the 6 full calendar months before filing</strong>. If your income has changed during that period - you got a raise, lost a job, worked overtime, received a bonus - the 6-month average will be different from your current salary.</p>
+
+<p>This also means that timing matters. If you had a high-income month 5 months ago, it is still in the lookback. If you wait one more month, it drops out.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>Gather pay stubs, bank statements, and income records for the <strong>exact 6 calendar months</strong> before your planned filing date. Add up every dollar. Divide by 6. That is your CMI. Do not estimate or use your current paycheck as a shortcut.</p>
+</div>
+
+<h2>Mistake #4: Not Claiming All Deductions</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Leaving deductions blank or underestimating them on Form 122A-2.</p>
+</div>
+
+<p>Many above-median filers leave money on the table. Form 122A-2 has dozens of line items, and it is easy to skip ones you do not immediately recognize. Common missed deductions:</p>
+
+<ul>
+  <li><strong>Health insurance premiums</strong> - especially marketplace plans</li>
+  <li><strong>Mandatory retirement contributions</strong> - employer-required 401(k) contributions</li>
+  <li><strong>Childcare costs</strong> - the full actual amount</li>
+  <li><strong>State and local taxes</strong> - often forgotten when only federal is obvious</li>
+  <li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> administrative expense</strong> - available even on the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> form</li>
+  <li><strong>Priority debt payments</strong> - 1/60th of back taxes owed</li>
+  <li><strong>HSA contributions</strong></li>
+  <li><strong>Telecommunications</strong> - additional phone/internet allowance</li>
+</ul>
+
+<p>See the <a href="/deductions.html">full deductions guide</a> for every category.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>Go through Form 122A-2 line by line. For every deduction category, ask: "Does this apply to me?" Do not leave lines blank if you have any qualifying expense. The form is long for a reason - every deduction is an opportunity to reduce your disposable income.</p>
+</div>
+
+<h2>Mistake #5: Using Outdated Median Income Figures</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Using median income figures from a previous period rather than the ones in effect on your filing date.</p>
+</div>
+
+<p>The U.S. Trustee updates median income figures approximately every 6 months. The figures change - sometimes significantly. If you calculated your means test using last year's figures and the medians have since increased, you might actually be below the new median.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>Always check <a href="https://www.justice.gov/ust/means-testing" rel="noopener">justice.gov/ust/means-testing</a> for the most current figures before filing. Use the figures in effect on your <strong>filing date</strong>, not the date you start preparing forms.</p>
+</div>
+
+<h2>Mistake #6: Forgetting the Non-Filing Spouse</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>If married but filing individually, not including the non-filing spouse's income on Form 122A-1 - or including it but forgetting to claim the "marital adjustment" deduction.</p>
+</div>
+
+<p>If you are married and filing without your spouse, you must still report your spouse's income on Form 122A-1. However, you then get a <strong>marital adjustment deduction</strong> on the continuation sheet - you can subtract the portion of your spouse's income that is not used for your household expenses or your dependents' expenses.</p>
+
+<p>Some filers forget to include the spouse's income (which can cause problems if discovered). Others include it but forget to claim the marital adjustment (which inflates their CMI and may push them above the median).</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>If filing individually while married: report spouse's income, then carefully calculate the marital adjustment. The adjustment subtracts the spouse's income that goes to his or her own separate expenses and obligations.</p>
+</div>
+
+<h2>Mistake #7: Miscalculating Secured Debt Deductions</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Using the current monthly payment instead of the 60-month average, or forgetting to include arrearage cure amounts.</p>
+</div>
+
+<p>Secured debt deductions on the means test are calculated by dividing the <strong>total amount you will owe over the next 60 months</strong> by 60. This is not necessarily the same as your current monthly payment. If your car loan will be paid off in 24 months, you divide the remaining balance by 60 (not the monthly payment times 60). If you have mortgage arrears, include the arrearage cure amount in the calculation.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>For each secured debt: calculate total remaining balance + any arrears. Divide by 60. That is your monthly deduction for that debt. This may be less than your actual monthly payment (if the loan term is shorter than 60 months) or more (if arrears are included).</p>
+</div>
+
+<h2>Mistake #8: Not Considering Filing Timing</h2>
+
+<div class="red-box">
+<h4>The Error</h4>
+<p>Filing immediately without considering how the 6-month lookback period affects the calculation.</p>
+</div>
+
+<p>Because the means test averages 6 months of income, the date you file can dramatically change your result. A bonus in month 1 of the lookback inflates your average. Waiting until it rolls out of the window can be the difference between passing and failing.</p>
+
+<div class="green-box">
+<h4>The Fix</h4>
+<p>Before filing, calculate your CMI for several possible filing dates. Map out the 6-month lookback for each. Find the date that gives you the most favorable average - considering not just income spikes but also any months with reduced income that should be in the window.</p>
+</div>
+
+<h2>The Big Picture</h2>
+
+<div class="statute-box">
+<h4>Every Error Goes in One Direction</h4>
+<p>Notice something about these mistakes? Most of them make you appear to have <strong>more</strong> income than you actually have for means test purposes. Including Social Security, using the wrong household size, missing deductions, using gross salary - they all push your result toward failing. If you think you fail the means test, double-check every one of these items before giving up on <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+</div>
+
+<div class="cta-box">
+<h4>Run the Numbers Correctly</h4>
+<p>Start with the basic income-vs-median comparison using the right figures.</p>
+<p style="margin-top:0.75rem;margin-bottom:0"><a href="/calculator.html" style="font-weight:600">Use the Free Calculator &rarr;</a></p>
+</div>
+
+<div class="warning-box">
+<h4>Not Legal Advice</h4>
+<p>This page identifies common errors for educational purposes. Your specific means test calculation depends on your circumstances, your district's practices, and the current forms and standards. Consult a licensed bankruptcy attorney for personalized guidance.</p>
+</div>
+
+</div>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the bankruptcy means test:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/707" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 707(b)</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - means test statute</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.census.gov/topics/income-poverty/income.html" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Census Median Income Data</a><br><span style="color:#7d8590;font-size:0.8rem">Income thresholds</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/forms/bankruptcy-forms/chapter-7-means-test-calculation" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Means Test Form (B 122A)</a><br><span style="color:#7d8590;font-size:0.8rem">Official form</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust/means-testing" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">U.S. Trustee Means Test Data</a><br><span style="color:#7d8590;font-size:0.8rem">DOJ income multipliers</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-chapter-7-bankruptcy-en-1947/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">CFPB: Chapter 7 Eligibility</a><br><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22means+test%22+%22707%28b%29%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Means Test Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://bankruptcymeanstest.org?utm_source=meanstest.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Means Test by State</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">State-by-state income limits for the means test</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymeanstest.org &rarr;</p>
+    </a>
+    <a href="https://debttoincomeratio.org?utm_source=meanstest.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Debt-to-Income Calculator</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">debttoincomeratio.org &rarr;</p>
+    </a>
+    <a href="https://whatischapter7.org?utm_source=meanstest.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Eligibility Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Eligibility rules, pros, cons, and common myths</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">whatischapter7.org &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=meanstest.org&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
+  <li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">727(a)(8) Eight-Year Filing Bar</a></li>
+  <li><a href="https://chapter7vs13.org" style="color:#58a6ff;text-decoration:none">Chapter 7 vs Chapter 13 Comparison</a></li>
+  <li><a href="https://whatischapter7.com" style="color:#58a6ff;text-decoration:none">What is Chapter 7 Bankruptcy?</a></li>
+  </ul>
+</div>
+
+<!-- BTN:FOOTER:START -->
+<footer>
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
+  <div style="margin-bottom:1rem">
+    <a href="/">Home</a> &middot;
+    <a href="/how-it-works.html">How It Works</a> &middot;
+    <a href="/median-income.html">Income Tables</a> &middot;
+    <a href="/deductions.html">Deductions</a> &middot;
+    <a href="/what-if-you-fail.html">Failed?</a> &middot;
+    <a href="/calculator.html">Calculator</a>
+  </div>
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:1rem auto">
+    <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+  </div>
+  <p style="margin-top:1rem">&copy; 2026 meanstest.org. Not legal advice.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+
+<script src="/btn-engage.js" defer></script>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=meanstest.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=meanstest.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=meanstest.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+  </ul>
+</div>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

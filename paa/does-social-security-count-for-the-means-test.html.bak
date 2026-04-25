@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Does Social Security count for the means test? - Bankruptcy Means Test</title>
+<meta name="description" content="No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retireme...">
+<link rel="canonical" href="https://meanstest.org/paa/does-social-security-count-for-the-means-test.html">
+
+<meta property="og:title" content="Does Social Security count for the means test? - Bankruptcy Means Test">
+<meta property="og:description" content="No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retireme...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://meanstest.org/paa/does-social-security-count-for-the-means-test.html">
+<meta property="og:site_name" content="meanstest.org">
+<meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Does Social Security count for the means test? - Bankruptcy Means Test">
+<meta name="twitter:description" content="No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retireme...">
+<meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Social Security count for the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retirement benefits, disability (SSDI), and survivor benefits. If Social Security is your only income, you automatically qualify for Chapter 7 regardless of the amount."
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0a0a0a;color:#e5e5e5;min-height:100vh}
+a{color:#60a5fa;text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2px}
+
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600;text-decoration:none}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+
+.nav{background:#111;border-bottom:1px solid #333;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.nav .brand{color:#60a5fa;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}
+.nav .brand:hover{text-decoration:none;opacity:0.9}
+.nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.nav-links a{color:#999;font-size:14px}
+.nav-links a:hover{color:#fff;text-decoration:none}
+
+.hero{text-align:center;padding:64px 24px 40px}
+.hero h1{font-size:28px;font-weight:700;color:#fff;margin-bottom:16px;line-height:1.3;max-width:700px;margin-left:auto;margin-right:auto}
+.hero .badge{display:inline-block;background:#0d2137;border:1px solid #60a5fa;color:#60a5fa;padding:6px 16px;border-radius:20px;font-size:13px;font-weight:600;margin-bottom:20px}
+
+.content{max-width:760px;margin:0 auto;padding:0 24px}
+
+.snippet{background:#111;border-left:4px solid #60a5fa;border-radius:0 8px 8px 0;padding:20px 24px;margin:0 0 32px 0;font-size:16px;line-height:1.8;color:#e5e5e5}
+
+.section{margin:32px 0}
+.section h2{font-size:20px;color:#fff;margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid #333}
+.section h3{font-size:17px;color:#e5e5e5;margin:20px 0 10px}
+.section p{color:#ccc;font-size:15px;line-height:1.8;margin-bottom:14px}
+.section ul,.section ol{color:#ccc;font-size:15px;line-height:1.8;margin:0 0 14px 24px}
+.section li{margin-bottom:6px}
+
+.breadcrumb{padding:12px 24px;font-size:13px;color:#888}
+.breadcrumb a{color:#888}
+.breadcrumb a:hover{color:#60a5fa}
+
+.network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}
+.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:#888;font-size:0.85rem}
+.network-footer .links a:hover{color:#60a5fa}
+.network-footer .disclaimer{margin-top:1rem;font-size:0.75rem;color:#666}
+
+@media(max-width:768px){
+  .hero h1{font-size:22px}
+  .hero{padding:40px 16px 28px}
+  .snippet{padding:16px 18px;font-size:15px}
+}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<nav class="nav" aria-label="Main">
+  <a class="brand" href="/">meanstest.org</a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/paa/">Questions</a>
+  </div>
+</nav>
+
+<div class="breadcrumb">
+  <a href="/">Home</a> &rsaquo; <a href="/paa/">Common Questions</a> &rsaquo; Does Social Security count for the means test?
+</div>
+
+<main id="main">
+<div class="hero">
+  <span class="badge">People Also Ask</span>
+  <h1>Does Social Security count for the means test?</h1>
+</div>
+
+<div class="content">
+  <div class="snippet">
+    No. Social Security benefits are explicitly excluded from the means test calculation under 11 U.S.C. Section 101(10A). This includes retirement benefits, disability (SSDI), and survivor benefits. If Social Security is your only income, you automatically qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> regardless of the amount.
+  </div>
+
+  <div class="section">
+<p>The exclusion of Social Security from the means test is one of the most important provisions in the Bankruptcy Code for retirees and disabled individuals.</p>
+
+<h2>The Legal Basis</h2>
+<p>Section 101(10A) of the Bankruptcy Code defines "current monthly income" and specifically excludes "benefits received under the Social Security Act." This exclusion was added by the 2005 <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> amendments and applies to all forms of Social Security benefits.</p>
+
+<h2>What Is Excluded</h2>
+<ul>
+<li>Social Security retirement benefits</li>
+<li>Social Security Disability Insurance (SSDI)</li>
+<li>Supplemental Security Income (SSI)</li>
+<li>Survivor benefits</li>
+<li>Dependent benefits</li>
+</ul>
+
+<h2>Practical Impact</h2>
+<p>For someone living primarily on Social Security, this exclusion is a game-changer. A retiree receiving $3,000/month in Social Security - which would be $36,000/year - could have zero "income" for means test purposes. They would automatically pass Part 1 and qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+
+<h2>Mixed Income Situations</h2>
+<p>If you receive Social Security plus other income (pension, part-time work, rental income), only the non-Social Security income counts for the means test. This often pushes filers well below the median, even if their total actual income is above it.</p>
+
+<p>This provision is particularly important for seniors facing <a href="https://medicaldebtbankruptcy.com/" title="medical debt">medical debt</a> or credit card debt accumulated during retirement. The combination of Social Security exclusion and the typically lower income of retirees means most seniors readily qualify for Chapter 7.</p>
+  </div>
+
+<div class="section">
+<h2>Related Guides</h2>
+<ul>
+    <li><a href="/income-exclusions.html">Income Exclusions</a></li>    <li><a href="/how-it-works.html">How It Works</a></li>    <li><a href="/calculator.html">Calculator</a></li>
+</ul>
+</div>
+</div>
+
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://1328f.com?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://1328f.org?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network">1328f.org</a>
+    <a href="https://openbankruptcyproject.org?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+  </div>
+  <p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=meanstest.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a></p>
+</footer>
+
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

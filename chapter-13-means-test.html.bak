@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>The Chapter 13 Means Test - Plan Length, Not Eligibility</title>
+<meta content="Learn about the chapter 13 means test - plan length, not eligibility | meanstest.org in our free 2026 guide." name="description"/>
+<link href="https://meanstest.org/chapter-13-means-test.html" rel="canonical"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<meta content="The Chapter 13 Means Test - Plan Length, Not Eligibility" property="og:title"/>
+<meta content="Learn about the chapter 13 means test - plan length, not eligibility | meanstest.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://meanstest.org/chapter-13-means-test.html" property="og:url"/>
+<meta content="meanstest.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="The Chapter 13 Means Test - Plan Length, Not Eligibility" name="twitter:title"/>
+<meta content="Learn about the chapter 13 means test - plan length, not eligibility | meanstest.org in our free 2026 guide." name="twitter:description"/>
+<meta content="https://meanstest.org/og-image.svg" property="og:image"/>
+<meta content="https://meanstest.org/og-image.svg" name="twitter:image"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does the means test apply to Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The means test under Section 707(b) only determines eligibility for Chapter 7. There is no means test for Chapter 13. Anyone with regular income and debts within the statutory limits can file Chapter 13. However, your income level relative to the state median determines your plan length: below median allows a 3-year plan, above median requires a 5-year plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does income affect Chapter 13 plan length?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Section 1325(b)(4), if your current monthly income is at or below the state median for your household size, your applicable commitment period is 3 years (36 months). If above the median, it is 5 years (60 months). This is the minimum plan length - you can always propose a longer plan up to 5 years, but an above-median debtor cannot propose a shorter one without paying 100% of unsecured claims."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Chapter 13 disposable income test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Section 1325(b), if the trustee or an unsecured creditor objects to your plan, you must commit all projected disposable income to the plan for the applicable commitment period. For above-median debtors, disposable income is calculated using the same IRS standards as the Chapter 7 means test. For below-median debtors, actual expenses are used instead. This determines how much you must pay unsecured creditors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the debt limits for Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As of the 2024 adjustment, the combined limit for secured and unsecured debts in Chapter 13 is $2,750,000. This is a single combined limit that replaced the previous separate limits for secured and unsecured debts. If your debts exceed this amount, Chapter 13 is not available and you would need to consider Chapter 11 or Chapter 7."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://meanstest.org/"},{"@type":"ListItem","position":2,"name":"Chapter 13 Means Test","item":"https://meanstest.org/chapter-13-means-test.html"}]}
+</script>
+<link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; z-index: 9999; }
+  #site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.85rem; line-height: 1.9; }
+  #site-nav a { margin: 0 0.4rem; }
+  #site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+  #site-nav .site-brand { color: #f0f6fc; font-weight: 700; font-size: 1rem; margin-right: 0.75rem; text-decoration: none; }
+  .nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .nav-links { display: inline; }
+  @media (max-width: 768px) {
+    .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+    .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+    .nav-links.open { display: block; }
+    .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.9rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+    .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+    .nav-links .sep { display: none; }
+  }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.5rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; }
+  .container { max-width: 760px; margin: 0 auto; padding: 2rem; }
+  .breadcrumb { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  h2 { color: #f0f6fc; font-size: 1.375rem; margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { color: #f0f6fc; font-size: 1.125rem; margin: 1.5rem 0 0.5rem; }
+  p { margin-bottom: 1rem; }
+  ul, ol { margin: 0 0 1rem 1.5rem; }
+  li { margin-bottom: 0.4rem; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; }
+  thead th { color: #f0f6fc; font-weight: 600; background: var(--surface); }
+  th, td { padding: 0.5rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+  .statute-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .statute-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .green-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--green); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .green-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .warning-box { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow); border-radius: 0 6px 6px 0; padding: 1rem 1.5rem; margin-bottom: 1.5rem; }
+  .warning-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; }
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 6px; padding: 1.5rem 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h4 { color: #f0f6fc; margin-bottom: 0.5rem; font-size: 1.1rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; color: var(--text-muted); font-size: 0.8125rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem; }
+    header h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1875rem; }
+    .container { padding: 1rem; }
+  }
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "The Chapter 13 Means Test",
+      "description": "Chapter 13 has no means test for eligibility, but your income determines your plan length: 3 years (below median) or 5 years (above median). Learn how Section 1",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://meanstest.org/chapter-13-means-test.html"
+    },
+    {
+      "@type": "HowTo",
+      "name": "The Chapter 13 Means Test",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nThe Chapter 13 Means Test - Plan Length, Not El"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Debt limits - combined secured and unsecured debts must be below $2,750,000 (as of the 2024 adjustment)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Tax filing - you must have filed all required tax returns for the 4 years before filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Credit counseling - you must complete an approved credit counseling course within 180 days before filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Priority debts in full - back taxes, domestic support obligations, and other priority claims must be paid 100% through the plan"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Secured debts - you must keep current on mortgage and car loan payments (or surrender the collateral)"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Disposable income commitment - all projected disposable income goes to unsecured creditors for the plan period"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Best interests test - unsecured creditors must receive at least as much as they would in a hypothetical Chapter 7 liquidation"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Trustee fee - the Chapter 13 trustee takes a percentage (typically 6-10%) of plan payments as an administrative fee"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Form 122C-1 - Chapter 13 Statement of Your Current Monthly Income and Calculation of Commitment Period. Determines whether your plan runs 3 or 5 years."
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "The Chapter 13 Means Test",
+      "url": "https://meanstest.org/chapter-13-means-test.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<link href="https://meanstest.org/chapter-13-means-test.html" hreflang="en" rel="alternate"/>
+<link href="https://meanstest.org/chapter-13-means-test-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav aria-label="Site navigation" id="site-nav">
+<a class="site-brand" href="/">meanstest.org</a>
+<button aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation menu" class="nav-toggle">☰ Menu</button>
+<div class="nav-links" id="nav-links">
+<a href="/">Home</a>
+<a href="/how-it-works.html">How It Works</a>
+<a href="/median-income.html">Income Tables</a>
+<a href="/deductions.html">Deductions</a>
+<a href="/what-if-you-fail.html">Failed?</a>
+<a href="/chapter-13-means-test.html">Ch. 13</a>
+<a href="/common-mistakes.html">Mistakes</a>
+<a href="/above-median-income.html">Above Median</a>
+<span class="sep">|</span>
+<a href="/calculator.html" style="color:#3fb950;font-weight:600">Calculator</a>
+</div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
+<header role="banner">
+<h1>The Chapter 13 Means Test</h1>
+<p class="subtitle">In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the means test determines plan length - not whether you can file</p>
+</header>
+<div class="container" id="main" role="main">
+<p class="breadcrumb"><a href="/">Home</a> › <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> Means Test</p>
+<p>If you are looking at Chapter 13 because you <a href="/what-if-you-fail.html">did not pass the Chapter 7 means test</a>, or because Chapter 13 fits your situation better, here is what you need to know: <strong>there is no means test for Chapter 13 eligibility</strong>. But your income still matters.</p>
+<h2>No Means Test for Eligibility</h2>
+<p><a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a> - the means test - applies only to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. There is no income-based test that can prevent you from filing Chapter 13. If you have regular income and your debts are within the statutory limits, you can file.</p>
+<div class="statute-box">
+<h4>Chapter 13 Eligibility Requirements</h4>
+<ul>
+<li><strong>Regular income</strong> - wages, self-employment income, Social Security, pension, or any other regular source</li>
+<li><strong>Debt limits</strong> - combined secured and unsecured debts must be below $2,750,000 (as of the 2024 adjustment)</li>
+<li><strong>Tax filing</strong> - you must have filed all required tax returns for the 4 years before filing</li>
+<li><strong><a href="https://bankruptcyfreshstart.org/" title="credit counseling">Credit counseling</a></strong> - you must complete an approved <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> course within 180 days before filing</li>
+</ul>
+</div>
+<h2>How Income Determines Plan Length</h2>
+<p>While the means test does not block Chapter 13, your income relative to the state median determines a critical factor: <strong>how long your <a href="https://chapter13plan.org/" title="Chapter 13 plan">repayment plan</a> must last</strong>.</p>
+<table>
+<thead>
+<tr>
+<th scope="col">Your Income Level</th>
+<th scope="col">Minimum Plan Length</th>
+<th scope="col">Maximum Plan Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>At or below state median</td>
+<td>3 years (36 months)</td>
+<td>5 years (60 months)</td>
+</tr>
+<tr>
+<td>Above state median</td>
+<td>5 years (60 months)</td>
+<td>5 years (60 months)</td>
+</tr>
+</tbody>
+</table>
+<p>This is set by <strong>Section 1325(b)(4)</strong>. If you are above the median, your plan <strong>must</strong> run the full 5 years unless you pay 100% of your unsecured debts sooner. If you are below the median, you can propose a 3-year plan, though you may choose to go longer if needed to cover all required payments.</p>
+<div class="green-box">
+<h4>Why This Matters</h4>
+<p>A 3-year plan means 36 monthly payments. A 5-year plan means 60 monthly payments. That is two additional years of living on a court-supervised budget. For many people, the difference between 3 and 5 years is significant - it affects your financial flexibility, life planning, and the total amount you pay to unsecured creditors.</p>
+</div>
+<h2>The Disposable Income Test</h2>
+<p>Chapter 13 has its own income calculation - the <strong>disposable income test</strong> under Section 1325(b). If the trustee or an <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> objects to your plan, you must commit all "projected disposable income" to plan payments for the applicable commitment period.</p>
+<h3>How It Works for Below-Median Debtors</h3>
+<p>If your income is at or below the state median, disposable income is calculated using your <strong>actual expenses</strong> - what you really spend on housing, food, transportation, etc. This can be more or less favorable than the IRS standards, depending on your situation.</p>
+<h3>How It Works for Above-Median Debtors</h3>
+<p>If your income is above the state median, disposable income is calculated using the <strong>same IRS standards</strong> and deductions from the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> means test. The form used is 122C-2 instead of 122A-2, but the methodology is similar.</p>
+<div class="warning-box">
+<h4>Two Different Calculations, Two Different Purposes</h4>
+<table>
+<thead>
+<tr>
+<th scope="col">Feature</th>
+<th scope="col">Chapter 7 Means Test</th>
+<th scope="col">Chapter 13 Disposable Income</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Statute</td>
+<td>Section 707(b)(2)</td>
+<td>Section 1325(b)</td>
+</tr>
+<tr>
+<td>Purpose</td>
+<td>Can you file Chapter 7?</td>
+<td>How much must you pay unsecured creditors?</td>
+</tr>
+<tr>
+<td>Expense method</td>
+<td>IRS standards + actuals</td>
+<td>Actuals (below median) or IRS standards (above median)</td>
+</tr>
+<tr>
+<td>Projection period</td>
+<td>60 months</td>
+<td>36 or 60 months (plan length)</td>
+</tr>
+<tr>
+<td>Consequence</td>
+<td><a href="https://dismissedbankruptcy.org/" title="dismissal">Case dismissed</a> or converted</td>
+<td>Plan not confirmed - must pay more or modify</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>What You Must Pay in Chapter 13</h2>
+<p>Your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> must satisfy several requirements:</p>
+<ol>
+<li><strong>Priority debts in full</strong> - back taxes, domestic support obligations, and other priority claims must be paid 100% through the plan</li>
+<li><strong>Secured debts</strong> - you must keep current on mortgage and car loan payments (or surrender the collateral)</li>
+<li><strong>Disposable income commitment</strong> - all projected disposable income goes to unsecured creditors for the plan period</li>
+<li><strong>Best interests test</strong> - unsecured creditors must receive at least as much as they would in a hypothetical Chapter 7 liquidation</li>
+<li><strong>Trustee fee</strong> - the Chapter 13 trustee takes a percentage (typically 6-10%) of plan payments as an administrative fee</li>
+</ol>
+<p>The result is that your monthly plan payment covers all of these obligations. For some debtors, unsecured creditors receive very little (sometimes 0%) after priority debts, secured debts, and the trustee fee are accounted for. For others, especially above-median debtors, the unsecured portion can be substantial.</p>
+<h2>Forms You Will File</h2>
+<ul>
+<li><strong>Form 122C-1</strong> - Chapter 13 Statement of Your Current Monthly Income and Calculation of Commitment Period. Determines whether your plan runs 3 or 5 years.</li>
+<li><strong>Form 122C-2</strong> - Chapter 13 Calculation of Your Disposable Income. Only required for above-median debtors. Uses IRS standards to calculate how much of your income must go to unsecured creditors.</li>
+</ul>
+<h2>Chapter 13 Completion Rates</h2>
+<p>Chapter 13 is a marathon, not a sprint. National data shows that roughly <strong>33-40% of Chapter 13 cases end in <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></strong>. The rest are dismissed - often because the debtor could not maintain plan payments over the full 3 or 5 years. Job loss, medical emergencies, divorce, and other life events can derail a plan.</p>
+<p>This is not meant to discourage you. Many people successfully complete Chapter 13 and emerge debt-free. But it is important to understand that Chapter 13 requires a sustained commitment over years, and you should plan for the possibility that circumstances may change during that time.</p>
+<div class="cta-box">
+<h4>Check Your Median Income Status</h4>
+<p>Whether your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> runs 3 years or 5 years depends on how your income compares to the state median. Check your status.</p>
+<p style="margin-top:0.75rem;margin-bottom:0"><a href="/calculator.html" style="font-weight:600">Use the Free Calculator →</a></p>
+</div>
+<div class="warning-box">
+<h4>Not Legal Advice</h4>
+<p>This page provides general educational information about Chapter 13 and the disposable income calculation. <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> requirements, feasibility, and outcomes depend on your specific circumstances. Consult a licensed bankruptcy attorney.</p>
+</div>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the bankruptcy means test:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/707" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 707(b)</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - means test statute</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.census.gov/topics/income-poverty/income.html" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Census Median Income Data</a><br/><span style="color:#7d8590;font-size:0.8rem">Income thresholds</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/forms/bankruptcy-forms/chapter-7-means-test-calculation" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Means Test Form (B 122A)</a><br/><span style="color:#7d8590;font-size:0.8rem">Official form</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust/means-testing" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">U.S. Trustee Means Test Data</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ income multipliers</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-chapter-7-bankruptcy-en-1947/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Chapter 7 Eligibility</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22means+test%22+%22707%28b%29%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Means Test Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://bankruptcymeanstest.org?utm_source=meanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Means Test by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">State-by-state income limits for the means test</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymeanstest.org →</p>
+</a>
+<a class="related-card" href="https://debttoincomeratio.org?utm_source=meanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Debt-to-Income Calculator</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">debttoincomeratio.org →</p>
+</a>
+<a class="related-card" href="https://whatischapter7.org?utm_source=meanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Eligibility Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Eligibility rules, pros, cons, and common myths</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">whatischapter7.org →</p>
+</a>
+<a class="related-card" href="https://727a8.com?utm_source=meanstest.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">Chapter 7 Filing Bar Rules</a></li>
+<li><a href="https://727a8.org" style="color:#58a6ff;text-decoration:none">727(a)(8) Eight-Year Filing Bar</a></li>
+<li><a href="https://chapter7vs13.org" style="color:#58a6ff;text-decoration:none">Chapter 7 vs Chapter 13 Comparison</a></li>
+<li><a href="https://whatischapter7.com" style="color:#58a6ff;text-decoration:none">What is Chapter 7 Bankruptcy?</a></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div style="margin-bottom:1rem">
+<a href="/">Home</a> ·
+    <a href="/how-it-works.html">How It Works</a> ·
+    <a href="/median-income.html">Income Tables</a> ·
+    <a href="/deductions.html">Deductions</a> ·
+    <a href="/what-if-you-fail.html">Failed?</a> ·
+    <a href="/calculator.html">Calculator</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:1rem auto">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<p style="margin-top:1rem">© 2026 meanstest.org. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=meanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=meanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=meanstest.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+<a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script defer="" src="/btn-engage.js"></script>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=meanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=meanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=meanstest.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
