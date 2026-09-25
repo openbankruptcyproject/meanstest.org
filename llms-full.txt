@@ -58,7 +58,7 @@ Subtract actual expense deductions. Health insurance premiums, taxes (income, So
 
 Subtract secured and priority debt payments. Monthly payments on mortgages, car loans, and other secured debts are deducted. Priority debts (like back taxes or domestic support obligations) are also deducted based on their average monthly payment over 60 months.
 
-Calculate remaining disposable income. After all deductions, if your monthly disposable income multiplied by 60 is below $9,075 (current threshold as of 2026), there is no presumption of abuse and you pass the means test. If it is above $15,150, the presumption arises. Between those numbers, it depends on whether your disposable income could pay at least 25% of your nonpriority unsecured debts.
+Calculate remaining disposable income. After all deductions, if your monthly disposable income multiplied by 60 is below $10,275 (current threshold as of 2026), there is no presumption of abuse and you pass the means test. If it is above $17,150, the presumption arises. Between those numbers, it depends on whether your disposable income could pay at least 25% of your nonpriority unsecured debts.
 
 Key Deductions That Can Bring You Below the Threshold
 
@@ -537,7 +537,7 @@ Calculator
 
 Related Resources
 
-Section 1192 - Subchapter V - Small business reorganization for businesses with debts under $7.5M
+Section 1192 - Subchapter V - Small business reorganization for businesses with debts of no more than $3,424,000
 
 How to File Bankruptcy - Step-by-step guide to the bankruptcy filing process
 
@@ -834,11 +834,11 @@ Part 4: Total Deductions. Add up all deductions from parts 1 through 3.
 
 Part 5: Determination. Subtract total deductions from your CMI to get monthly disposable income. Multiply by 60 to get the 60-month disposable income figure. Compare this to the thresholds:
 
-Below $9,075 over 60 months (below $151.25/month): You pass. No presumption of abuse.
+Below $10,275 over 60 months (below $171.25/month): You pass. No presumption of abuse.
 
-Between $9,075 and $15,150: You pass only if the amount is less than 25% of your non-priority unsecured debts.
+Between $10,275 and $17,150: You pass only if the amount is less than 25% of your non-priority unsecured debts.
 
-Above $15,150 over 60 months (above $252.50/month): Presumption of abuse arises.
+Above $17,150 over 60 months (above $285.83/month): Presumption of abuse arises.
 
 Part 6: Special Circumstances. If the presumption arises, you can describe special circumstances that justify additional expenses or income adjustments not captured in the standard calculation.
 
@@ -1287,7 +1287,7 @@ Chapter 13 Eligibility Requirements
 
 Regular income - wages, self-employment income, Social Security, pension, or any other regular source
 
-Debt limits - combined secured and unsecured debts must be below $2,750,000 (as of the 2024 adjustment)
+Debt limits - unsecured debts must be below $526,700 and secured debts below $1,580,125 (as of the April 1, 2025 adjustment)
 
 Tax filing - you must have filed all required tax returns for the 4 years before filing
 
@@ -2489,9 +2489,9 @@ The Abuse Thresholds
 
 60-month disposable income below $9,075 (less than $151.25/month) - You pass. No presumption of abuse.
 
-Between $9,075 and $15,150 ($151.25 to $252.50/month) - You pass only if the amount is less than 25% of your non-priority unsecured debts. Otherwise, presumption of abuse arises.
+Between $10,275 and $17,150 ($171.25 to $285.83/month) - You pass only if the amount is less than 25% of your non-priority unsecured debts. Otherwise, presumption of abuse arises.
 
-$15,150 or more ($252.50+/month) - Presumption of abuse. You fail the means test.
+$17,150 or more ($285.83+/month) - Presumption of abuse. You fail the means test.
 
 These thresholds are adjusted periodically. Check the current figures on the most recent version of Form 122A-2 or the U.S. Trustee's website.
 
@@ -3492,7 +3492,7 @@ Chapter 13 Administrative ExpenseThe estimated trustee fee multiplied by your pr
 
 Legal Concepts
 
-Presumption of AbuseUnder 11 U.S.C. 707(b)(2), if you are above median income and your means test shows monthly disposable income (after deductions) x 60 equals $9,075 or more, the court presumes your Chapter 7 filing is abusive. Also arises if the 60-month total is at least $5,475 and would pay 25%+ of nonpriority unsecured claims. If presumption arises, the U.S. Trustee can move to dismiss unless you demonstrate special circumstances.
+Presumption of AbuseUnder 11 U.S.C. 707(b)(2), if you are above median income and your means test shows monthly disposable income (after deductions) x 60 equals $17,150 or more, the court presumes your Chapter 7 filing is abusive. Also arises if the 60-month total is at least $10,275 and would pay 25%+ of nonpriority unsecured claims. If presumption arises, the U.S. Trustee can move to dismiss unless you demonstrate special circumstances.
 
 Special CircumstancesUnder 11 U.S.C. 707(b)(2)(B), a debtor can rebut the presumption of abuse by demonstrating special circumstances that justify additional expenses or adjustments to CMI for which there is no reasonable alternative. Examples: serious medical condition, military service obligations, job loss after the lookback period. Must be documented and the court must find them credible. This is a high bar - not every unusual expense qualifies.
 
